@@ -4,7 +4,7 @@ Xcursor.theme: ArchCursorTheme
 ! ~/.icons/default/index.theme
 ! ~/.config/gtk-3.0/settings.ini
 ! ~/.gtkrc-2.0
-URxvt*font:xft:Fira Mono for Powerline:styel=Regular:size=14
+URxvt*font:xft:FiraCode Nerd Font:style=Regular:size=14
 !URxvt.font: xft:Fantasque Sans Mono:size=15
 URxvt.iso14755: false
 URxvt.iso14755_52: false
