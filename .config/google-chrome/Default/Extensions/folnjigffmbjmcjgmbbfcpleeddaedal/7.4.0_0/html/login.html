@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link href="../skin/jquery-ui-1.9.2.css" media="" rel="stylesheet" type="text/css">
+	<link href="../skin/jquery-ui-logmeonce.css" media="" rel="stylesheet" type="text/css">
+	<link href="../skin/fontawesome-all.min.css" media="" rel="stylesheet" type="text/css">
+	<link href="../skin/ui.css" rel="stylesheet" type="text/css" >
+	<link href="../skin/newtab.css" media="" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="../components/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="../components/jquery-ui-1.9.2.min.js"></script>
+	<script type="text/javascript" src="../components/sjcl.js"></script>
+	<script type="text/javascript" src="../components/ui.js"></script>
+	<script type="text/javascript" src="../components/qr-code-styling.js"></script>
+	<script type="text/javascript" src="login.js"></script>
+</head>
+<body>
+	<div id='wrapper' class='front login'>
+		<div class='login-top'>
+			<div id='logo' class="logo"></div>
+		</div>
+		<div id='verify' class='login-content verify'>
+			<h2 class='translate'>Login</h2>
+			<form>
+				<input type='text' name='username'>
+				<button class='btn btn-block large blue'><span class='translate'>Next</span></button>
+				<div class='login-tools'><a class='recovery translate'>Account recovery</a></div>
+			</form>
+		</div>
+		<div id='identity' class='login-content identity'>
+			<div class='login-identity'>
+				<div class='avatar'></div>
+				<div class='identity'>
+					<i class='far fa-arrow-left back translate' title='Back'></i>
+					<span></span>
+				</div>
+			</div>
+			<div id='login-list' class="login-list">
+				<h3 class="translate">How would you like to login?</h3>
+				<button class="qr login" value="qr"><div><span>QR</span></div></button>
+				<button class="push-login login" value="push-login"><div><span class="translate">Push login</span></div></button>
+				<button class="push-face login" value="push-face"><div><span class="translate">Push face</span></div></button>
+				<button class="push-fingerprint login" value="push-fingerprint"><div><span class="translate">Push fingerprint</span></div></button>
+				<button class="push-pin login" value="push-pin"><div><span>PIN</span></div></button>
+				<button class="password login" value="password"><div><span class="translate">Password</span></div></button>
+			</div>
+			<form id="login-qr" class="login-body qr">
+				<input type='hidden' name='username'>
+				<div id='qr-canvas' class='qr-canvas'>
+					<span><i class='fa fa-spin fa-spinner'></i></span>
+				</div>
+				<div class="captcha">
+					<div><span class="translate">Confirm that you are not a machine</span><a class="ui-icon ui-icon-refresh"></a></div>
+					<img src>
+					<div class="translate">Type all characters shown above</div>
+					<input type='text' name='captcha' style='width: 100%'>
+				</div>
+				<div class="g-recaptcha"></div>
+				<div class='login-tools'><a class='recovery translate'>Account recovery</a></div>
+			</form>
+			<form id="login-push" class="login-body push-login push-face push-fingerprint push-pin">
+				<input type='hidden' name='username'>
+				<div class="captcha">
+					<div><span class="translate">Confirm that you are not a machine</span><a class="ui-icon ui-icon-refresh"></a></div>
+					<img src>
+					<div class="translate">Type all characters shown above</div>
+					<input type='text' name='captcha' style='width: 100%'>
+				</div>
+				<div class="g-recaptcha"></div>
+				<button class="btn btn-block large blue login"><i class="far fa-lock"></i><span class="translate">Login</span></button>
+				<div class='login-tools'>
+					<a class='recovery translate'>Account recovery</a>
+					<a class='cancel translate'>Cancel</a>
+				</div>
+			</form>
+			<form id="login-password" class="login-body password">
+				<input type='hidden' name='username'>
+				<input type='password' name='password' class='credentials'>
+				<div class="captcha">
+					<div><span class="translate">Confirm that you are not a machine</span><a class="ui-icon ui-icon-refresh"></a></div>
+					<img src>
+					<div class="translate">Type all characters shown above</div>
+					<input type='text' name='captcha' style='width: 100%'>
+				</div>
+				<div class="g-recaptcha"></div>
+				<button class="btn btn-block large blue login"><i class="far fa-lock"></i><span class="translate">Login</span></button>
+				<div class='login-tools'><a class='recovery translate'>Account recovery</a></div>
+			</form>
+			<form id="login-mobileconnect" class="login-body mobileconnect">
+				<input type='text' name='phone' class='credentials'>
+				<div class="captcha">
+					<div><span class="translate">Confirm that you are not a machine</span><a class="ui-icon ui-icon-refresh"></a></div>
+					<img src>
+					<div class="translate">Type all characters shown above</div>
+					<input type='text' name='captcha' style='width: 100%'>
+				</div>
+				<div class="g-recaptcha"></div>
+				<button class="btn btn-block large blue login"><i class="far fa-lock"></i><span class="translate">Login</span></button>
+				<div class='login-tools'><a class='recovery translate'>Account recovery</a></div>
+			</form>
+			<div id='login-denied' class='login-body translate'>Authentication denied</div>
+			<div class='mugshot-notice'><b class='translate'>Security notice</b>: <span class='translate'>Mugshot notice</span></div>
+			<div class="mobileconnect mc" style="display: none">
+				<div class="buttons">
+					<button class="btn btn-block large blue"><i class="far fa-lock"></i><span class="translate">Login</span></button>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

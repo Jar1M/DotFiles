@@ -1,0 +1,1 @@
+$(document).on("ui",function(b,a){if($(".password-generator").length>0){return}var c=a.target;$(document).passwordGenerator({target:c,modal:false,view:"small",resize:$.ui.logmeonce.resize,icons:["site-select","autofill-profile","autofill-cards"],generated:function(d){$.ui.logmeonce.message({ui:"target",target:c.ui,name:"pwdgen",args:{password:d,pwdgen:true}})}})});

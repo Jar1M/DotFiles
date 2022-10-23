@@ -1,0 +1,10 @@
+body, div {
+	font:12px/14px Tahoma, Arial, Helvetica, sans-serif;
+	padding: 10px;
+	text-align: center;
+}
+
+.snake {
+	background: url(images/snake.gif) no-repeat center center;
+	height: 32px;	
+}

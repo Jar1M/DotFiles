@@ -1,0 +1,5879 @@
+{
+   "2FA_32_disable": {
+      "message": "关闭两因素身份验证"
+   },
+   "2FA_32_disable_32_at": {
+      "message": "如果您无法使用两因素身份验证登录，可以通过在以下位置回答安全性问题来关闭此功能："
+   },
+   "2FA_32_disable_32_instructions": {
+      "message": "有关如何关闭%COMPANY%的两因素身份验证的说明"
+   },
+   "2FA_32_disable_32_request_32_from_32__37_s": {
+      "message": "我们收到了从IP地址%s关闭两因素身份验证的请求。如果您没有要求，请忽略此电子邮件。"
+   },
+   "2FA_32_is_32_disabled": {
+      "message": "两因素身份验证已关闭。"
+   },
+   "Abandoned_32_retry_32_message": {
+      "message": "您的全新帐户几乎可以使用了。您必须先完成帐户设置，然后才能开始使用%COMPANY%。通过更简单，更安全，更快捷的方式发现更多内容，以在线，移动和亲自保护密码。请记住，%COMPANY%在这里为您提供帮助..."
+   },
+   "About_32_Logmeonce": {
+      "message": "约%COMPANY%"
+   },
+   "About_32__37_s": {
+      "message": "约%s"
+   },
+   "Accept": {
+      "message": "接受"
+   },
+   "Accept_32_link": {
+      "message": "要接受，请将以下链接复制并粘贴到浏览器中："
+   },
+   "Accepted": {
+      "message": "公认"
+   },
+   "Access": {
+      "message": "使用权"
+   },
+   "Access_32_Denied": {
+      "message": "拒绝访问"
+   },
+   "Access_32_granted": {
+      "message": "授予访问权限"
+   },
+   "Access_32_granted_32_to_32__37_s": {
+      "message": "已授予%s的访问权限"
+   },
+   "Access_32_requested": {
+      "message": "要求访问"
+   },
+   "Account": {
+      "message": "帐户"
+   },
+   "Account_32_Locked": {
+      "message": "%COMPANY%帐户已锁定"
+   },
+   "Account_32_Notification": {
+      "message": "帐户通知"
+   },
+   "Account_32_activity_32_info": {
+      "message": "您知道帐户的热门活动时间吗？！您在一天内最多或最少要使用几小时？此报告还可以帮助您检测异常。"
+   },
+   "Account_32_already_32_exists": {
+      "message": "该电子邮件地址已经存在%COMPANY%个帐户。"
+   },
+   "Account_32_not_32_found": {
+      "message": "找不到您的%COMPANY%帐户"
+   },
+   "Account_32_not_32_found_32__37_s_32_to_32_signup": {
+      "message": "该帐户在%COMPANY%中不存在。 %s创建一个新帐户。"
+   },
+   "Account_32_recovery": {
+      "message": "帐户恢复"
+   },
+   "Account_32_recovery_32_description": {
+      "message": "请输入您的%COMPANY%电子邮件地址或用户名，我们将向您发送链接以恢复您的帐户。"
+   },
+   "Account_32_recovery_32_request": {
+      "message": "您的%COMPANY%帐户的恢复请求"
+   },
+   "Account_32_recovery_32_request_32_from_32__37_s_32_with_32__37_s": {
+      "message": "是从%s请求IP地址：%s进行帐户恢复的。如果您没有要求，请忽略此电子邮件。"
+   },
+   "Account_32_recovery_32_token_32_confirmed": {
+      "message": "帐户恢复已确认。请继续使用您的移动设备。"
+   },
+   "Account_32_recovery_32_with_32_button": {
+      "message": "要恢复您的帐户，请单击以下按钮，然后继续使用您的移动设备："
+   },
+   "Account_32_reset": {
+      "message": "账户重置"
+   },
+   "Account_32_setup": {
+      "message": "帐户设定"
+   },
+   "Account_32_summary": {
+      "message": "我的帐户摘要"
+   },
+   "Action": {
+      "message": "行动"
+   },
+   "Action_32_to_32_take": {
+      "message": "采取的行动"
+   },
+   "Actions_32_deployed": {
+      "message": "部署的行动"
+   },
+   "Actions_32_known": {
+      "message": "限制\n已知设备"
+   },
+   "Actions_32_unknown": {
+      "message": "限制\n未知装置"
+   },
+   "Activate_32_account": {
+      "message": "激活你的账号"
+   },
+   "Activate_32_email_32_body": {
+      "message": "通过安全的 Web 门户轻松访问所有应用程序。请单击下面的链接开始激活过程并输入您的密码。有关 %COMPANY% 的帮助和其他信息，请访问："
+   },
+   "Activate_32_new_32_account": {
+      "message": "欢迎使用%COMPANY% - 激活您的新帐户"
+   },
+   "Activation_32_acknowledge_32_for_32__37_s": {
+      "message": "电子邮件地址%s的确认已完成"
+   },
+   "Activation_32_message_32_for_32__37_s": {
+      "message": "您将在%s收到确认电子邮件。如果您在10分钟内没有在收件箱中看到确认电子邮件，请检查您的垃圾邮件文件夹"
+   },
+   "Active": {
+      "message": "积极的"
+   },
+   "Add": {
+      "message": "添加"
+   },
+   "Add_32_Group": {
+      "message": "新增群组"
+   },
+   "Add_32_New_32_Site": {
+      "message": "添加新应用"
+   },
+   "Add_32_Note": {
+      "message": "加注"
+   },
+   "Add_32_SAML_32_Site": {
+      "message": "添加SAML应用"
+   },
+   "Add_32_Site": {
+      "message": "添加应用"
+   },
+   "Add_32_Site_32_Manually": {
+      "message": "手动添加应用"
+   },
+   "Add_32__37_s": {
+      "message": "添加%s"
+   },
+   "Add_32_cloud_32_service": {
+      "message": "为安全驱动器添加云服务"
+   },
+   "Add_32_code_32_manually": {
+      "message": "手动添加代码"
+   },
+   "Add_32_credit_32_card": {
+      "message": "添加信用卡"
+   },
+   "Add_32_credit_32_card_32_header": {
+      "message": "添加您的卡信息"
+   },
+   "Add_32_email": {
+      "message": "新增电子邮件"
+   },
+   "Add_32_family_32_member": {
+      "message": "添加家庭成员"
+   },
+   "Add_32_manually_32_fields_32_step": {
+      "message": "看来您完成了。如果您需要添加更多字段，请单击它们以填充下面的列表。"
+   },
+   "Add_32_manually_32_password_32_step": {
+      "message": "伟大的！现在，让我们找到您的密码。请单击密码字段，然后输入您的密码。"
+   },
+   "Add_32_manually_32_username_32_step": {
+      "message": "该向导将帮助您添加新应用。请单击用户名字段，然后输入您的用户名。"
+   },
+   "Add_32_new": {
+      "message": "添新"
+   },
+   "Add_32_new_32_url": {
+      "message": "添加新网址"
+   },
+   "Add_32_totp_32_code": {
+      "message": "添加双因素代码"
+   },
+   "Address": {
+      "message": "地址"
+   },
+   "Addresses": {
+      "message": "地址,地址"
+   },
+   "Administrators": {
+      "message": "行政人员,管理员"
+   },
+   "Advanced_32_Configuration": {
+      "message": "进阶设定"
+   },
+   "Age": {
+      "message": "年龄"
+   },
+   "Agree_32_to_32_License_32_Terms": {
+      "message": "同意许可条款"
+   },
+   "All_32_Carriers": {
+      "message": "所有承运人"
+   },
+   "All_32_Categories": {
+      "message": "所有类别"
+   },
+   "All_32_Files": {
+      "message": "所有文件"
+   },
+   "All_32_Rights_32_Reserved": {
+      "message": "版权所有"
+   },
+   "All_32_browsers": {
+      "message": "所有浏览器"
+   },
+   "All_32_events": {
+      "message": "所有活动"
+   },
+   "All_32_groups": {
+      "message": "所有团体"
+   },
+   "All_32_users": {
+      "message": "所有用户"
+   },
+   "Allow": {
+      "message": "允许"
+   },
+   "Allow_32_Installation": {
+      "message": "允许安装"
+   },
+   "Allowance_32_credit": {
+      "message": "津贴额度"
+   },
+   "Allowed_32_Range": {
+      "message": "允许范围"
+   },
+   "Already_32_shared_32_with_32__37_s": {
+      "message": "已与%s分享"
+   },
+   "Alternative_32_Email_32_Address": {
+      "message": "备用邮箱地址"
+   },
+   "Alternative_32_Phone_32_Number": {
+      "message": "备用电话号码"
+   },
+   "Always": {
+      "message": "总是"
+   },
+   "And": {
+      "message": "和"
+   },
+   "And_32_many_32_more": {
+      "message": "还有很多"
+   },
+   "Android_32_devices": {
+      "message": "Android设备"
+   },
+   "Answer": {
+      "message": "回答"
+   },
+   "Answer_32_can_39_t_32_contain_32_password": {
+      "message": "您的答案不能包含或匹配您的密码"
+   },
+   "Anti_32_theft": {
+      "message": "防盗"
+   },
+   "Any_32_OS": {
+      "message": "任何操作系统"
+   },
+   "Any_32_case": {
+      "message": "任何情况"
+   },
+   "Any_32_client": {
+      "message": "任何客户"
+   },
+   "Any_32_session": {
+      "message": "任何会议"
+   },
+   "Any_32_time": {
+      "message": "随时"
+   },
+   "Appliance": {
+      "message": "器具"
+   },
+   "Appliance_32_Passwords": {
+      "message": "设备密码"
+   },
+   "Application_32_Passwords": {
+      "message": "应用密码"
+   },
+   "Apply": {
+      "message": "申请"
+   },
+   "Approved": {
+      "message": "得到正式认可的"
+   },
+   "Are_32_you_32_sure_32_you_32_want_32_to_32_leave_32_blank_32_username_63_": {
+      "message": "您确定要保留空白的用户名吗？"
+   },
+   "Assign_32_Sites": {
+      "message": "分配应用"
+   },
+   "Assigned_32_Sites_32_for_32__37_s": {
+      "message": "分配给%s的应用程序"
+   },
+   "At_32_least_32__37_s_32_characters": {
+      "message": "至少%s个字符"
+   },
+   "Audio": {
+      "message": "声音的"
+   },
+   "Authentication": {
+      "message": "验证"
+   },
+   "Authentication_32__37_s_32_denied": {
+      "message": "当前不允许%s。请使用其他身份验证选项或与管理员联系。"
+   },
+   "Authentication_32_denied": {
+      "message": "抱歉，目前不允许登录。请与您的管理员联系。"
+   },
+   "Authy_32_barcode_32_steps": {
+      "message": "在“身份验证”中，点击“菜单”，然后选择“添加帐户”\n点击“扫描QR码”。\n使用手机摄像头扫描该条形码。"
+   },
+   "Authy_32_installation": {
+      "message": "Authy支持Android，IOS以及Mac / Windows / Linux桌面版本。"
+   },
+   "Autofill": {
+      "message": "自动填充"
+   },
+   "Autofill_32_description": {
+      "message": "允许扩展名自动填充您的个人信息，例如个人资料，地址，电话，信用卡等。"
+   },
+   "Autofill_32_mapping": {
+      "message": "自动填充映射"
+   },
+   "Autologout": {
+      "message": "自动登出"
+   },
+   "Back": {
+      "message": "后退"
+   },
+   "Backup_32_and_32_restore": {
+      "message": "安全备份和还原"
+   },
+   "Backup_32_is_32_complete": {
+      "message": "安全备份已成功完成"
+   },
+   "Bank_32_Account": {
+      "message": "银行账户"
+   },
+   "Best": {
+      "message": "最好的"
+   },
+   "Billing": {
+      "message": "开票"
+   },
+   "Billing_32_History": {
+      "message": "帐单记录"
+   },
+   "Birthday": {
+      "message": "生日"
+   },
+   "Birthdays_32__38__32_Social_32_Security": {
+      "message": "生日与社会保障"
+   },
+   "Blue": {
+      "message": "蓝色"
+   },
+   "Blue_32_ocean": {
+      "message": "蓝海"
+   },
+   "Breach": {
+      "message": "违反"
+   },
+   "Breach_32_date": {
+      "message": "违反日期"
+   },
+   "Breaches_32_found": {
+      "message": "发现违规"
+   },
+   "Break_45_in_32_events": {
+      "message": "威胁报告"
+   },
+   "Break_45_in_32_map": {
+      "message": "黑客地理位置"
+   },
+   "Break_45_in_32_report": {
+      "message": "闯入活动"
+   },
+   "Browser": {
+      "message": "浏览器"
+   },
+   "Browser_32_Extension": {
+      "message": "浏览器扩展"
+   },
+   "Browser_32_default_32_language": {
+      "message": "浏览器默认语言"
+   },
+   "Bundle_32_includes": {
+      "message": "组合套餐包括"
+   },
+   "Buy_32__37_s": {
+      "message": "购买%s"
+   },
+   "Buy_32__37_s_32_to_32_use_32_this_32_feature": {
+      "message": "请购买%s以使用此功能。"
+   },
+   "Buy_32_link": {
+      "message": "要购买，请将以下链接复制并粘贴到浏览器中："
+   },
+   "Buy_32_more": {
+      "message": "买多点"
+   },
+   "Buy_32_more_32_credits": {
+      "message": "请购买其他短信/电话积分。"
+   },
+   "Buy_32_mugshot": {
+      "message": "购买面部照片\n年度牌照"
+   },
+   "Buy_32_mugshot_32_banner": {
+      "message": "获取数据！\n在iPhone，iPad，Android，台式机或笔记本电脑等设备上找出谁可能试图闯入您的%s帐户。此外，您还可以检测对Android设备本身的入侵。 %s Mugshot会检测到未经授权的伪造条目，包括指纹，Touch ID，密码和密码！\n\n安全最佳实践要求使用“密码管理器”保护您的密码。购买面部照片。它与LogMeOnce Password Manager无缝集成。\n找出谁，在哪里，何时何地以及如何！"
+   },
+   "Buy_32_without_32_confirmation": {
+      "message": "您确定要继续操作吗？"
+   },
+   "CRC_32_failed": {
+      "message": "CRC失败"
+   },
+   "CSV_32_File": {
+      "message": "CSV文件"
+   },
+   "CSV_32_Import_32_Instructions": {
+      "message": "您可以使用如下所示的CSV文件将现有应用导入到%COMPANY%中。首先，打开CSV文件，我们将基于第1行检测列，如果失败，请调整属性映射。\n必需的属性是：%s。"
+   },
+   "Calendar": {
+      "message": "日历"
+   },
+   "Camera": {
+      "message": "相机"
+   },
+   "Can_39_t_32_login_32_to_32_account_63_": {
+      "message": "无法登录帐户？"
+   },
+   "Cancel": {
+      "message": "取消"
+   },
+   "Cancel_32_confirmation": {
+      "message": "你确定要取消？"
+   },
+   "Cancelled": {
+      "message": "取消"
+   },
+   "Capslock_32_is_32_on": {
+      "message": "大写锁定已打开"
+   },
+   "Captcha_32_is_32_not_32_valid": {
+      "message": "验证码无效"
+   },
+   "Card_32_code": {
+      "message": "安全码"
+   },
+   "Card_32_code_32_tip": {
+      "message": "我们建议不要存储CVC代码。请每次手动输入。"
+   },
+   "Card_32_color": {
+      "message": "卡设计"
+   },
+   "Card_32_date": {
+      "message": "截止日期"
+   },
+   "Card_32_issuer": {
+      "message": "由...发出"
+   },
+   "Card_32_month": {
+      "message": "到期月份"
+   },
+   "Card_32_name": {
+      "message": "持卡人姓名"
+   },
+   "Card_32_number": {
+      "message": "卡号"
+   },
+   "Card_32_type": {
+      "message": "卡的种类"
+   },
+   "Card_32_year": {
+      "message": "到期年份"
+   },
+   "Carrier": {
+      "message": "载体"
+   },
+   "Catalog": {
+      "message": "应用目录"
+   },
+   "Catalog_32_Image": {
+      "message": "目录图片"
+   },
+   "Categories": {
+      "message": "类别,分类目录"
+   },
+   "Category": {
+      "message": "类别"
+   },
+   "Category_32_Books": {
+      "message": "图书"
+   },
+   "Category_32_Business": {
+      "message": "商业"
+   },
+   "Category_32_Database": {
+      "message": "数据库"
+   },
+   "Category_32_Education": {
+      "message": "教育"
+   },
+   "Category_32_Entertainment": {
+      "message": "娱乐"
+   },
+   "Category_32_Finance": {
+      "message": "金融"
+   },
+   "Category_32_Games": {
+      "message": "游戏类"
+   },
+   "Category_32_Health_32__38__32_Fitness": {
+      "message": "健康与健身"
+   },
+   "Category_32_Lifestyle": {
+      "message": "生活方式"
+   },
+   "Category_32_Medical": {
+      "message": "医疗的"
+   },
+   "Category_32_Music": {
+      "message": "音乐"
+   },
+   "Category_32_Navigation": {
+      "message": "导航"
+   },
+   "Category_32_News": {
+      "message": "消息"
+   },
+   "Category_32_Operating_32_System": {
+      "message": "操作系统"
+   },
+   "Category_32_Photo_32__38__32_Video": {
+      "message": "照片和视频"
+   },
+   "Category_32_Productivity": {
+      "message": "生产率"
+   },
+   "Category_32_Reference": {
+      "message": "参考"
+   },
+   "Category_32_Social_32_Networking": {
+      "message": "社交网络"
+   },
+   "Category_32_Sports": {
+      "message": "运动的"
+   },
+   "Category_32_Travel": {
+      "message": "旅行"
+   },
+   "Category_32_Utilities": {
+      "message": "实用工具"
+   },
+   "Category_32_Weather": {
+      "message": "天气"
+   },
+   "Certificate_32_Information": {
+      "message": "证书信息"
+   },
+   "Certificate_32_Purpose_32_description": {
+      "message": "%COMPANY%为所有用户颁发X.509证书。您的证书旨在用于以下目的"
+   },
+   "Change": {
+      "message": "改变"
+   },
+   "Change_32_All_32_Passwords_32_Automatically": {
+      "message": "自动更改所有密码"
+   },
+   "Change_32_Image": {
+      "message": "变更图片"
+   },
+   "Change_32_Password": {
+      "message": "更改密码"
+   },
+   "Change_32_Password_32_Automatically": {
+      "message": "自动更改密码"
+   },
+   "Change_32_Password_32_for_32__37_s_32_on_32__37_s_63_": {
+      "message": "您要%COMPANY%更改%s上%s的密码吗？"
+   },
+   "Change_32_Password_32_on_32__37_s_63_": {
+      "message": "您要%COMPANY%更改%s上的密码吗？"
+   },
+   "Change_32_Picture": {
+      "message": "更换图片"
+   },
+   "Change_32_Site_32_Image_32_description": {
+      "message": "%COMPANY%已经收集了超过一百万张图像供您选择。这些图像与我们的应用程序目录直接相关。\n%COMPANY%创建了一个有趣且简单的图像引擎，因此您可以导入，编辑和自定义要与所需应用程序一起使用的任何图像。"
+   },
+   "Change_32__37_s_32_Passwords_32_Automatically": {
+      "message": "自动更改%s密码,自动更改%s密码"
+   },
+   "Change_32_password_32_link": {
+      "message": "要更改密码，请将以下链接复制并粘贴到浏览器中："
+   },
+   "Change_32_passwords_32_often": {
+      "message": "经常更改密码。这是一个好习惯！"
+   },
+   "Change_32_to_32_Cloud_32_Mode": {
+      "message": "更改为云模式"
+   },
+   "Change_32_to_32_Desktop_32_Mode": {
+      "message": "更改为桌面模式"
+   },
+   "Change_32_username": {
+      "message": "变更使用者名称"
+   },
+   "Change_32_username_32_description": {
+      "message": "用户名是您的主要%s电子邮件地址。当您登录%s或我们向您发送任何电子邮件通知时使用"
+   },
+   "Change_32_username_32_message": {
+      "message": "您要求更改您的主要电子邮件地址"
+   },
+   "Changed": {
+      "message": "已变更"
+   },
+   "Changed_32__37_s_32_passwords_32_successfully": {
+      "message": "成功更改%s密码,成功更改了%s个密码"
+   },
+   "Changes_32_saved": {
+      "message": "修改已经保存"
+   },
+   "Changing_32_password": {
+      "message": "修改密码"
+   },
+   "Charges": {
+      "message": "收费标准"
+   },
+   "Chart": {
+      "message": "图表"
+   },
+   "Chart_32_account_32_activity": {
+      "message": "帐户活动\n您最常在一天中的什么时间使用帐户？"
+   },
+   "Chart_32_daily_32_upgrade": {
+      "message": "安全摘要\n您了解您的安全状态吗？\n查看详细报告，检测异常并快速提高安全性能。\n升级到专业版以查看实时数据。"
+   },
+   "Chart_32_device_32_activity": {
+      "message": "设备活动\n您使用最多的设备是？"
+   },
+   "Chart_32_groups": {
+      "message": "团体使用\n您最常使用哪种类型的应用程序？"
+   },
+   "Chart_32_top_32_browsers": {
+      "message": "浏览器使用情况\n您最常使用哪种网络浏览器？"
+   },
+   "Chart_32_top_32_ip": {
+      "message": "IP地址\n您最多登录哪个位置？"
+   },
+   "Chart_32_top_32_sites": {
+      "message": "应用使用情况\n您最多登录哪个网站？"
+   },
+   "Chart_32_upgrade": {
+      "message": "您的热门活动是什么？你什么时候做的？查看详细报告，检测异常并快速提高安全性能：\n升级到Ultimate Edition，以查看您的实时数据。"
+   },
+   "Charts": {
+      "message": "生产率"
+   },
+   "Charts_32_productivity": {
+      "message": "生产率图表"
+   },
+   "Charts_32_security": {
+      "message": "安全图"
+   },
+   "Chat": {
+      "message": "聊天"
+   },
+   "Chat_32_with_32_support": {
+      "message": "与支持聊天"
+   },
+   "Check_32_New_32_Notifications": {
+      "message": "查看新通知"
+   },
+   "Check_32_email_32_and_32_trust": {
+      "message": "请检查您的电子邮件以批准并信任您的设备和位置。"
+   },
+   "Check_32_mobile_32_device": {
+      "message": "检查您的移动设备"
+   },
+   "Check_32_passphrase": {
+      "message": "请检查您的密码。"
+   },
+   "Check_32_your_32_email": {
+      "message": "查看你的电子邮件"
+   },
+   "Check_32_your_32_phone": {
+      "message": "检查你的手机"
+   },
+   "Checking_32_for_32_updates": {
+      "message": "查询更新"
+   },
+   "Checklist": {
+      "message": "检查清单"
+   },
+   "Checklist_32_get_32_started": {
+      "message": "开始使用入职清单"
+   },
+   "Checklist_32_header": {
+      "message": "欢迎来到%COMPANY%"
+   },
+   "Children": {
+      "message": "孩子们"
+   },
+   "Choose_32_cloud_32_service": {
+      "message": "选择云存储服务"
+   },
+   "Choose_32_file": {
+      "message": "选择一个文件"
+   },
+   "Choose_32_one_32_option": {
+      "message": "请选择一个选项"
+   },
+   "Choose_32_product": {
+      "message": "选择最适合您需求的产品"
+   },
+   "Chrome_32_Installation_32_Step_32_1": {
+      "message": "请单击“添加”以接受扩展安装。这将开始下载扩展文件"
+   },
+   "Chrome_32_Installation_32_Step_32_2": {
+      "message": "安装扩展程序后，您将看到通知窗口。请再等待几秒钟-您将自动移至第二步"
+   },
+   "City": {
+      "message": "城市"
+   },
+   "Clear": {
+      "message": "清除"
+   },
+   "Clear_32_All": {
+      "message": "全部清除"
+   },
+   "Click_32__37_s": {
+      "message": "点击%s"
+   },
+   "Click_32_below_32_feature": {
+      "message": "点击下面启动功能"
+   },
+   "Click_32_here": {
+      "message": "点击这里"
+   },
+   "Click_32_here_32_if_32_you_32_can_39_t_32_scan_32_barcode": {
+      "message": "如果无法扫描条形码，请单击此处"
+   },
+   "Click_32_here_32_to_32_add_32_device": {
+      "message": "如果要添加新设备，请单击此处"
+   },
+   "Click_32_here_32_to_32_verify_32_and_32_scan_32_darkweb": {
+      "message": "单击此处以验证和扫描暗网"
+   },
+   "Click_32_to_32_accept": {
+      "message": "点击接受"
+   },
+   "Click_32_to_32_buy": {
+      "message": "点击购买"
+   },
+   "Click_32_to_32_continue": {
+      "message": "点击继续"
+   },
+   "Click_32_to_32_delete": {
+      "message": "点击删除"
+   },
+   "Click_32_to_32_disable": {
+      "message": "点击禁用"
+   },
+   "Click_32_to_32_download": {
+      "message": "点击下载"
+   },
+   "Click_32_to_32_edit": {
+      "message": "点击编辑"
+   },
+   "Click_32_to_32_enable": {
+      "message": "点击启用"
+   },
+   "Click_32_to_32_hide": {
+      "message": "点击隐藏"
+   },
+   "Click_32_to_32_import": {
+      "message": "点击导入"
+   },
+   "Click_32_to_32_install_32__37_s": {
+      "message": "点击此处安装%s"
+   },
+   "Click_32_to_32_login": {
+      "message": "点击登录"
+   },
+   "Click_32_to_32_open": {
+      "message": "点击打开"
+   },
+   "Click_32_to_32_read": {
+      "message": "点击阅读"
+   },
+   "Click_32_to_32_remove": {
+      "message": "点击删除"
+   },
+   "Click_32_to_32_search": {
+      "message": "点击搜索"
+   },
+   "Click_32_to_32_show": {
+      "message": "点击显示"
+   },
+   "Click_32_to_32_show_32_details": {
+      "message": "单击以显示详细信息"
+   },
+   "Click_32_to_32_update_32__37_s": {
+      "message": "点击此处更新%s"
+   },
+   "Click_32_to_32_upgrade": {
+      "message": "点击升级"
+   },
+   "Client": {
+      "message": "客户"
+   },
+   "Clipperz_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入%COMPANY%之前，必须先从Clipperz导出用户名/密码。\n\n要从Clipperz导出，请登录到https://clipperz.is，然后单击菜单->数据->导出，然后下载HTML + JSON文件。"
+   },
+   "Close": {
+      "message": "关闭"
+   },
+   "Closing_32_in_32__37_s": {
+      "message": "正在%s关闭"
+   },
+   "Cloud_32_Mode": {
+      "message": "将密码存储在安全的云中"
+   },
+   "Cloud_32_Mode_32_description": {
+      "message": "您的所有用户名和密码都首先在计算机上使用军用级AES-256加密，然后传输到%COMPANY%安全云服务。对于需要从多个位置（家庭，办公室，酒店等）和多个设备（PC，Mac，iPhone，iPad，Android）访问其凭据的个人来说，这是理想的选择。从世界任何地方轻松访问。"
+   },
+   "Cloud_32_services": {
+      "message": "云端服务"
+   },
+   "Cloud_32_services_32_description": {
+      "message": "Cloud Encrypter会在您最喜欢的云存储平台（例如Dropbox，Google Drive，OneDrive）中对文件和照片进行加密。 %COMPANY%使用AES 256加密使用您自己的密钥自动对其进行加密。"
+   },
+   "Code": {
+      "message": "代码"
+   },
+   "Code_32_to_32_complete_32_request": {
+      "message": "完成此请求的验证码是"
+   },
+   "Code_32_will_32_expire_32_in_32__37_s": {
+      "message": "该代码将在%s中过期"
+   },
+   "Color": {
+      "message": "颜色"
+   },
+   "Command_32_camera": {
+      "message": "禁用相机"
+   },
+   "Command_32_camera_32_info": {
+      "message": "禁止使用所有设备的相机。"
+   },
+   "Command_32_lock_45_password": {
+      "message": "密码锁屏"
+   },
+   "Command_32_lock_45_password_32_info": {
+      "message": "您当前的锁定屏幕将替换为密码或PIN锁定。"
+   },
+   "Command_32_lock_45_reset": {
+      "message": "删除锁屏"
+   },
+   "Command_32_lock_45_reset_32_info": {
+      "message": "锁定屏幕设置将被删除。它将更改回无。"
+   },
+   "Command_32_lock_45_screen": {
+      "message": "锁屏"
+   },
+   "Command_32_message": {
+      "message": "信息"
+   },
+   "Command_32_message_32_info": {
+      "message": "输入您自己的消息，然后将其发送到您的设备。它将显示为通知。"
+   },
+   "Command_32_sound": {
+      "message": "戒指"
+   },
+   "Command_32_sound_32_info": {
+      "message": "您的设备将以最大音量响铃1分钟。按下电源按钮停止响铃。"
+   },
+   "Command_32_wipe": {
+      "message": "擦拭设备"
+   },
+   "Command_32_wipe_32_info": {
+      "message": "这会在您的设备上执行出厂重置。您的应用程序，照片，音乐和设置将被删除。擦拭设备后，设备管理将不再起作用。此重置是永久性的。我们可能无法擦除您设备中SD卡的内容。"
+   },
+   "Command_32_wipe_45_business": {
+      "message": "杀药（擦拭%COMPANY%个业务）"
+   },
+   "Command_32_wipe_45_business_32_info": {
+      "message": "擦除%COMPANY%应用程序的业务设置。"
+   },
+   "Command_32_wipe_45_personal": {
+      "message": "杀人药（个人擦拭%COMPANY%个人）"
+   },
+   "Command_32_wipe_45_personal_32_info": {
+      "message": "擦除%COMPANY%应用程序的个人设置。"
+   },
+   "Commands": {
+      "message": "命令,指令"
+   },
+   "Comment": {
+      "message": "评论"
+   },
+   "Comming_32_soon": {
+      "message": "即将推出"
+   },
+   "Companies": {
+      "message": "公司,公司介绍"
+   },
+   "Company_32_Logo": {
+      "message": "公司标志"
+   },
+   "Company_32_Name": {
+      "message": "公司名称"
+   },
+   "Complete_32_your_32_setup": {
+      "message": "完成您的帐户设置"
+   },
+   "Completed": {
+      "message": "完全的"
+   },
+   "Completed_32_successfully": {
+      "message": "成功完成"
+   },
+   "Compromised_32_website": {
+      "message": "遭到破坏的网站"
+   },
+   "Computer_32_Name": {
+      "message": "电脑名称"
+   },
+   "Confirm_32_Email_32_Address": {
+      "message": "确认电邮地址"
+   },
+   "Confirm_32_Installation": {
+      "message": "确认安装"
+   },
+   "Confirm_32_account_32__37_s": {
+      "message": "您已输入%s作为%COMPANY%的主要联系人。我们需要验证它是否属于您。"
+   },
+   "Confirm_32_email": {
+      "message": "请确认您的电邮地址"
+   },
+   "Confirm_32_that_32_you_32_are_32_not_32_a_32_machine": {
+      "message": "请确认您不是机器"
+   },
+   "Confirm_32_with_32_link": {
+      "message": "要确认，请将以下链接复制并粘贴到浏览器中："
+   },
+   "Confirmation": {
+      "message": "确认"
+   },
+   "Connect": {
+      "message": "连接"
+   },
+   "Connect_32_to_32__37_s": {
+      "message": "连接到%s"
+   },
+   "Connected_32_cloud_32_services": {
+      "message": "互联云服务"
+   },
+   "Contact_32_Information": {
+      "message": "联系信息"
+   },
+   "Contact_32_Us": {
+      "message": "联系我们"
+   },
+   "Contact_32_your_32_administrator": {
+      "message": "请与您的管理员联系"
+   },
+   "Contacting_32_with_32_device": {
+      "message": "我们现在正在与您的设备联系"
+   },
+   "Continue": {
+      "message": "继续"
+   },
+   "Continue_32_Confirmation": {
+      "message": "你确定你要继续吗？"
+   },
+   "Continue_32_to_32_your_32_account": {
+      "message": "继续使用您的%COMPANY%帐户"
+   },
+   "Conventional_32_method": {
+      "message": "常规方法"
+   },
+   "Copied": {
+      "message": "复制的"
+   },
+   "Copy": {
+      "message": "复制"
+   },
+   "Copy_32_to_32_Clipboard": {
+      "message": "复制到剪贴板"
+   },
+   "Couldn_39_t_32_find_32_the_32_App_32_you_32_were_32_looking_32_for_63_": {
+      "message": "找不到您想要的应用程序？"
+   },
+   "Country": {
+      "message": "国家"
+   },
+   "Create": {
+      "message": "创造"
+   },
+   "Create_32_Note": {
+      "message": "创建新笔记"
+   },
+   "Create_32_Password": {
+      "message": "创建密码"
+   },
+   "Create_32_account": {
+      "message": "创建帐号"
+   },
+   "Create_32_backup": {
+      "message": "创建新的安全备份"
+   },
+   "Create_32_emergency": {
+      "message": "添加紧急联系人"
+   },
+   "Create_32_your_32_account": {
+      "message": "创建%COMPANY%帐户"
+   },
+   "Created": {
+      "message": "已建立"
+   },
+   "Created_32__37_s_32_using_32__37_s": {
+      "message": "使用%s创建了%s"
+   },
+   "Created_32_date": {
+      "message": "创建日期"
+   },
+   "Creation_32_Date": {
+      "message": "创立日期"
+   },
+   "Credentials": {
+      "message": "证书"
+   },
+   "Credit_32_card_32_has_32_been_32_successfully_32_added_46_": {
+      "message": "已添加信用卡"
+   },
+   "Credit_32_cards": {
+      "message": "信用卡,信用卡"
+   },
+   "Credits": {
+      "message": "信用,学分"
+   },
+   "Current_32_Password": {
+      "message": "当前密码"
+   },
+   "Current_32_Range": {
+      "message": "电流范围"
+   },
+   "Current_32_device": {
+      "message": "当前设备"
+   },
+   "Custom": {
+      "message": "风俗"
+   },
+   "Custom_32_Image": {
+      "message": "自订图片"
+   },
+   "Custom_32_range": {
+      "message": "自订范围"
+   },
+   "Daily": {
+      "message": "日常"
+   },
+   "Daily_32_journal_32_2fa": {
+      "message": "两要素身份验证（2FA）\n每天使用2FA登录到您的%COMPANY%密码管理器帐户。"
+   },
+   "Daily_32_journal_32_average": {
+      "message": "平均密码\n平均密码强度（介于60％-80％之间）的应用总数。"
+   },
+   "Daily_32_journal_32_login": {
+      "message": "成功登录\n成功登录您的应用和%COMPANY%的总数。"
+   },
+   "Daily_32_journal_32_login_32_failed": {
+      "message": "登录失败\n登录到您的%COMPANY%帐户的失败登录总数（由您或他人）。"
+   },
+   "Daily_32_journal_32_old": {
+      "message": "过期密码\n具有旧密码重设历史记录（上次密码重设超过90天）的应用总数。"
+   },
+   "Daily_32_journal_32_saved": {
+      "message": "%COMPANY%保存\n%COMPANY%通过使用%COMPANY%自动登录为您节省的总分钟数"
+   },
+   "Daily_32_journal_32_sso": {
+      "message": "自动登录（SSO）\n每天自动登录到您的应用程序的总数。"
+   },
+   "Daily_32_journal_32_strong": {
+      "message": "强密码\n具有强密码强度（超过80％）的应用总数。"
+   },
+   "Daily_32_journal_32_unprotected": {
+      "message": "未受保护的登录警告\n不使用%COMPANY%安全性的情况下每天不安全登录应用程序的总数。"
+   },
+   "Daily_32_journal_32_weak": {
+      "message": "密码不足\n密码强度弱（小于60％）的应用总数。"
+   },
+   "Daily_32_login_32_chat_32_header": {
+      "message": "安全摘要\n关于您的安全性的见解"
+   },
+   "Daily_32_usage_32_is_32__37_s": {
+      "message": "每日使用量为%s"
+   },
+   "Dark_32_web_32_alert": {
+      "message": "暗网警报"
+   },
+   "Dark_32_web_32_alert_32_message": {
+      "message": "我们的黑网监控中心刚刚发现与此电子邮件地址%s相关的新的或经过修改的违规行为。"
+   },
+   "Dark_32_web_32_scan_32_request": {
+      "message": "您只是要求扫描暗网中的该电子邮件地址。您可以获取一个摘要，也可以启用Dark Web Monitoring，该工具将自动通知您是否在以后的数据泄露中找到您的地址。如果您没有要求，请忽略此电子邮件。\n我们必须首先验证此电子邮件地址是否属于您："
+   },
+   "Darkweb_32_alert_32_risks_32__37_s": {
+      "message": "此外，我们还检测到您的%s个应用处于高风险状态。您应该立即更改这些密码。继续“显示详细信息”以采取行动。"
+   },
+   "Darkweb_32_monitoring": {
+      "message": "暗网监控"
+   },
+   "Darkweb_32_protect_32_suggestions": {
+      "message": "如何保护自己？\n-使用%COMPANY%密码少选项，您将不需要记住任何主密码。\n-对于您的所有网站帐户，请使用%COMPANY%生成不会泄露的强密码。\n-在支持的网站上启用两因素身份验证。\n-使用%COMPANY%反黑客解决方案来保护自己免受未经授权的访问和其他保护。\n-使24x7全天候Dark Web Monitoring能够了解重要的违规行为以及何时由于网站违规而更改密码。"
+   },
+   "Darkweb_32_scan_32_results": {
+      "message": "暗网扫描摘要"
+   },
+   "Darkweb_32_summary": {
+      "message": "请注意您的电子邮件地址的最新暗网扫描摘要，以及可能因一个或多个数据泄露而受到破坏的Web帐户列表。"
+   },
+   "Darkweb_32_testimonial": {
+      "message": "%COMPANY%深色网络扫描功能强大，功能最全面，并具有多个内部数据集。我们全面的深色Web引擎中还包含%s之类的外部源和其他外部数据源。"
+   },
+   "Dashboard_32_empty_32_page": {
+      "message": "添加新的登录名并将安全的密码保存到您的网络帐户很容易。 %COMPANY%使用AES 256加密在您的本地系统中自动将其全部加密。"
+   },
+   "Dashlane_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入%COMPANY%之前，必须首先从Dashlane导出用户名/密码。\n\n打开Dashlane软件，然后单击JSON或CSV格式的File-> Export-> Unsecured archive（可读）。"
+   },
+   "Data_32_format": {
+      "message": "数据格式"
+   },
+   "Database": {
+      "message": "数据库"
+   },
+   "Date": {
+      "message": "日期"
+   },
+   "Datetime": {
+      "message": "约会时间"
+   },
+   "Decline_32_access": {
+      "message": "拒绝访问"
+   },
+   "Decryption_32_failed": {
+      "message": "解密失败。"
+   },
+   "Default": {
+      "message": "默认"
+   },
+   "Default_32_site_32_group_32_is": {
+      "message": "新应用程序的默认组是"
+   },
+   "Delete": {
+      "message": "删除"
+   },
+   "Delete_32_Confirmation": {
+      "message": "你确定你要删除？"
+   },
+   "Delete_32_account": {
+      "message": "删除帐户"
+   },
+   "Delete_32_account_32_annoying": {
+      "message": "有时它很烦人"
+   },
+   "Delete_32_account_32_description": {
+      "message": "我们将立即删除您的所有应用，笔记，共享，面部照片以及与您的帐户相关的所有其他数据。"
+   },
+   "Delete_32_account_32_feedback": {
+      "message": "请花一点时间向我们解释您不喜欢的内容。您的反馈可以帮助我们解决您遇到的问题，或者继续为我们的用户社区提供更好的服务"
+   },
+   "Delete_32_account_32_forgot_32_password": {
+      "message": "我忘记了我的主密码"
+   },
+   "Delete_32_account_32_issues": {
+      "message": "技术问题"
+   },
+   "Delete_32_account_32_message": {
+      "message": "您要求删除帐户及其所有数据"
+   },
+   "Delete_32_account_32_missing_32_feature": {
+      "message": "缺少我想要的功能"
+   },
+   "Delete_32_account_32_no_32_need": {
+      "message": "我不需要密码管理员"
+   },
+   "Delete_32_account_32_not_32_easy": {
+      "message": "它不容易使用"
+   },
+   "Delete_32_account_32_other": {
+      "message": "其他"
+   },
+   "Delete_32_account_32_resetting": {
+      "message": "重设我的帐户以重新开始"
+   },
+   "Delete_32_account_32_security_32_concern": {
+      "message": "我担心密码的安全性"
+   },
+   "Deleted": {
+      "message": "已删除"
+   },
+   "Demo_32_chart": {
+      "message": "演示图"
+   },
+   "Demo_32_chart_32_description": {
+      "message": "注册后，演示数据（黑色）显示两周"
+   },
+   "Demo_32_chart_32_upgrade": {
+      "message": "升级到专业版或旗舰版以查看您自己的图表"
+   },
+   "Description": {
+      "message": "描述"
+   },
+   "Description_32_for_32__37_s": {
+      "message": "%s的说明"
+   },
+   "Desktop_32_Mode": {
+      "message": "仅将密码存储在本地计算机中"
+   },
+   "Desktop_32_Mode_32_description": {
+      "message": "关注云存储？如果您希望密码随身携带，而不是放在云服务上，那么此选项适合您。您可以将用户名和密码存储在自己的计算机上。您的数据仅在您的计算机中保持加密状态，而不会存储在我们的云服务中。请记住，您只能在计算机上使用数据。"
+   },
+   "Desktop_32_Mode_32_header": {
+      "message": "将密码保存在云或桌面上"
+   },
+   "Desktop_32_Mode_32_is_32_not_32_available": {
+      "message": "很抱歉，此计算机上无法使用桌面模式"
+   },
+   "Desktop_32_mode_32_error_32__45__32_file_32_corrupted": {
+      "message": "%COMPANY%无法加载分机。\n您的%COMPANY%桌面数据已损坏"
+   },
+   "Desktop_32_mode_32_error_32__45__32_file_32_not_32_found": {
+      "message": "%COMPANY%无法加载分机。\n您的%COMPANY%桌面数据不存在于此计算机上"
+   },
+   "Desktop_32_mode_32_error_32__45__32_unable_32_to_32_read": {
+      "message": "%COMPANY%无法加载分机。 %COMPANY%插件需要安装或已被禁用"
+   },
+   "Details": {
+      "message": "细节"
+   },
+   "Details_32_view": {
+      "message": "详细资料检视"
+   },
+   "Detected_32_mugshot": {
+      "message": "检测到面部照片"
+   },
+   "Detecting_32__37_s_32_extension": {
+      "message": "正在检测%s浏览器扩展，请稍候"
+   },
+   "Detecting_32_security_32_key": {
+      "message": "检测安全密钥"
+   },
+   "Device": {
+      "message": "设备"
+   },
+   "Device_32_Unlock_32_Failed": {
+      "message": "访问失败"
+   },
+   "Device_32_detected_32_as_32__37_s": {
+      "message": "您的设备被检测为%s"
+   },
+   "Device_32_is_32_valid_32_for_32_different_32_user": {
+      "message": "设备对其他用户有效"
+   },
+   "Device_32_manager": {
+      "message": "装置经理"
+   },
+   "Device_32_map": {
+      "message": "设备图"
+   },
+   "Device_32_not_32_found": {
+      "message": "找不到设备"
+   },
+   "Device_32_pair_32_instructions": {
+      "message": "下载%COMPANY%移动应用后"
+   },
+   "Device_32_pair_32_instructions_32_steps": {
+      "message": "继续自拍\n允许权限\n选择一种帐户类型，然后输入您的电子邮件地址%s\n点击继续"
+   },
+   "Device_32_paired": {
+      "message": "您的设备已成功配对"
+   },
+   "Device_32_pairing": {
+      "message": "行动装置配对"
+   },
+   "Devices_32_activity_32_info": {
+      "message": "您知道最常使用哪些设备吗？而且，一天要花多长时间？此报告显示您所有已配对和已认证的设备。此报告还可以帮助您检测异常。"
+   },
+   "Didn_39_t_32_receive_32_one_32_time_32_password_63_": {
+      "message": "没收到一次密码吗？"
+   },
+   "Disable": {
+      "message": "禁用"
+   },
+   "Disable_32_2FA": {
+      "message": "关闭两因素身份验证"
+   },
+   "Disable_32_Confirmation": {
+      "message": "您确定要禁用吗？"
+   },
+   "Disable_32_all_32_confirmation": {
+      "message": "您确定要全部禁用吗？"
+   },
+   "Disabled": {
+      "message": "残障人士"
+   },
+   "Dislike_32_it": {
+      "message": "不喜欢"
+   },
+   "Display_32_dock": {
+      "message": "显示生产力码头"
+   },
+   "Display_32_vault": {
+      "message": "显示库动画"
+   },
+   "Distance": {
+      "message": "距离"
+   },
+   "Do_32_not_32_allow": {
+      "message": "不允许"
+   },
+   "Do_32_not_32_fill": {
+      "message": "不填"
+   },
+   "Do_32_not_32_login": {
+      "message": "不登入"
+   },
+   "Do_32_you_32_want_32_to_32_create_32_new_32_account_63_": {
+      "message": "您要创建一个新帐户吗？"
+   },
+   "Doing_32_confirmation": {
+      "message": "你确定要这么做吗？"
+   },
+   "Domain": {
+      "message": "领域"
+   },
+   "Domain_32_Name": {
+      "message": "域名"
+   },
+   "Don_39_t_32_Accept": {
+      "message": "不接受"
+   },
+   "Don_39_t_32_have_32_account_63_": {
+      "message": "还没有帐号？"
+   },
+   "Don_39_t_32_risk_32_your_32_security": {
+      "message": "不要冒着您的安全风险"
+   },
+   "Dont_32_want_32_to_32_install_32_now_63_": {
+      "message": "你现在不想安装？"
+   },
+   "Download": {
+      "message": "下载"
+   },
+   "Download_32_File": {
+      "message": "下载文件"
+   },
+   "Download_32__37_s": {
+      "message": "下载%s"
+   },
+   "Download_32__37_s_32_for_32__37_s": {
+      "message": "下载%s的%s"
+   },
+   "Download_32_mobile_32_app": {
+      "message": "下载手机应用程序"
+   },
+   "Download_32_mobile_32_app_32_from_58_": {
+      "message": "%COMPANY%是少密码和更智能的身份管理。从以下位置下载应用程序："
+   },
+   "Download_32_tools": {
+      "message": "下载工具"
+   },
+   "Downloading": {
+      "message": "正在下载"
+   },
+   "Driving_32_License": {
+      "message": "驾驶执照"
+   },
+   "Duration": {
+      "message": "期间"
+   },
+   "Earned_32__37__32_certification": {
+      "message": "%COMPANY% 已获得 %s 认证。"
+   },
+   "Edit": {
+      "message": "编辑"
+   },
+   "Edit_32_credit_32_card_32_header": {
+      "message": "编辑您的卡信息"
+   },
+   "Edit_32_group": {
+      "message": "编辑组"
+   },
+   "Editing_32_site": {
+      "message": "编辑申请"
+   },
+   "Email_32_Address": {
+      "message": "电子邮件地址"
+   },
+   "Email_32_Message": {
+      "message": "电邮讯息"
+   },
+   "Email_32_Signature": {
+      "message": "感谢您使用%COMPANY%\n%COMPANY%技术支持团队"
+   },
+   "Email_32_authentication": {
+      "message": "电子邮件身份验证"
+   },
+   "Email_32_not_32_found": {
+      "message": "找不到电子邮件地址。"
+   },
+   "Email_32_sent_32_again": {
+      "message": "电子邮件已再次发送。请检查您的邮箱。"
+   },
+   "Emergency_32_access": {
+      "message": "紧急通道"
+   },
+   "Emergency_32_access_32_for": {
+      "message": "的紧急通道"
+   },
+   "Emergency_32_contacts": {
+      "message": "紧急联系人,紧急联络人"
+   },
+   "Emergency_32_declined": {
+      "message": "您帐户的紧急访问权限已被拒绝"
+   },
+   "Emergency_32_declined_32_for_32__37_s": {
+      "message": "%s的紧急访问权限已被拒绝"
+   },
+   "Emergency_32_empty_32_page": {
+      "message": "您可以分配紧急联系人（受益人）或为多个人提供继承人访问权限。计划不可预见的紧急情况并保护您的数字资产非常容易。"
+   },
+   "Emergency_32_requested": {
+      "message": "已要求您的帐户具有紧急访问权限"
+   },
+   "Emergency_32_requested_32_for_32__37_s": {
+      "message": "已请求%s的紧急访问权限"
+   },
+   "Emergency_32_site_32_template": {
+      "message": "你好，\n\n我想为您提供访问我的一个在线应用程序的权限。万一发生不可预见的紧急情况，我希望您成为该应用程序的受益者。\n\n我保留了%COMPANY%的服务，这是一家专门从事“身份和密码管理”的安全软件公司。"
+   },
+   "Emergency_32_sites": {
+      "message": "受信任的应用"
+   },
+   "Emergency_32_template": {
+      "message": "你好，\n\n我很好，一切都很好！\n\n我正在保护我的数字资产，我想指定您为我的受益人（继承人）。这意味着，在紧急情况下，您将可以访问我的安全凭证和在线帐户。\n\n我保留了%COMPANY%的服务，这是一家专门从事身份和密码管理的安全软件公司。通过此服务可以访问我的所有帐户，从而使我的数字资产的管理变得尽可能容易。\n\n请确认我的请求，然后我将通知%COMPANY%。"
+   },
+   "Empty": {
+      "message": "空的"
+   },
+   "Empty_32_trash": {
+      "message": "清空垃圾桶"
+   },
+   "Enable": {
+      "message": "使能够"
+   },
+   "Enable_32_Add_45_on": {
+      "message": "启用加载项"
+   },
+   "Enable_32_SLO_32_for_32_all": {
+      "message": "添加新应用时，请启用“单一注销”"
+   },
+   "Enable_32_SSO_32_for_32_all": {
+      "message": "添加新应用时，启用单点登录"
+   },
+   "Enable_32_all_32_confirmation": {
+      "message": "您确定要全部启用吗？"
+   },
+   "Enable_32_autofill": {
+      "message": "启用个人信息自动填充"
+   },
+   "Enable_32_certificate_32_authentication": {
+      "message": "启用X.509证书身份验证"
+   },
+   "Enable_32_device_32_for_32_push_32_tfa": {
+      "message": "为您的移动设备启用Selfie-2FA"
+   },
+   "Enable_32_input_32_mark": {
+      "message": "用橙色突出显示填充的字段"
+   },
+   "Enabled": {
+      "message": "已启用"
+   },
+   "Enabled_32_for_32__37_s_32_of_32__37_s_32_sites": {
+      "message": "已为%s个应用程序中的%s个启用"
+   },
+   "Encourage_32_Message": {
+      "message": "让%COMPANY%保护此应用的密码和用户名。下次，您可以单点登录，并享受更高的安全性"
+   },
+   "Encrypted": {
+      "message": "加密的"
+   },
+   "Encryption_32_failed": {
+      "message": "加密失败"
+   },
+   "Enforce_32_new_32_password": {
+      "message": "强制执行密码记录"
+   },
+   "Enforce_32_new_32_password_32_description": {
+      "message": "此设置确定在可以重复使用旧密码之前必须与用户帐户关联的唯一新密码的数量。"
+   },
+   "Enforce_32_new_32_password_32_notification": {
+      "message": "请选择一个您以前从未使用过的密码"
+   },
+   "Enjoy_32__37_s": {
+      "message": "享受%s"
+   },
+   "Enter_32_Address": {
+      "message": "输入地址"
+   },
+   "Enter_32_Birthdate": {
+      "message": "输入出生日期"
+   },
+   "Enter_32_City": {
+      "message": "输入城市"
+   },
+   "Enter_32_Company_32_Name": {
+      "message": "输入公司名称"
+   },
+   "Enter_32_Country": {
+      "message": "输入国家"
+   },
+   "Enter_32_Email": {
+      "message": "请输入电邮地址"
+   },
+   "Enter_32_First_32_Name": {
+      "message": "输入名字"
+   },
+   "Enter_32_Last_32_Name": {
+      "message": "输入姓氏"
+   },
+   "Enter_32_OTP_32_generated_32_by_32__37_s": {
+      "message": "请输入%s生成的一次性密码"
+   },
+   "Enter_32_OTP_32_sent_32_to_32_you_32_at_32__37_s": {
+      "message": "请输入通过%s发送给您的一次性密码"
+   },
+   "Enter_32_Password": {
+      "message": "输入密码"
+   },
+   "Enter_32_Phone_32_Number": {
+      "message": "输入电话号码"
+   },
+   "Enter_32_Verification_32_Code": {
+      "message": "输入验证码"
+   },
+   "Enter_32_Zip_32_Code": {
+      "message": "输入邮递区号"
+   },
+   "Enter_32__37_s": {
+      "message": "输入%s"
+   },
+   "Enter_32__37_s_32_password": {
+      "message": "输入您的%s密码"
+   },
+   "Enter_32__37_s_32_username": {
+      "message": "输入您的%s用户名"
+   },
+   "Enter_32_answer_32_here": {
+      "message": "在此处输入答案"
+   },
+   "Enter_32_at_32_least_32__37_s_32_characters_32_for_32_security_32_answer": {
+      "message": "必须为8个字符。如果更少，请选择其他问题/答案。"
+   },
+   "Enter_32_backup_32_key": {
+      "message": "输入您帐户的紧急恢复密钥"
+   },
+   "Enter_32_card_32_code": {
+      "message": "CVC码"
+   },
+   "Enter_32_card_32_issuer": {
+      "message": "输入发行人"
+   },
+   "Enter_32_card_32_name": {
+      "message": "输入持卡人姓名"
+   },
+   "Enter_32_card_32_number": {
+      "message": "输入卡号"
+   },
+   "Enter_32_code": {
+      "message": "输入验证码"
+   },
+   "Enter_32_code_32_to_32_verify_32_your_32_phone": {
+      "message": "我们刚刚给您发送了一条带有代码的短信。输入它以验证您的手机。"
+   },
+   "Enter_32_code_32_we_32_sent": {
+      "message": "请检查您的电子邮件，然后输入我们发送的代码"
+   },
+   "Enter_32_discount_32_coupon": {
+      "message": "输入优惠券"
+   },
+   "Enter_32_following_32_code_32_manually": {
+      "message": "手动输入以下代码"
+   },
+   "Enter_32_login_32_url": {
+      "message": "输入登录URL"
+   },
+   "Enter_32_master_32_password": {
+      "message": "输入您的%COMPANY%主密码"
+   },
+   "Enter_32_master_32_password_32_strength_32__37_s": {
+      "message": "您的主密码强度为%s。请输入您的主密码，我们将为您显示有关密码评分的详细信息。"
+   },
+   "Enter_32_note_32_here": {
+      "message": "在此处输入安全注释"
+   },
+   "Enter_32_old_32_phone_32_number_32_you_32_would_32_remember": {
+      "message": "输入您会记得的旧电话号码。\n示例：7035551212"
+   },
+   "Enter_32_receipient_32_info": {
+      "message": "输入收件人信息"
+   },
+   "Enter_32_security_32_key": {
+      "message": "输入安全密钥"
+   },
+   "Enter_32_sibling_32_email_32_address": {
+      "message": "输入同胞的电子邮件地址。\n示例：Kimberley1968@gmail.com"
+   },
+   "Enter_32_their_32_email": {
+      "message": "输入他们的电子邮件地址"
+   },
+   "Enter_32_their_32_name": {
+      "message": "输入他们的名字"
+   },
+   "Enter_32_title_32_here": {
+      "message": "在这里输入标题"
+   },
+   "Enter_32_username": {
+      "message": "输入用户名"
+   },
+   "Enter_32_username_32_or_32_leave_32_blank": {
+      "message": "输入用户名或留空"
+   },
+   "Enter_32_your_32_current_32_password": {
+      "message": "请输入您的当前密码"
+   },
+   "Enter_32_your_32_email": {
+      "message": "输入您的电子邮件地址"
+   },
+   "Enter_32_your_32_feedback": {
+      "message": "在此处输入您的反馈"
+   },
+   "Enter_32_your_32_info": {
+      "message": "输入您的信息"
+   },
+   "Enter_32_your_32_name": {
+      "message": "输入你的名字"
+   },
+   "Enter_32_your_32_password": {
+      "message": "请输入您的密码"
+   },
+   "Enter_32_your_32_phone": {
+      "message": "输入你的手机"
+   },
+   "Enter_32_your_32_username": {
+      "message": "请输入您的用户名"
+   },
+   "Erase_32_account": {
+      "message": "清除帐户"
+   },
+   "Erase_32_your_32_account": {
+      "message": "清除您的帐户"
+   },
+   "Error": {
+      "message": "错误"
+   },
+   "Event": {
+      "message": "事件"
+   },
+   "Event_32_not_32_found": {
+      "message": "找不到事件"
+   },
+   "Eventlog": {
+      "message": "活动"
+   },
+   "Everyone": {
+      "message": "每个人"
+   },
+   "Ewallet_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入%COMPANY%之前，必须先从eWallet导出用户名/密码。\n\n最后一步：\n要开始从eWallet导出，请打开程序，然后选择“文件”->“另存为”->“文本文件”。"
+   },
+   "Example": {
+      "message": "例子"
+   },
+   "Expired": {
+      "message": "已到期"
+   },
+   "Expires_32_in_32__37_s": {
+      "message": "于%s年满"
+   },
+   "Export": {
+      "message": "出口"
+   },
+   "Export_32_To": {
+      "message": "输出到"
+   },
+   "Export_32_data": {
+      "message": "导出数据"
+   },
+   "Export_32_from": {
+      "message": "导出自"
+   },
+   "Export_32_notes": {
+      "message": "导出安全笔记"
+   },
+   "Export_32_password_32_manager": {
+      "message": "导出密码管理器"
+   },
+   "Export_32_profile": {
+      "message": "导出配置文件"
+   },
+   "Export_32_wallet": {
+      "message": "导出安全钱包"
+   },
+   "Extension_32_Description": {
+      "message": "一键式安全地单点登录所有应用程序"
+   },
+   "Extension_32_is_32_not_32_installed": {
+      "message": "%COMPANY%未安装浏览器扩展。"
+   },
+   "Extension_32_not_32_installed": {
+      "message": "扩展程序未安装！"
+   },
+   "Extension_32_not_32_installed_32_message": {
+      "message": "我们注意到您注册了%COMPANY%-太好了！但是没有安装%COMPANY%安全扩展程序来开始保护您的密码！"
+   },
+   "Extra_32_Large_32_Icons": {
+      "message": "特大图标"
+   },
+   "Face_32_authentication": {
+      "message": "人脸认证"
+   },
+   "Failed": {
+      "message": "失败的"
+   },
+   "Family": {
+      "message": "家庭"
+   },
+   "Family_32_Administrator": {
+      "message": "家庭管理员"
+   },
+   "Family_32_Management": {
+      "message": "家庭管理"
+   },
+   "Family_32_Matters": {
+      "message": "家庭事务"
+   },
+   "Family_32_Member": {
+      "message": "家庭成员"
+   },
+   "Family_32_accepted": {
+      "message": "您已成功加入家人。"
+   },
+   "Family_32_already_32_accepted": {
+      "message": "您已经加入家人了。"
+   },
+   "Family_32_join_32_subject": {
+      "message": "邀请加入%COMPANY%家庭帐户"
+   },
+   "Family_32_members": {
+      "message": "家庭成员"
+   },
+   "Family_32_rejected": {
+      "message": "您已拒绝家庭邀请。"
+   },
+   "Favorites_32_home_32_add": {
+      "message": "加到首页"
+   },
+   "Favorites_32_home_32_remove": {
+      "message": "从家中删除"
+   },
+   "Favorites_32_max_32__37_s": {
+      "message": "您最多可以选择%s个收藏夹"
+   },
+   "Feature_32_requested": {
+      "message": "您的一位用户请求的功能"
+   },
+   "Feature_32_requested_32_by_32__37_s": {
+      "message": "您的一个家庭成员%s请求了一项功能："
+   },
+   "Feature_32_requested_32_by_32_family_32__37_s": {
+      "message": "您的一个家庭成员%s请求了一项功能："
+   },
+   "Feature_32_requested_32_by_32_user_32__37_s": {
+      "message": "您的一个用户%s请求了一项功能："
+   },
+   "Feature_32_requested_32_family": {
+      "message": "您的一位家庭成员要求的功能"
+   },
+   "Female": {
+      "message": "女性"
+   },
+   "File": {
+      "message": "文件"
+   },
+   "File_32_already_32_exists": {
+      "message": "文件或文件夹已存在。"
+   },
+   "File_32_format_32_is_32_not_32_valid": {
+      "message": "档案格式无效"
+   },
+   "File_32_name_32_is_32_the_32_same": {
+      "message": "文件或文件夹名称相同。"
+   },
+   "File_32_not_32_found": {
+      "message": "文件未找到"
+   },
+   "File_32_open_32_failed": {
+      "message": "文件打开失败"
+   },
+   "File_32_size_32_too_32_large": {
+      "message": "档案太大"
+   },
+   "File_32_upload_32_failed": {
+      "message": "无法正确上传文件"
+   },
+   "File_32_write_32_failed": {
+      "message": "文件写入失败"
+   },
+   "Filename": {
+      "message": "文件名"
+   },
+   "Files_32_trash_32_delete_32_info": {
+      "message": "已在垃圾箱中超过 30 天的文件将被自动删除。"
+   },
+   "Fill": {
+      "message": "填"
+   },
+   "Fill_32_all_32_required_32_fields": {
+      "message": "请填写所有必填字段"
+   },
+   "Fill_32_out": {
+      "message": "填写"
+   },
+   "Fill_32_with_32_cc": {
+      "message": "填写国家代码"
+   },
+   "Final_32_restart": {
+      "message": "最终重启"
+   },
+   "Finance": {
+      "message": "金融"
+   },
+   "Fingerprint_32_authentication": {
+      "message": "指纹认证"
+   },
+   "Finish": {
+      "message": "结束"
+   },
+   "Firefox_32_Installation_32_Step_32_1": {
+      "message": "请单击“允许”以接受和下载扩展文件"
+   },
+   "Firefox_32_Installation_32_Step_32_2": {
+      "message": "请点击“安装”以继续安装"
+   },
+   "First_32_Name": {
+      "message": "名"
+   },
+   "Folder": {
+      "message": "文件夹"
+   },
+   "Folder_32_is_32_empty": {
+      "message": "这个文件夹是空的。"
+   },
+   "Folder_32_items": {
+      "message": "文件夹项目"
+   },
+   "Folder_32_name_32_cant_32_contain_32_following_32_characters": {
+      "message": "文件夹名称不能包含以下任何字符"
+   },
+   "Folder_32_name_32_is_32_not_32_allowed": {
+      "message": "不允许使用文件夹名称。"
+   },
+   "For_32_more_32_information_32__37_s": {
+      "message": "有关更多信息%s"
+   },
+   "For_32_more_32_information_32_visit_32_support_32_page": {
+      "message": "有关更多信息，请访问我们的支持页面"
+   },
+   "Format_32_this_32_USB": {
+      "message": "您需要先格式化此USB设备，然后才能使用它"
+   },
+   "Found_32_in_32__37_s_32_data_32_breaches": {
+      "message": "发现于%s个数据泄露,发现%s个数据泄露"
+   },
+   "Free": {
+      "message": "自由"
+   },
+   "FreeOTP_32_barcode_32_steps": {
+      "message": "在FreeOTP中，触摸顶部的QR图标。\n使用手机摄像头扫描该条形码。"
+   },
+   "FreeOTP_32_installation": {
+      "message": "FreeOTP是支持Android和IOS的开源项目。"
+   },
+   "Free_32_scan": {
+      "message": "免费扫描"
+   },
+   "Free_32_scan_32_results": {
+      "message": "免费扫描结果"
+   },
+   "Free_32_trial": {
+      "message": "7天免费试用"
+   },
+   "Freeze_32_Range": {
+      "message": "冻结范围"
+   },
+   "From": {
+      "message": "从"
+   },
+   "Front_32_camera": {
+      "message": "前置摄像头"
+   },
+   "Full_32_Name": {
+      "message": "全名"
+   },
+   "Gender": {
+      "message": "性别"
+   },
+   "General": {
+      "message": "一般的"
+   },
+   "General_32_Information": {
+      "message": "一般信息"
+   },
+   "Generate": {
+      "message": "产生"
+   },
+   "Generate_32_backup_32_key": {
+      "message": "生成新的紧急恢复密钥"
+   },
+   "Generate_32_strong_32_password": {
+      "message": "生成强密码"
+   },
+   "Generated_32_on_32__37_s": {
+      "message": "产生于%s"
+   },
+   "Generic_32_CSV_32_file": {
+      "message": "通用CSV文件"
+   },
+   "Get_32_Social": {
+      "message": "获得社交"
+   },
+   "Get_32_help_32_with_32_using_32__37_s": {
+      "message": "获取有关使用%s的帮助"
+   },
+   "Getting_32_Started": {
+      "message": "入门"
+   },
+   "Go_32_Today": {
+      "message": "今天去"
+   },
+   "Go_32_to_32__37_s": {
+      "message": "转到%s"
+   },
+   "Go_32_to_32_emergency_32_access": {
+      "message": "前往紧急通道"
+   },
+   "Go_32_to_32_sharing_32_center": {
+      "message": "前往分享中心"
+   },
+   "Gold": {
+      "message": "金子"
+   },
+   "Google_32_Authenticator_32_barcode_32_steps": {
+      "message": "在Google身份验证器中，触摸菜单，然后选择“设置帐户”。\n选择“扫描条形码”。\n使用手机摄像头扫描该条形码。"
+   },
+   "Google_32_Authenticator_32_installation": {
+      "message": "Google Authenticator支持Android，iPhone和BlackBerry。"
+   },
+   "Google_32_Authenticator_32_manual_32_steps": {
+      "message": "在Google身份验证器中，触摸菜单，然后选择“设置帐户”。\n选择“输入提供的密钥”\n在“输入帐户名”中，输入您的%COMPANY%用户名。\n在“输入您的密钥”中，输入您的秘密密钥：%s\n密钥类型：确保选择“基于时间”。\n点击添加。"
+   },
+   "Google_32_TOTP_32__37_s_32_install": {
+      "message": "在移动设备上安装%s应用程序"
+   },
+   "Google_32_TOTP_32__37_s_32_open": {
+      "message": "现在打开并配置%s"
+   },
+   "Google_32_TOTP_32_header": {
+      "message": "使用TOTP身份验证器配置您的%COMPANY%帐户"
+   },
+   "Google_32_authentication": {
+      "message": "Google身份验证器身份验证"
+   },
+   "Goto": {
+      "message": "去"
+   },
+   "Gray": {
+      "message": "灰色的"
+   },
+   "Gray_32_charcoal": {
+      "message": "灰木炭"
+   },
+   "Great_33__32_Lets_32_install_32__37_s_32_tools": {
+      "message": "伟大的！\n现在，我们安装%s工具，一切就绪"
+   },
+   "Green": {
+      "message": "绿色的"
+   },
+   "Green_32_forest": {
+      "message": "绿色森林"
+   },
+   "Grid_32_view": {
+      "message": "网格视图"
+   },
+   "Gross": {
+      "message": "总的"
+   },
+   "Group": {
+      "message": "团体"
+   },
+   "Group_32_List": {
+      "message": "群组清单"
+   },
+   "Group_32_Members": {
+      "message": "小组成员"
+   },
+   "Group_32__37_s_32_already_32_exists": {
+      "message": "%s组已存在"
+   },
+   "Group_32__37_s_32_created": {
+      "message": "'%s'组已成功创建"
+   },
+   "Group_32__37_s_32_saved": {
+      "message": "'%s'组的更改已保存"
+   },
+   "Group_32__37_s_32_saved_32_permissions": {
+      "message": "'%s'组的权限已保存"
+   },
+   "Group_32__37_s_32_saved_32_roles": {
+      "message": "'%s'组角色已保存"
+   },
+   "Group_32_added": {
+      "message": "组已成功添加。"
+   },
+   "Group_32_deleted": {
+      "message": "组已被删除"
+   },
+   "Group_32_not_32_found": {
+      "message": "找不到群组"
+   },
+   "Groups": {
+      "message": "团体"
+   },
+   "Groups_32_Management": {
+      "message": "群组管理"
+   },
+   "Groups_32_Membership": {
+      "message": "团体会员"
+   },
+   "Hate_32_it": {
+      "message": "讨厌它"
+   },
+   "Heir": {
+      "message": "继承人"
+   },
+   "Hello": {
+      "message": "你好"
+   },
+   "Help": {
+      "message": "帮助"
+   },
+   "Hi_32__37_s": {
+      "message": "%s您好"
+   },
+   "Hide": {
+      "message": "隐藏"
+   },
+   "Hide_32_Passwords": {
+      "message": "隐藏密码"
+   },
+   "Historical": {
+      "message": "历史的"
+   },
+   "Home_32_darkweb_32_header": {
+      "message": "暗网监控\n免费身份保护扫描"
+   },
+   "Home_32_darkweb_32_scan": {
+      "message": "找出您的凭据是否已因数据泄露而受到损害。"
+   },
+   "Home_32_journal_32_header": {
+      "message": "日报\n这是您在过去24小时内所做的事情"
+   },
+   "Home_32_journal_32_upgrade": {
+      "message": "升级到实时每日日志\n-实现更高的安全性\n-富有成效，并节省时间\n-获取重要的安全详细信息，以及更多"
+   },
+   "Home_32_journal_32_upgrade_32_info": {
+      "message": "%COMPANY%每日日记是您的每日安全声明。与实验室测试结果类似，它可以衡量您防御网络风险的健康状况。它为建立理想的安全状态奠定了基础。"
+   },
+   "Home_32_risk_32_header": {
+      "message": "身份风险计分卡\n您是黑客的天堂吗？查看您的测试结果："
+   },
+   "Home_32_security_32_header": {
+      "message": "安全摘要\n每周有关您的安全性的见解"
+   },
+   "Homepage": {
+      "message": "家"
+   },
+   "Hostname": {
+      "message": "主机名"
+   },
+   "Hourly": {
+      "message": "每小时一次"
+   },
+   "How_32_to_32_manually_32_enable_32_IE_32_Add_45_on": {
+      "message": "如何在Interner Explorer中手动启用加载项"
+   },
+   "How_32_would_32_you_32_like_32_to_32_login_63_": {
+      "message": "您想如何登录？"
+   },
+   "How_32_would_32_you_32_like_32_to_32_verify_63_": {
+      "message": "您想如何验证？"
+   },
+   "IE_32_Installation_32_Step_32_1": {
+      "message": "请单击“下一步”开始加载项安装。在此过程中，系统将要求您关闭Internet Explorer"
+   },
+   "IE_32_Installation_32_Step_32_2": {
+      "message": "安装完成并启动Internet Explorer之后，您需要启用新的加载项。如果看不到此通知，请按照以下说明操作如何手动启用加载项："
+   },
+   "IE_32_Installation_32_Step_32_3": {
+      "message": "最后，您需要重新启动Internet Explorer一次才能使更改生效。请点击“确定”继续"
+   },
+   "IP_32_Address": {
+      "message": "IP地址"
+   },
+   "I_32_agree_32_to_32__37_s_32_and_32__37_s": {
+      "message": "我同意%s和%s"
+   },
+   "I_32_agree_32_to_32__37_s_32_and_32__37_s_32_by_32_clicking_32_below": {
+      "message": "点击下方，即表示我同意%s和%s"
+   },
+   "I_32_have_32_discount_32_coupon": {
+      "message": "我有优惠券"
+   },
+   "I_32_have_32_mobile_32_device_32_for_32_passwordless": {
+      "message": "我有用于PasswordLess登录的Android，iPhone或iPad设备。"
+   },
+   "I_32_want_32_remove_32_password": {
+      "message": "我想删除密码"
+   },
+   "I_32_want_32_to_32_buy": {
+      "message": "我想买"
+   },
+   "I_32_want_32_to_32_delete_32_account": {
+      "message": "我想永久删除此%COMPANY%帐户及其所有数据。"
+   },
+   "I_32_want_32_to_32_erase_32_account": {
+      "message": "我想删除所有帐户数据，但保留我的%COMPANY%帐户。"
+   },
+   "I_32_will_32_answer_32_security_32_question": {
+      "message": "我会回答我的安全性问题"
+   },
+   "I_32_will_32_enter_32_backup_32_key": {
+      "message": "我将输入我的恢复密钥"
+   },
+   "I_32_would_32_like_32_to_32_add_32_you_32_to_32_emergency_32_contacts": {
+      "message": "我想将您添加到我的紧急联系人中"
+   },
+   "I_32_would_32_like_32_to_32_add_32_you_32_to_32_emergency_32_contacts_32_for_32__37_s": {
+      "message": "我想将您添加到%s的紧急联系人中"
+   },
+   "I_32_would_32_like_32_to_32_share_32_file_32_with_32_you": {
+      "message": "我想与你分享文件"
+   },
+   "I_32_would_32_like_32_to_32_share_32_group_32_with_32_you": {
+      "message": "我想和你分享一个小组"
+   },
+   "I_32_would_32_like_32_to_32_share_32_note_32_with_32_you": {
+      "message": "我想与您分享安全笔记"
+   },
+   "I_32_would_32_like_32_to_32_share_32_site_32_with_32_you": {
+      "message": "我想与您分享一个应用"
+   },
+   "Ideal_32_range": {
+      "message": "理想范围"
+   },
+   "Identity_32_score": {
+      "message": "身份分数"
+   },
+   "Idle": {
+      "message": "闲置的"
+   },
+   "If_32_password_32_expired_32__37_s_32_for_32_account_32_recovery": {
+      "message": "如果您的密码已过期%s以使用帐户恢复重设密码。"
+   },
+   "If_32_you_32_can_39_t_32_receive_32_emails_32__37_s": {
+      "message": "如果您无法通过移动设备%s接收电子邮件"
+   },
+   "If_32_you_32_don_39_t_32_want_32_to_32_trust_32_this_32_computer_32_anymore_32__37_s": {
+      "message": "如果您不想再信任此计算机，则%s"
+   },
+   "If_32_you_32_haven_39_t_32_received_32_email_32__37_s_32_to_32_resend": {
+      "message": "如果您尚未收到%s电子邮件，我们将再次发送。"
+   },
+   "Image_32_load_32_failed": {
+      "message": "无法加载图片"
+   },
+   "Image_32_size_32_at_32_least_32__37_s_32_pixels": {
+      "message": "您尝试上传的图片太小。它必须至少为%s像素"
+   },
+   "Image_32_unknown_32_type": {
+      "message": "图片类型不明"
+   },
+   "Immediate": {
+      "message": "即时"
+   },
+   "Immediate_32_access_32_to_32__37_s": {
+      "message": "立即访问%s"
+   },
+   "Immediate_32_access_32_to_32_account": {
+      "message": "立即访问帐户"
+   },
+   "Import": {
+      "message": "进口"
+   },
+   "Import_32_Facebook": {
+      "message": "从Facebook导入"
+   },
+   "Import_32_From_32_File": {
+      "message": "从文件导入"
+   },
+   "Import_32_Sites": {
+      "message": "导入密码"
+   },
+   "Import_32__37_s_32_items": {
+      "message": "导入%s个项目"
+   },
+   "Import_32__37_s_32_sites": {
+      "message": "导入%s个应用"
+   },
+   "Import_32_from_32__37_s_32_account": {
+      "message": "从您的%s帐户导入"
+   },
+   "Import_32_from_32_browser": {
+      "message": "从浏览器导入"
+   },
+   "Import_32_is_32_complete": {
+      "message": "导入过程完成"
+   },
+   "Import_32_sites_32_from_32_browsers": {
+      "message": "导入密码"
+   },
+   "Import_32_sites_32_label": {
+      "message": "为了保护您系统上的密码，请安装%COMPANY%加密扩展"
+   },
+   "Imported_32__37_s_32_using_32__37_s": {
+      "message": "使用%s导入了%s"
+   },
+   "Importing": {
+      "message": "输入"
+   },
+   "Importing_32__37_s": {
+      "message": "汇入%s"
+   },
+   "Importing_32__37_s_32_of_32__37_s_32_items": {
+      "message": "正在导入%s个项目中的%s个"
+   },
+   "Importing_32_from_32__37_s": {
+      "message": "从%s导入您的应用"
+   },
+   "Improve": {
+      "message": "提升"
+   },
+   "In_32_what_32_city_32_did_32_you_32_meet_32_your_32_spouse_47_significant_32_other_63_": {
+      "message": "您在哪个城市遇见了您的配偶/重要伴侣？\n示例：纽约市（必须为8个字符或更多）"
+   },
+   "In_32_what_32_city_32_was_32_your_32_first_32_job_63_": {
+      "message": "您的第一份工作是在哪个城市？\n示例：费城（必须为8个字符或更多）"
+   },
+   "In_32_what_32_city_32_were_32_you_32_born_63_": {
+      "message": "你出生于哪个城市？\n示例：华盛顿（必须为8个字符或更多）"
+   },
+   "Inactive": {
+      "message": "不活跃"
+   },
+   "Included": {
+      "message": "包括"
+   },
+   "Incomplete_32_signup": {
+      "message": "注册不完整"
+   },
+   "Initializing": {
+      "message": "初始化中"
+   },
+   "Input_32_icon_32_description": {
+      "message": "您可以让%COMPANY%在单击或将焦点放在检测到的字段上时自动打开弹出窗口，或者%COMPANY%仅在单击%COMPANY%图标时才会显示弹出窗口。"
+   },
+   "Insert_32_security_32_key": {
+      "message": "插入您的安全密钥"
+   },
+   "Install_32__37_s": {
+      "message": "安装%s"
+   },
+   "Install_32__37_s_32_extension": {
+      "message": "安装%s扩展程序"
+   },
+   "Install_32__37_s_32_tools_32_and_32_follow_32_steps": {
+      "message": "安装%s工具\n只需按照以下几个步骤来增强%s的安全性"
+   },
+   "Install_32_plugin": {
+      "message": "安装%COMPANY%工具"
+   },
+   "Installed_32_apps": {
+      "message": "已安装的应用"
+   },
+   "Instantly": {
+      "message": "即刻"
+   },
+   "Intrested_32_in_32_darbweb_63_": {
+      "message": "对Dark Web Monitoring感兴趣吗？"
+   },
+   "Intruder": {
+      "message": "入侵者"
+   },
+   "Invalid_32_Data": {
+      "message": "无效数据"
+   },
+   "Invalid_32_Request": {
+      "message": "非法请求"
+   },
+   "Invalid_32_device": {
+      "message": "无效的设备"
+   },
+   "Invalid_32_key": {
+      "message": "密钥无效。"
+   },
+   "Invalid_32_or_32_expired_32_link": {
+      "message": "链接无效或已过期"
+   },
+   "Invalid_32_signature": {
+      "message": "签名无效"
+   },
+   "Invitation_32_accepted": {
+      "message": "邀请已接受"
+   },
+   "Invitation_32_resend": {
+      "message": "重新发送邀请"
+   },
+   "Invitation_32_resent": {
+      "message": "邀请电子邮件已重新发送。"
+   },
+   "Invite_32_friends": {
+      "message": "邀请朋友"
+   },
+   "Issued_32_by": {
+      "message": "由...发出"
+   },
+   "Issued_32_to": {
+      "message": "发出给"
+   },
+   "It_32_is_32_ok": {
+      "message": "没关系"
+   },
+   "Javascript_32_is_32_disabled": {
+      "message": "您的浏览器禁用了Javascript"
+   },
+   "Job_32_title": {
+      "message": "职称"
+   },
+   "Join_32_family_32_and_32_watch_32__37_s": {
+      "message": "保护密码和管理Web应用程序现在很容易。您的家人为此选择了%COMPANY%。通过安全的Web门户轻松访问所有应用程序。请单击下面的链接开始激活过程，然后输入密码。如需有关%COMPANY%的帮助和其他信息，请观看以下视频：%s"
+   },
+   "Join_32_passwordless": {
+      "message": "加入已经使用PasswordLess的数百万用户。"
+   },
+   "Just_32_sent_32_email_32_to_32__37_s_32_with_32_download_32_link": {
+      "message": "我们刚刚向您发送了一封电子邮件，其中包含下载链接到%s。\n请在您的移动设备中打开电子邮件。"
+   },
+   "Keepass_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入到%COMPANY%之前，必须首先从Keepass导出用户名/密码。\n\n最后一步：\n要开始从KeePass导出，请登录到KeePass。选择文件-导出到-XML文件。"
+   },
+   "Keeper_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入到%COMPANY%之前，必须首先从Keeper导出用户名/密码。\n\n步骤1：\n单击浏览器中的Keeper图标，然后单击Data Vault。\n\n第2步：\n在您的保险柜中，点击备份->导出->导出到文本文件。"
+   },
+   "Key_32_features_32_premium": {
+      "message": "无广告\n还有更多功能"
+   },
+   "Key_32_features_32_ultimate": {
+      "message": "无广告\n无限\n还有更多功能"
+   },
+   "LMO_32_File": {
+      "message": "%COMPANY%文件"
+   },
+   "LMO_32_is_32_up_32_to_32_date": {
+      "message": "%COMPANY%是最新的"
+   },
+   "Landing_32_page": {
+      "message": "登陆页面"
+   },
+   "Landing_32_page_32_info": {
+      "message": "这是登录后的默认页面。"
+   },
+   "Language": {
+      "message": "语言"
+   },
+   "Large_32_Icons": {
+      "message": "大图标"
+   },
+   "Last_32_Edited": {
+      "message": "最后编辑"
+   },
+   "Last_32_Name": {
+      "message": "姓"
+   },
+   "Last_32_Online": {
+      "message": "上次在线"
+   },
+   "Last_32_Visited": {
+      "message": "上次访问"
+   },
+   "Last_32_breach_32_date": {
+      "message": "上次违反日期"
+   },
+   "Last_32_changed": {
+      "message": "最后更改"
+   },
+   "Last_32_modified": {
+      "message": "最后修改"
+   },
+   "Last_32_password_32_change": {
+      "message": "上次密码更改"
+   },
+   "Last_32_scan": {
+      "message": "最后扫描"
+   },
+   "Last_32_used": {
+      "message": "最后使用"
+   },
+   "Lastpass_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入%COMPANY%之前，必须先从LastPass导出用户名/密码。\n\n单击“ LastPass”图标，然后单击“工具”->“高级工具”->“导出到”->“ LastPass CSV文件”。"
+   },
+   "Lastpass_32_import_32_account": {
+      "message": "您可以使用LastPass用户名和密码直接连接到LastPass帐户。此方法将允许您从LastPass帐户导入更多数据。"
+   },
+   "Leaked_32_data": {
+      "message": "泄漏的数据"
+   },
+   "Leaked_32_data_32_type": {
+      "message": "数据类型泄漏"
+   },
+   "Leaked_32_monitoring": {
+      "message": "密码泄漏监控"
+   },
+   "Leaked_32_password_32_in_32__37_s_32_breaches": {
+      "message": "此密码已被标记为在%s数据泄露中已泄露。"
+   },
+   "Learn_32_More": {
+      "message": "学到更多"
+   },
+   "Leave_32_family": {
+      "message": "离开家人"
+   },
+   "Leave_32_family_32_confirmation": {
+      "message": "您确定要离开并将帐户更改回高级版吗？"
+   },
+   "Legal": {
+      "message": "合法的"
+   },
+   "Legal_32_documentation_32_access_32_requires": {
+      "message": "仅在提供法律文件后才授予访问权限"
+   },
+   "License": {
+      "message": "执照"
+   },
+   "License_32_Agreement": {
+      "message": "许可协议"
+   },
+   "License_32_Business_32_Clients": {
+      "message": "商业客户"
+   },
+   "License_32_Individual_32_Clients": {
+      "message": "个人客户"
+   },
+   "License_32__37_s_32_edition": {
+      "message": "%s版"
+   },
+   "License_32__37_s_32_expires_32_in_32__37_s": {
+      "message": "您的%s将于%s到期。"
+   },
+   "License_32_expires_32_text": {
+      "message": "立即行动，继续保护您的所有密码！"
+   },
+   "Like": {
+      "message": "喜欢"
+   },
+   "Like_32_it": {
+      "message": "喜欢它"
+   },
+   "Limited_32_ads": {
+      "message": "受限广告"
+   },
+   "Link_32_will_32_expire_32_in_32__37_s": {
+      "message": "该链接将在%s年到期"
+   },
+   "List": {
+      "message": "列表"
+   },
+   "Listen_32_to_32_audio": {
+      "message": "听音频"
+   },
+   "Loading": {
+      "message": "载入中"
+   },
+   "Loading_32_USB_32_information": {
+      "message": "加载您的USB闪存驱动器信息时，请等待"
+   },
+   "Locate_32_device": {
+      "message": "找到设备"
+   },
+   "Location": {
+      "message": "地点"
+   },
+   "Location_32_unavailable": {
+      "message": "位置不可用"
+   },
+   "Logged_32_in_32_as_32__37_s": {
+      "message": "以%s身份登录"
+   },
+   "Logged_32_in_32_on_32__37_s": {
+      "message": "上次登入%s"
+   },
+   "Logged_32_out_32_on_32__37_s": {
+      "message": "上次登出%s"
+   },
+   "Logging_32_in": {
+      "message": "在登录"
+   },
+   "Login": {
+      "message": "登录"
+   },
+   "Login_32_Error": {
+      "message": "记录时发生错误"
+   },
+   "Login_32_Failed": {
+      "message": "登录失败"
+   },
+   "Login_32_Options": {
+      "message": "登录选项"
+   },
+   "Login_32_Page": {
+      "message": "登录页面"
+   },
+   "Login_32_URL": {
+      "message": "登入网址"
+   },
+   "Login_32_action_32_blocked": {
+      "message": "受阻"
+   },
+   "Login_32_action_32_captcha": {
+      "message": "验证码"
+   },
+   "Login_32_action_32_flash": {
+      "message": "SOS Flash"
+   },
+   "Login_32_action_32_login_45_issues": {
+      "message": "登录问题"
+   },
+   "Login_32_action_32_loud": {
+      "message": "嘈杂的音乐"
+   },
+   "Login_32_action_32_morse": {
+      "message": "摩尔斯电码"
+   },
+   "Login_32_action_32_shake": {
+      "message": "摇筛"
+   },
+   "Login_32_action_32_stop": {
+      "message": "停止"
+   },
+   "Login_32_action_32_vibrate": {
+      "message": "震动装置"
+   },
+   "Login_32_action_32_warning": {
+      "message": "警告"
+   },
+   "Login_32_as": {
+      "message": "登录为"
+   },
+   "Login_32_as_32__37_s": {
+      "message": "以%s身份登录"
+   },
+   "Login_32_as_32__37_s_32_confirmation": {
+      "message": "您确定要以%s身份登录吗？"
+   },
+   "Login_32_denied": {
+      "message": "登录被拒绝"
+   },
+   "Login_32_overlay_32_face": {
+      "message": "%COMPANY%密码少\n面部生物识别\n通过手机面部识别登录到您的帐户\n不要输入密码。\n无需输入第二身份验证因子（2FA）。\n使用您的移动设备相机。 %COMPANY%包含自动2FA。"
+   },
+   "Login_32_overlay_32_fingerprint": {
+      "message": "使用指纹登录到您的帐户！\n不要输入密码..."
+   },
+   "Login_32_overlay_32_password": {
+      "message": "充满信心地访问。\n带有自动2FA的多个登录选项"
+   },
+   "Login_32_overlay_32_pin": {
+      "message": "不要输入密码...\n通过手机登录到您的帐户！"
+   },
+   "Login_32_overlay_32_push": {
+      "message": "用您的自拍照登录..！\n再见，密码。拍摄照片，然后使用自拍照登录。 %COMPANY% PhotoLogin无需输入密码。包括自动第二认证因子（2FA）。"
+   },
+   "Login_32_overlay_32_security_32_question": {
+      "message": "不要忘记您的安全性答案"
+   },
+   "Login_32_overlay_32_verify": {
+      "message": "欢迎来到%COMPANY%\n屡获殊荣的密码管理领导者"
+   },
+   "Login_32_page_32_force_32_to_32_install_32_extension": {
+      "message": "要登录，您需要先安装%COMPANY%扩展名"
+   },
+   "Login_32_passwordless_32_last_32__37_s_32_days": {
+      "message": "最近%s天，您是否使用过无密码登录？"
+   },
+   "Login_32_timed_32_out": {
+      "message": "登录超时"
+   },
+   "Login_32_timed_32_out_32_for_32__37_s": {
+      "message": "%s的登录超时。"
+   },
+   "Login_32_to_32__37_s_32_and_32_click_32_link": {
+      "message": "请登录到%s邮箱，然后单击已发送的链接。"
+   },
+   "Login_32_to_32__37_s_32_confirmation": {
+      "message": "您是否成功登录%s？"
+   },
+   "Login_32_with_32_new_32_password": {
+      "message": "请使用新密码登录。"
+   },
+   "Logmeonce_32_Import_32_Instructions": {
+      "message": "在将现有的用户名/密码导入到%COMPANY%之前，必须首先从其他版本的%COMPANY%导出用户名/密码。\n\n最后一步：\n要从%COMPANY%开始导出，请选择导出到-> %COMPANY%文件。"
+   },
+   "Logmeonce_32__37_s_32_Subscription": {
+      "message": "%COMPANY% %s订阅"
+   },
+   "Logmeonce_32_design_32_made_32_by": {
+      "message": "%COMPANY%由%COMPANY%，Inc.设计并实现。"
+   },
+   "Logout": {
+      "message": "登出"
+   },
+   "Love_32_it": {
+      "message": "爱它"
+   },
+   "Make_32_Voice_32_Call_32_Again": {
+      "message": "再次拨打语音电话"
+   },
+   "Make_32_this_32_my_32_recovery_32_email": {
+      "message": "将此作为我的辅助邮箱"
+   },
+   "Male": {
+      "message": "男性"
+   },
+   "Map": {
+      "message": "地图"
+   },
+   "Map_32_field_32_into": {
+      "message": "将此字段映射到以下内容之一"
+   },
+   "Master_32_password": {
+      "message": "主密码"
+   },
+   "Master_32_password_32_alert": {
+      "message": "主密码警报"
+   },
+   "Master_32_password_32_alert_32_message": {
+      "message": "您似乎正在使用%COMPANY%主密码来对此站点进行身份验证。这是违反安全性的行为。我们建议更改您的主密码"
+   },
+   "Medical_32_Insurance": {
+      "message": "医疗保险"
+   },
+   "Medium_32_Icons": {
+      "message": "中型图示"
+   },
+   "Member_32_Of": {
+      "message": "成员"
+   },
+   "Members": {
+      "message": "会员"
+   },
+   "Membership_32_Codes": {
+      "message": "会员编号"
+   },
+   "Message": {
+      "message": "信息"
+   },
+   "Message_32_from_32__37_s": {
+      "message": "来自%s的消息"
+   },
+   "Minutely": {
+      "message": "每分钟"
+   },
+   "Miscellaneous": {
+      "message": "各种各样的"
+   },
+   "Mobile": {
+      "message": "移动的"
+   },
+   "MobileConnect_32_authentication": {
+      "message": "MobileConnect身份验证"
+   },
+   "Mobile_32_app": {
+      "message": "移动应用"
+   },
+   "Mobile_32_cancel_32_confirmation": {
+      "message": "你确定要取消？对于PasswordLess登录，您应该配对您的移动设备。否则，将要求您创建一个密码。"
+   },
+   "Mobile_32_connect_32__37_s_32_is_32_not_32_paired": {
+      "message": "伟大的！您的第一个移动连接登录成功。\n您的电话号码（%s）尚未与任何%COMPANY%帐户配对。如果您是新用户，请注册，否则，请登录到您现有的帐户，从现在开始，您的移动连接电话号码将会配对。"
+   },
+   "Mobile_32_failed": {
+      "message": "移动设备配对失败！"
+   },
+   "Mobile_32_failed_32_message": {
+      "message": "我们注意到您注册了%COMPANY%-太好了！您想成为PasswordLess。但是没有完成移动设备配对以开始保护您的密码！"
+   },
+   "Mobile_32_number_32_or_32_email": {
+      "message": "输入手机号码或电子邮件地址"
+   },
+   "Modified": {
+      "message": "修改的"
+   },
+   "Monthly": {
+      "message": "每月一次"
+   },
+   "More": {
+      "message": "更多的"
+   },
+   "More_32_actions": {
+      "message": "更多操作"
+   },
+   "More_32_fields": {
+      "message": "更多领域"
+   },
+   "More_32_options": {
+      "message": "更多的选择"
+   },
+   "More_32_sites_32_header": {
+      "message": "抱歉，我们没有在您的浏览器中检测到任何密码。继续并添加您自己的应用程序。"
+   },
+   "Most_32_used": {
+      "message": "最常被使用"
+   },
+   "Move_32_To": {
+      "message": "搬去"
+   },
+   "Mugshot": {
+      "message": "面部照片"
+   },
+   "Mugshot_32_annual": {
+      "message": "%COMPANY% Mugshot年度许可证"
+   },
+   "Mugshot_32_datetime": {
+      "message": "基于日期和时间的攻击"
+   },
+   "Mugshot_32_detected_32_activity": {
+      "message": "%COMPANY% Mugshot检测到以下活动"
+   },
+   "Mugshot_32_failed_32_events": {
+      "message": "闯入尝试失败"
+   },
+   "Mugshot_32_geo": {
+      "message": "攻击源于"
+   },
+   "Mugshot_32_ip": {
+      "message": "基于IP地址的攻击"
+   },
+   "Mugshot_32_notice": {
+      "message": "%COMPANY%如果您尝试入侵或访问未经授权的帐户，则Mugshot会拍照并收集元数据。密码“电击”将向您发送先发制人的警告和震动警报。"
+   },
+   "Mugshot_32_settings": {
+      "message": "面部照片设置"
+   },
+   "Mugshot_32_settings_32_description": {
+      "message": "选择需要收集的数据。"
+   },
+   "Mugshot_32_success_32_events": {
+      "message": "成功登录帐户"
+   },
+   "My_32_Recent_32_Activity": {
+      "message": "我最近的活动"
+   },
+   "My_32_Site_32_Group": {
+      "message": "我的云"
+   },
+   "Name": {
+      "message": "姓名"
+   },
+   "Negative_32_scores": {
+      "message": "负分数"
+   },
+   "Never": {
+      "message": "绝不"
+   },
+   "Never_32_Remember": {
+      "message": "不记得了"
+   },
+   "Never_32_Remember_32_site": {
+      "message": "从来没有这个网站"
+   },
+   "Never_32_generated": {
+      "message": "从未产生"
+   },
+   "Never_32_use_32_old_32_passwords": {
+      "message": "切勿使用旧密码"
+   },
+   "New_32_Password": {
+      "message": "新密码"
+   },
+   "New_32_Tab": {
+      "message": "新标签"
+   },
+   "New_32_folder": {
+      "message": "新建文件夹"
+   },
+   "Next": {
+      "message": "下一个"
+   },
+   "Next_32_Page": {
+      "message": "下一页"
+   },
+   "No": {
+      "message": "不"
+   },
+   "No_32_Limit": {
+      "message": "没有限制"
+   },
+   "No_32_Restrictions": {
+      "message": "无限制"
+   },
+   "No_32__37_s": {
+      "message": "否%s"
+   },
+   "No_32_ads": {
+      "message": "无广告"
+   },
+   "No_32_breaches_32_found": {
+      "message": "找不到违规"
+   },
+   "No_32_cards_32_found": {
+      "message": "找不到信用卡"
+   },
+   "No_32_category": {
+      "message": "没有分类"
+   },
+   "No_32_credit_32_card_32_required": {
+      "message": "无需信用卡"
+   },
+   "No_32_data_32_available": {
+      "message": "无可用数据"
+   },
+   "No_32_devices_32_for_32_verification": {
+      "message": "没有可用于验证的设备"
+   },
+   "No_32_match_32_found": {
+      "message": "找不到匹配项"
+   },
+   "No_32_notes_32_found": {
+      "message": "找不到安全笔记"
+   },
+   "No_32_notifications": {
+      "message": "没有通知"
+   },
+   "No_32_recovery_32_email": {
+      "message": "没有辅助邮箱"
+   },
+   "No_32_recovery_32_options": {
+      "message": "没有可用的帐户恢复选项。"
+   },
+   "No_32_recovery_32_phone": {
+      "message": "没有备援电话"
+   },
+   "No_32_results_32_found": {
+      "message": "未找到结果。"
+   },
+   "No_32_sites_32_found": {
+      "message": "找不到应用"
+   },
+   "No_32_sites_32_message": {
+      "message": "我们注意到您注册了%COMPANY%-太好了！但是没有添加应用程序来开始保护您的密码！"
+   },
+   "No_32_sites_32_to_32_import": {
+      "message": "没有要导入的应用程序"
+   },
+   "No_44__32_recreate_32_again": {
+      "message": "否，重新创建"
+   },
+   "None": {
+      "message": "没有任何"
+   },
+   "Norton_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入到%COMPANY%之前，必须先从Norton Identity Safe中导出用户名/密码。\n\n打开Norton Identity Safe软件，然后单击设置图标->导入/导出。\n\n然后选择“纯文本-CSV文件（仅登录和注释）”，然后单击“导出”。"
+   },
+   "NotTrusted_32_exception_32_message": {
+      "message": "%COMPANY%无法识别您当前的设备或位置。"
+   },
+   "Not_32_Now": {
+      "message": "现在不要"
+   },
+   "Not_32_Today": {
+      "message": "今天不行"
+   },
+   "Not_32_supported_32_in_32__37_s": {
+      "message": "%s不支持"
+   },
+   "Note": {
+      "message": "笔记"
+   },
+   "Note_32_added": {
+      "message": "注释已成功添加。"
+   },
+   "Note_32_not_32_found": {
+      "message": "找不到安全笔记"
+   },
+   "Note_32_real_45_time_32_encryption": {
+      "message": "安全笔记实时加密"
+   },
+   "Notes": {
+      "message": "安全注意事项,安全笔记"
+   },
+   "Notes_32_empty_32_page": {
+      "message": "轻松在Secure Notes中添加和存储私人信息。全部在您的系统上本地加密。"
+   },
+   "Notes_32_trash_32_delete_32_info": {
+      "message": "垃圾桶中超过30天的笔记将被自动删除。"
+   },
+   "Nothing_32_to_32_import": {
+      "message": "没什么可导入的"
+   },
+   "Notice": {
+      "message": "注意"
+   },
+   "Notification": {
+      "message": "通知"
+   },
+   "Notifications": {
+      "message": "通知事项"
+   },
+   "Now": {
+      "message": "现在"
+   },
+   "OTP": {
+      "message": "一次性密码"
+   },
+   "OTP_32_Authentication": {
+      "message": "一次性密码认证"
+   },
+   "OTP_32_Trusted_32_Computer_32_Description": {
+      "message": "受信任的计算机每30天仅询问一次验证码。如果您丢失了手机，则可能无需密码即可从受信任的计算机访问您的帐户。我们建议您仅在信任有访问权限的人的情况下，才将其设置为受信任的计算机"
+   },
+   "OTP_32_failure": {
+      "message": "无法加载一次密码"
+   },
+   "OTP_32_is_32_empty": {
+      "message": "一次性密码为空"
+   },
+   "OTP_32_is_32_not_32_valid": {
+      "message": "一次性密码无效"
+   },
+   "OTP_32_is_32_valid": {
+      "message": "一次性密码有效"
+   },
+   "OTP_32_not_32_found": {
+      "message": "找不到一次密码配置"
+   },
+   "OTP_32_was_32_used_32__37_s_32_ago": {
+      "message": "%s之前已使用此一次性密码"
+   },
+   "Off_32_flipswitch": {
+      "message": "离开"
+   },
+   "Offline_32_mode": {
+      "message": "离线模式"
+   },
+   "Offline_32_mode_32_data_32_is_32__37_s_32_old_46__32_Continue_32_in_32_offline_32_mode_63_": {
+      "message": "您离线。您在这台计算机上的帐户数据已%s旧。您要继续离线模式吗？"
+   },
+   "Offline_32_mode_32_error": {
+      "message": "您目前处于离线模式。"
+   },
+   "Offline_32_mode_32_long_32_description": {
+      "message": "您将只能通过在计算机上登录时使用的最新密码来使用脱机模式。请注意，第二因素身份验证将不起作用。每次成功登录后，您的数据将存储在计算机中并进行更新。某些功能将不可用。"
+   },
+   "Offline_32_mode_32_short_32_description": {
+      "message": "如果没有互联网连接，请在离线模式下使用扩展程序"
+   },
+   "On_32_flipswitch": {
+      "message": "上"
+   },
+   "One_32_lowercase_32_letter": {
+      "message": "一个小写字母"
+   },
+   "One_32_numeric_32_character": {
+      "message": "一个数字字符"
+   },
+   "One_32_special_32_character": {
+      "message": "一个特殊字符"
+   },
+   "One_32_uppercase_32_letter": {
+      "message": "一个大写字母"
+   },
+   "Onepassword_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入%COMPANY%之前，必须先从1Password导出用户名/密码。\n\n步骤1：\n要从1Password开始导出，请登录到1Password。选择所有或仅要导出的密码。然后选择“文件”->“导出”。\n\n第2步：\n在导出屏幕上，选择格式->以逗号分隔的文本，然后选择项目->所有登录名或项目->选定的登录名。"
+   },
+   "Open": {
+      "message": "打开"
+   },
+   "Open_32_Menu": {
+      "message": "开启选单"
+   },
+   "Open_32_app": {
+      "message": "开启%COMPANY%应用程式"
+   },
+   "Open_32_in_32_new_32_window": {
+      "message": "在新窗口中打开"
+   },
+   "Open_32_popups_32_when": {
+      "message": "出现时打开%COMPANY%个弹出窗口"
+   },
+   "Operator_32_Codes": {
+      "message": "操作员代码"
+   },
+   "Or": {
+      "message": "或者"
+   },
+   "Or_32_make_32__37_s_32_more_32_referrals_32_to_32_unlock_32_this_32_feature": {
+      "message": "或者，再增加%s个推荐以解锁此功能"
+   },
+   "Orange": {
+      "message": "橘子"
+   },
+   "Others": {
+      "message": "其他,其他"
+   },
+   "Overall_32_Password_32_Strength": {
+      "message": "总体密码强度"
+   },
+   "Overall_32_password_32_strength_32_is_32__37_s": {
+      "message": "总体密码强度为%s"
+   },
+   "PDF_32_File": {
+      "message": "PDF文件"
+   },
+   "PIN_32_authentication": {
+      "message": "PIN验证"
+   },
+   "Page": {
+      "message": "页"
+   },
+   "Passpack_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入%COMPANY%之前，必须先从Passpack中导出用户名/密码。\n\n步骤1：\n要开始从Passpack导出，请登录到Passpack，选择“工具”->“导出”，然后选择“逗号分隔值”，然后单击“继续”。\n\n第2步：\n从下一个屏幕的文本框中复制所有数据，并将其保存在文本文件中。"
+   },
+   "Passphrase": {
+      "message": "密码短语"
+   },
+   "Passport": {
+      "message": "护照"
+   },
+   "Passsafe_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入%COMPANY%之前，必须先从密码保险箱中导出用户名/密码。\n\n最后一步：\n要从密码保险箱开始导出，请登录到密码保险箱。选择文件->导出到-> XML文件。保存Xml。"
+   },
+   "Password": {
+      "message": "密码"
+   },
+   "PasswordAgent_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入%COMPANY%之前，必须首先从密码代理中导出用户名/密码。\n\n步骤1：\n要开始从密码代理导出，请登录到密码代理。选择文件->打印和导出->输出格式为Xml。\n\n第2步：\n确保已选择导出中的所有字段。"
+   },
+   "PasswordBoss_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入到%COMPANY%之前，必须先从密码头导出您的用户名/密码。\n\n打开密码老板软件，然后单击文件->导出数据->密码老板CSV-未加密。"
+   },
+   "PasswordDragon_32_Import_32_Instructions": {
+      "message": "密码龙\n\n要导出密码龙，请登录到密码龙。选择文件->导出->文本。\n确保选中“帐户名”，“用户ID”，“密码”，“网址”，“注释”和“类别””"
+   },
+   "Password_32_Access_32_for_32_Logmeonce": {
+      "message": "主密码策略"
+   },
+   "Password_32_Access_32_for_32_Logmeonce_32_description": {
+      "message": "作为用户，您可以确定主密码何时到期。 %COMPANY%建议每3个月或更早过期一次您的主密码"
+   },
+   "Password_32_Access_32_for_32_Logmeonce_32_description_32_for_32_Business": {
+      "message": "作为管理员，您可以建立有关用户如何登录和访问其各自的%COMPANY%帐户的要求"
+   },
+   "Password_32_Access_32_for_32_Sites": {
+      "message": "应用程序密码政策"
+   },
+   "Password_32_Access_32_for_32_Sites_32_description": {
+      "message": "作为管理员，您可以为每个应用程序定义最低密码要求"
+   },
+   "Password_32_Authentication": {
+      "message": "密码认证"
+   },
+   "Password_32_Changed": {
+      "message": "密码已被更改"
+   },
+   "Password_32_Changer": {
+      "message": "密码更改器"
+   },
+   "Password_32_Changer_32_is_32_not_32_installed": {
+      "message": "未安装密码转换器"
+   },
+   "Password_32_Changer_32_requires_32_update": {
+      "message": "密码更改器需要更新"
+   },
+   "Password_32_Daily_32_Demo": {
+      "message": "心率监视器显示重要信息。同样，“ Live PasswordTracker”可让您深入了解日常登录，从而确定弱访问。使您的“实际”密码强度达到100％的水平，并保持在100％的水平。\n\n演示数据以黑色显示。升级到专业版或终极版，即可查看自己的PasswordTracker图表。"
+   },
+   "Password_32_Daily_32_Strength": {
+      "message": "每日密码强度"
+   },
+   "Password_32_Duplicated": {
+      "message": "密码重复"
+   },
+   "Password_32_Generate": {
+      "message": "产生密码"
+   },
+   "Password_32_Generated": {
+      "message": "密码生成"
+   },
+   "Password_32_Generated_32_for_32__37_s": {
+      "message": "%s"
+   },
+   "Password_32_Generator": {
+      "message": "密码生成器"
+   },
+   "Password_32_Good": {
+      "message": "好的"
+   },
+   "Password_32_Length": {
+      "message": "密码长度"
+   },
+   "Password_32_Length_32_requirement_32_is_32__37_s": {
+      "message": "最小密码长度为%s个字符"
+   },
+   "Password_32_Logmeonce": {
+      "message": "%COMPANY%密码"
+   },
+   "Password_32_Lowercase": {
+      "message": "小写字母"
+   },
+   "Password_32_Lowercase_32_requirement": {
+      "message": "密码必须包含小写字母a-z"
+   },
+   "Password_32_Meter_32_Consecutive_32_Lowercase_32_Letters": {
+      "message": "密码连续包含小写字母"
+   },
+   "Password_32_Meter_32_Consecutive_32_Numbers": {
+      "message": "密码包含连续的数字"
+   },
+   "Password_32_Meter_32_Consecutive_32_Uppercase_32_Letters": {
+      "message": "密码包含连续的大写字母"
+   },
+   "Password_32_Meter_32_Letters_32_Only": {
+      "message": "仅使用字母"
+   },
+   "Password_32_Meter_32_Lowercase_32_Letters": {
+      "message": "小写字母的使用"
+   },
+   "Password_32_Meter_32_Middle_32_Numbers_32_or_32_Symbols": {
+      "message": "字符的变化和变化"
+   },
+   "Password_32_Meter_32_Number_32_of_32_Characters": {
+      "message": "密码长度"
+   },
+   "Password_32_Meter_32_Numbers": {
+      "message": "数字的使用"
+   },
+   "Password_32_Meter_32_Numbers_32_Only": {
+      "message": "仅使用数字"
+   },
+   "Password_32_Meter_32_Repeat_32_Characters": {
+      "message": "在密码中使用重复的数字，字母或字符"
+   },
+   "Password_32_Meter_32_Requirements": {
+      "message": "密码策略的存在"
+   },
+   "Password_32_Meter_32_Sequential_32_Letters": {
+      "message": "字母顺序排列"
+   },
+   "Password_32_Meter_32_Sequential_32_Numbers": {
+      "message": "数字按顺序排列"
+   },
+   "Password_32_Meter_32_Sequential_32_Symbols": {
+      "message": "符号按顺序排列"
+   },
+   "Password_32_Meter_32_Symbols": {
+      "message": "符号的使用"
+   },
+   "Password_32_Meter_32_Uppercase_32_Letters": {
+      "message": "大写字母的使用"
+   },
+   "Password_32_Minimum_32__37_s_32_characters": {
+      "message": "最少%s个字符"
+   },
+   "Password_32_Numeric": {
+      "message": "位数"
+   },
+   "Password_32_Numeric_32_requirement": {
+      "message": "密码必须包含数字"
+   },
+   "Password_32_Policy": {
+      "message": "密码政策"
+   },
+   "Password_32_Policy_32_header": {
+      "message": "%COMPANY%使创建安全策略变得容易。使用以下模板建立“安全最佳实践”并保护您的主密码"
+   },
+   "Password_32_Policy_32_header_32_for_32_Business": {
+      "message": "%COMPANY%可以轻松创建安全策略，无论是针对小型用户组还是企业设置中的用户。使用以下模板在您的组织中建立“安全性最佳实践”"
+   },
+   "Password_32_Strength": {
+      "message": "密码强度"
+   },
+   "Password_32_Strong": {
+      "message": "强的"
+   },
+   "Password_32_Symbols": {
+      "message": "符号"
+   },
+   "Password_32_Symbols_32_requirement": {
+      "message": "密码中必须包含其他符号"
+   },
+   "Password_32_Time_32_to_32_Crack": {
+      "message": "大概破解时间"
+   },
+   "Password_32_Tracker": {
+      "message": "实时密码追踪器"
+   },
+   "Password_32_Uppercase": {
+      "message": "大写"
+   },
+   "Password_32_Uppercase_32_requirement": {
+      "message": "密码必须包含大写字母A-Z"
+   },
+   "Password_32_Very_32_Strong": {
+      "message": "非常强壮"
+   },
+   "Password_32_Very_32_Weak": {
+      "message": "非常弱"
+   },
+   "Password_32_Weak": {
+      "message": "虚弱的"
+   },
+   "Password_32_change_32_email_32_body": {
+      "message": "%COMPANY%实施安全性最佳做法政策。我们鼓励并通知用户定期更改其主密码。这是一种谨慎的措施，可能有助于限制您的帐户遭受滥用的风险。高级版用户必须每3个月更改一次主密码。"
+   },
+   "Password_32_field_32_detected": {
+      "message": "成功检测到密码字段"
+   },
+   "Password_32_history": {
+      "message": "密码记录"
+   },
+   "Password_32_is_32_not_32_valid": {
+      "message": "您输入的密码无效"
+   },
+   "Password_32_leaked": {
+      "message": "密码泄露"
+   },
+   "Password_32_manager": {
+      "message": "密码管理器"
+   },
+   "Password_32_meter_32_bad_32_passwords": {
+      "message": "使用已知的弱密码"
+   },
+   "Password_32_minimum_32_policy": {
+      "message": "最低密码政策"
+   },
+   "Password_32_policy_32_saved": {
+      "message": "密码政策已保存"
+   },
+   "Password_32_recovery_32_was_32_requested_32_from_32__37_s": {
+      "message": "已从IP地址%s请求密码恢复。如果您没有要求，请忽略此电子邮件"
+   },
+   "Password_32_score": {
+      "message": "密码分数"
+   },
+   "Password_32_shock_32_tagline": {
+      "message": "检测并部署对策"
+   },
+   "Passwordless": {
+      "message": "密码少"
+   },
+   "Passwordless_32_mobile_32_device_32_consent": {
+      "message": "PasswordLess登录速度更快，更安全，并且需要Android，iPhone或iPad设备以及%COMPANY%移动应用程序。"
+   },
+   "Passwordless_32_option": {
+      "message": "PasswordLess登录选项更快，更安全！"
+   },
+   "Passwordless_32_push": {
+      "message": "密码少登录"
+   },
+   "Passwordless_32_push_32_warning": {
+      "message": "必须为至少一台设备启用PasswordLess登录。"
+   },
+   "Passwordless_32_setup_32_is_32_not_32_available": {
+      "message": "您的PasswordLess设置不完整。相反，让我们为您的帐户设置密码，之后再添加移动设备以登录PasswordLess。"
+   },
+   "Passwords_32_do_32_not_32_match": {
+      "message": "您输入的密码不匹配"
+   },
+   "Passwords_32_that_32_have": {
+      "message": "具有的密码"
+   },
+   "Passwords_32_you_32_entered_32_must_32_match": {
+      "message": "您输入的密码必须匹配"
+   },
+   "Past_32_24_32_hours": {
+      "message": "过去24小时"
+   },
+   "Past_32_hour": {
+      "message": "过去一个小时"
+   },
+   "Past_32_month": {
+      "message": "过去一个月"
+   },
+   "Past_32_week": {
+      "message": "上周"
+   },
+   "Past_32_year": {
+      "message": "过去一年"
+   },
+   "Patent_32_pending_32_technology": {
+      "message": "一项正在申请专利的技术"
+   },
+   "Patents_32__38__32_Licensing": {
+      "message": "专利与许可"
+   },
+   "Path": {
+      "message": "小路"
+   },
+   "Pay_32__37_s": {
+      "message": "支付%s"
+   },
+   "Pay_32_with_32__37_s": {
+      "message": "用%s付款"
+   },
+   "Pay_32_with_32_card": {
+      "message": "用信用卡付款"
+   },
+   "Payments": {
+      "message": "支付,付款方式"
+   },
+   "Pending": {
+      "message": "待办的"
+   },
+   "Pending_32_Share": {
+      "message": "待分享"
+   },
+   "People_32_I_32_trust": {
+      "message": "我信任的人"
+   },
+   "People_32_who_32_trust_32_me": {
+      "message": "相信我的人"
+   },
+   "Permission_32_Request": {
+      "message": "权限请求"
+   },
+   "Personal": {
+      "message": "个人的"
+   },
+   "Phone_32_Number": {
+      "message": "电话号码"
+   },
+   "Phone_32_cell": {
+      "message": "细胞"
+   },
+   "Phone_32_fax": {
+      "message": "传真"
+   },
+   "Phone_32_home": {
+      "message": "家"
+   },
+   "Phone_32_work": {
+      "message": "工作"
+   },
+   "Phones": {
+      "message": "电话,手机"
+   },
+   "Photo_32_authentication": {
+      "message": "PhotoLogin身份验证"
+   },
+   "Picture": {
+      "message": "图片"
+   },
+   "Please_32_Wait": {
+      "message": "请稍等"
+   },
+   "Please_32_buy_32_more_32_credits": {
+      "message": "请购买更多积分"
+   },
+   "Please_32_check_32_it_32_and_32_try_32_again": {
+      "message": "请检查并重试"
+   },
+   "Please_32_confirm_32_your_32_identity_32_to_32_continue": {
+      "message": "请确认您的身份以继续"
+   },
+   "Please_32_login_32_again": {
+      "message": "请重新登录"
+   },
+   "Please_32_select_32_an_32_image_32_file": {
+      "message": "请选择一个图像文件"
+   },
+   "Please_32_select_32_future_32_date_32_for_32_expiration": {
+      "message": "请选择一个到期日"
+   },
+   "Plugin": {
+      "message": "插入"
+   },
+   "Plugin_32_is_32_not_32_installed": {
+      "message": "%COMPANY%未安装工具或插件已被禁用。"
+   },
+   "Plugin_32_is_32_not_32_installed_46__32_Would_32_you_32_like_32_to_32_import_63_": {
+      "message": "您想从浏览器导入密码吗？安装%COMPANY%工具后，您可以从Chrome，Firefox，Internet Explorer和Safari导入密码。"
+   },
+   "Plugin_32_not_32_installed": {
+      "message": "%COMPANY%未安装工具！"
+   },
+   "Plugin_32_not_32_installed_32_message": {
+      "message": "我们注意到您注册了%COMPANY%-太好了！但是没有安装%COMPANY%工具来开始保护您的密码！"
+   },
+   "Plugin_32_require_32_update": {
+      "message": "%COMPANY%工具需要更新。"
+   },
+   "Plugin_32_require_32_update_32_to_32__37_s_32_from_32__37_s": {
+      "message": "%COMPANY%工具需要更新-最新版本：%s（您的版本：%s）"
+   },
+   "Popularity": {
+      "message": "人气度"
+   },
+   "Port": {
+      "message": "港口"
+   },
+   "Portable_32_Sync_32_Confirmation": {
+      "message": "便携式计算机和台式计算机之间的数据不同步。\n您要合并吗？"
+   },
+   "Positive_32_scores": {
+      "message": "积极的分数"
+   },
+   "Possible_32_intruders": {
+      "message": "可能的入侵者"
+   },
+   "Prefix": {
+      "message": "字首"
+   },
+   "Previous": {
+      "message": "以前的"
+   },
+   "Previous_32_Page": {
+      "message": "上一页"
+   },
+   "Print_32_recovery_32_key": {
+      "message": "打印恢复密钥"
+   },
+   "Privacy_32_Policy": {
+      "message": "隐私政策"
+   },
+   "Privileges": {
+      "message": "礼遇"
+   },
+   "Product_32_category_32_bundle": {
+      "message": "捆绑交易"
+   },
+   "Product_32_category_32_identity": {
+      "message": "身份保护"
+   },
+   "Product_32_category_32_license": {
+      "message": "密码管理器"
+   },
+   "Product_32_category_32_storage": {
+      "message": "云加密器"
+   },
+   "Product_32_credits_32_description": {
+      "message": "购买2FA语音通话和短信积分（1000积分）"
+   },
+   "Product_32_credits_32_name": {
+      "message": "语音和短信积分"
+   },
+   "Product_32_darkweb_32_description": {
+      "message": "暗网监控\n密码泄漏检测\n违规通知警报\n身份风险计分卡\n优先技术支持"
+   },
+   "Product_32_darkweb_32_name": {
+      "message": "暗网监控"
+   },
+   "Product_32_identity_32_name": {
+      "message": "身份保护"
+   },
+   "Product_32_license_32_description": {
+      "message": "%COMPANY%密码管理套件"
+   },
+   "Product_32_license_32_long_32_description": {
+      "message": "保护和管理您的密码。 %COMPANY%是先进的，安全的，用户友好的，并且被认为是最好的！"
+   },
+   "Product_32_license_45_family_32_description": {
+      "message": "保护6位家庭成员\n10 GB加密存储\n家庭经理仪表板\n无限密码\n无限自动填充\n无限的设备和同步\n无限安全共享\n无限安全票据\n无限信用卡\n密码生成器\n多重身份验证\n帐户和应用受益人\n紧急通道\n综合报告\n优先技术支持"
+   },
+   "Product_32_license_45_personal_32_description": {
+      "message": "无限密码\n无限自动填充\n无限的设备和同步\n最多保存3张信用卡\n5安全密码共享\n3安全注意事项\n两要素认证\n应用受益人\n密码生成器\n密码计算器\n1 MB加密存储\n只有高级版将展示广告\n电子邮件技术支持"
+   },
+   "Product_32_license_45_premium_32_description": {
+      "message": "高级版，另加\n1 GB加密存储\n紧急通道\n无限信用卡\n50安全密码共享\n50个安全笔记\n多重身份验证\n帐户和应用受益人\n生产力码头\n高级登录审核\n高级活动报告\n实时密码跟踪器\n优先技术支持"
+   },
+   "Product_32_license_45_ultimate_32_description": {
+      "message": "专业版，另加\n10 GB加密存储\n身份风险计分卡\n防盗\n无限安全共享\n无限安全票据\n先进的多重身份验证\n高级受益人\n带照片的紧急通道\n可定制的仪表板\n综合报告\n预定登录\n远程登出\n大量其他功能\n优先技术支持"
+   },
+   "Product_32_mugshot_32_description": {
+      "message": "抓住黑客的行为，并收集自己的数据！"
+   },
+   "Product_32_storage_45_cloud_32_description": {
+      "message": "无限的云提供商\n无限数据传输\n无限数量的设备\n大量其他功能\n优先技术支持"
+   },
+   "Products_32_individual": {
+      "message": "个别产品"
+   },
+   "Profile": {
+      "message": "轮廓"
+   },
+   "Profile_32_Completeness": {
+      "message": "档案的完整性"
+   },
+   "Profiles": {
+      "message": "轮廓,个人资料"
+   },
+   "Protect_32__37_s": {
+      "message": "保护%s"
+   },
+   "Protect_32_your_32_passwords": {
+      "message": "请保护您的密码！"
+   },
+   "Protected_32_login": {
+      "message": "受保护的登录"
+   },
+   "Protected_32_with_32_AES_45_256": {
+      "message": "您的数据现在已使用AES-256加密和保护"
+   },
+   "Protocol": {
+      "message": "协议"
+   },
+   "Purchased_32_credit": {
+      "message": "购买信用额"
+   },
+   "Purple": {
+      "message": "紫色的"
+   },
+   "Push_32_Tfa": {
+      "message": "自拍2FA"
+   },
+   "Push_32_Tfa_32_authentication": {
+      "message": "Selfie-2FA身份验证"
+   },
+   "Push_32_face": {
+      "message": "脸"
+   },
+   "Push_32_fingerprint": {
+      "message": "指纹"
+   },
+   "Push_32_login": {
+      "message": "照片登录"
+   },
+   "Push_32_login_32_verification": {
+      "message": "登录验证"
+   },
+   "Push_32_login_32_verification_32_info": {
+      "message": "默认情况下，当未启用锁定屏幕时，要求用户进行其他验证。您可以将PhotoLogin更改为始终或不要求进行验证。"
+   },
+   "Push_32_mobile_32_install_32_instructions": {
+      "message": "前往%s。\n搜索%s。\n下载并安装该应用程序。\n在您的移动设备上登录到您的帐户。\n你们都准备好了。"
+   },
+   "Question": {
+      "message": "问题"
+   },
+   "RNG_32_failed": {
+      "message": "随机数生成器失败"
+   },
+   "Rear_32_camera": {
+      "message": "后置摄像头"
+   },
+   "Recently_32_Used": {
+      "message": "最近使用"
+   },
+   "Recently_32_shared_32_with": {
+      "message": "最近与共享"
+   },
+   "Recommended": {
+      "message": "受到推崇的"
+   },
+   "Recommended_32_password_32_length_32_is_32__37_s_32_characters": {
+      "message": "我们建议的密码长度为%s个字符"
+   },
+   "Recover_32_with_32__37_s": {
+      "message": "使用%s恢复"
+   },
+   "Recover_32_your_32_account": {
+      "message": "恢复您的帐户"
+   },
+   "Recovery_32_backup_32_key": {
+      "message": "紧急恢复钥匙"
+   },
+   "Recovery_32_backup_32_key_32_info": {
+      "message": "如果您忘记了主密码或安全性答案，则“紧急恢复密钥”将提供一个安全网。该密钥将是访问您的%COMPANY%帐户的最后一个也是唯一的选项。打印，保存并记下此恢复密钥，并将其保存在安全的地方，例如银行保险箱或家庭保险库。"
+   },
+   "Recovery_32_backup_32_key_32_tip": {
+      "message": "如果您忘记了主密码或安全性答案，仍然可以访问您的帐户。生成“紧急恢复密钥”并将其保存在安全的地方。您可以随时重新生成一个新密钥。旧密钥将被停用，无法再次使用。"
+   },
+   "Recovery_32_certificate": {
+      "message": "%COMPANY%紧急恢复密钥"
+   },
+   "Recovery_32_certificate_32_info": {
+      "message": "请将此打印在纸上或保存在USB闪存盘（任何外部驱动器）上。将其保存在安全的地方，例如银行保险箱或家庭保险库。如果您曾经被锁定帐户，请使用以下信息重新登录。"
+   },
+   "Recovery_32_cetificate_32_save_32_info": {
+      "message": "请下载或打印您的新恢复密钥，您的帐户将得到更新。"
+   },
+   "Recovery_32_cetificate_32_saved": {
+      "message": "紧急恢复密钥已成功保存。"
+   },
+   "Recovery_32_create_32_password": {
+      "message": "我想创建一个新的%COMPANY%密码"
+   },
+   "Recovery_32_email": {
+      "message": "找回电子邮件地址"
+   },
+   "Recovery_32_email_32_add": {
+      "message": "添加辅助电子邮件，以防您的主电子邮件出现任何问题。"
+   },
+   "Recovery_32_email_32_changed_32_to_32__37_s": {
+      "message": "您的%COMPANY%帐户的辅助邮箱已更改为%s。"
+   },
+   "Recovery_32_email_32_for_32__37_s_32_changed_32_to_32__37_s": {
+      "message": "%s %COMPANY%帐户的辅助邮箱已更改为%s。"
+   },
+   "Recovery_32_email_32_must_32_be_32_confirmed": {
+      "message": "您必须先确认该电子邮件地址属于您，然后才能使用该电子邮件地址进行恢复。"
+   },
+   "Recovery_32_email_32_sent_32_to_32__37_s": {
+      "message": "我们已将电子邮件发送到%s。单击电子邮件中的链接以恢复您的帐户。"
+   },
+   "Recovery_32_email_32_to_32__37_s": {
+      "message": "发送带有链接到%s的电子邮件"
+   },
+   "Recovery_32_options": {
+      "message": "您想如何恢复您的帐户？"
+   },
+   "Recovery_32_options_32_as_32_follow": {
+      "message": "我们发现以下几种方法来恢复您的帐户"
+   },
+   "Recovery_32_phone": {
+      "message": "备援电话号码"
+   },
+   "Recovery_32_phone_32_add": {
+      "message": "添加备用电话号码，以防我们无法通过您的电子邮件帐户与您联系。"
+   },
+   "Recovery_32_phone_32_to_32__37_s": {
+      "message": "将带有代码的短信发送到%s"
+   },
+   "Recovery_32_reset_32_password": {
+      "message": "我想重设当前的%COMPANY%密码"
+   },
+   "Recovery_32_setup": {
+      "message": "帐户恢复设置"
+   },
+   "Recovery_32_trust_32__37_s_32_and_32__37_s": {
+      "message": "我想信任%s的设备和%s的IP地址"
+   },
+   "Recovery_32_unlock": {
+      "message": "我想解锁我的帐户"
+   },
+   "Red": {
+      "message": "红色的"
+   },
+   "Red_32_velvet": {
+      "message": "红色天鹅绒"
+   },
+   "Redirecting_32_to_32__37_s": {
+      "message": "重定向到%s时请稍候"
+   },
+   "Redirecting_32_to_32__37_s_32_in_32__37_s": {
+      "message": "重定向到%s中的%s。"
+   },
+   "Refer_32_Using": {
+      "message": "邀请使用"
+   },
+   "Refer_32_a_32_friend": {
+      "message": "介绍个朋友"
+   },
+   "Refer_32_a_32_friend_32_short": {
+      "message": "获得免费奖励"
+   },
+   "Referral": {
+      "message": "转介"
+   },
+   "Referral_32_Bonus": {
+      "message": "推荐奖金"
+   },
+   "Referral_32_header": {
+      "message": "邀请朋友并获得免费应用"
+   },
+   "Referral_32_share_32_facebook": {
+      "message": "与注册的每个朋友共享并获得免费的应用程序"
+   },
+   "Referral_32_share_32_facebook_32_summary": {
+      "message": "我喜欢%COMPANY%如何保护我的所有密码。一次单击即可安全地登录我的所有应用程序（帐户）。而且，它是免费的！"
+   },
+   "Referral_32_share_32_facebook_32_title": {
+      "message": "为什么我要分享%COMPANY%"
+   },
+   "Referral_32_share_32_summary": {
+      "message": "我想分享这个精湛的产品，它可以保护我的用户名和密码。我相信您会发现保护您的安全凭证并获得单点登录非常有帮助"
+   },
+   "Referral_32_share_32_title": {
+      "message": "%COMPANY%-单击免费注册"
+   },
+   "Referrals": {
+      "message": "推荐人"
+   },
+   "Refresh": {
+      "message": "刷新"
+   },
+   "Refund_32__37_s_32_warning": {
+      "message": "您现有的信用额度为%s。请确保您的新订阅相等或更高，以获取全额退款。"
+   },
+   "Refund_32_credit": {
+      "message": "信用"
+   },
+   "Refund_32_credit_32_description": {
+      "message": "记入您的订阅"
+   },
+   "Regenerate": {
+      "message": "再生"
+   },
+   "Registration_32_Date": {
+      "message": "登记日期"
+   },
+   "Remember": {
+      "message": "记住"
+   },
+   "Remember_32_Password": {
+      "message": "记住密码"
+   },
+   "Remember_32_Password_32_for_32__37_s_32_on_32__37_s_63_": {
+      "message": "您要%COMPANY%记住%s上%s的密码吗？"
+   },
+   "Remember_32_Password_32_on_32__37_s_63_": {
+      "message": "您要%COMPANY%记住%s上的密码吗？"
+   },
+   "Remember_32_for_32_other_32__37_s_32_files": {
+      "message": "对于其他 %s 文件，请记住此选择。"
+   },
+   "Remember_32_my_32_Email_32_Address": {
+      "message": "记住我的电子邮件地址"
+   },
+   "Remember_32_my_32_password_32_on_32_this_32_computer": {
+      "message": "记住我这个电脑上的密码"
+   },
+   "Remember_32_this_32_computer_32_for_32__37_s_32_days": {
+      "message": "记住这台计算机%s天"
+   },
+   "Remote_32_checkup": {
+      "message": "远程检查"
+   },
+   "Remote_32_logout": {
+      "message": "远程登出"
+   },
+   "Remove": {
+      "message": "去掉"
+   },
+   "Remove_32_All": {
+      "message": "移除所有"
+   },
+   "Remove_32_Confirmation": {
+      "message": "你确定要删除吗？"
+   },
+   "Remove_32_Image": {
+      "message": "移除图片"
+   },
+   "Remove_32_Picture": {
+      "message": "删除图片"
+   },
+   "Remove_32_Share": {
+      "message": "删除分享"
+   },
+   "Remove_32_confirmation_32__37_s_32_sites": {
+      "message": "您确定要删除%s个应用吗？"
+   },
+   "Remove_32_emergency_32_access": {
+      "message": "删除紧急访问"
+   },
+   "Remove_32_trash_32_confirmation": {
+      "message": "您确定要永久删除垃圾桶中的所有项目吗？"
+   },
+   "Rename": {
+      "message": "改名"
+   },
+   "Repeat_32_Password": {
+      "message": "重新输入密码"
+   },
+   "Repeat_32_answer": {
+      "message": "重新输入答案"
+   },
+   "Replace_32_file": {
+      "message": "替换现有文件"
+   },
+   "Report_32_issue": {
+      "message": "报告问题"
+   },
+   "Reports": {
+      "message": "报告书"
+   },
+   "Request_32_access": {
+      "message": "申请进入"
+   },
+   "Request_32_access_32_footer": {
+      "message": "安全声明：%COMPANY% PhotoLogin将对您的照片进行快照，以将其与IP，GPS和地址一起发送给您的聚会。"
+   },
+   "Request_32_access_32_header": {
+      "message": "您是否需要从受信任的朋友或家人的%COMPANY%帐户中立即获得“一次性”访问权限？请在下面输入您聚会的电子邮件地址："
+   },
+   "Request_32_from_32__37_s_32_ip": {
+      "message": "该请求是从IP地址：%s发出的"
+   },
+   "Request_32_from_32_admin": {
+      "message": "管理员要求"
+   },
+   "Request_32_from_32_admin_32_sent": {
+      "message": "请求已成功发送给您的管理员。"
+   },
+   "Requested_32_to_32_reset_32_password": {
+      "message": "您已要求重设密码"
+   },
+   "Required_32_Fields": {
+      "message": "必填项"
+   },
+   "Reset_32_confirmation": {
+      "message": "您确定要重置为默认设置吗？"
+   },
+   "Reset_32_defaults": {
+      "message": "重置为默认值"
+   },
+   "Reset_32_password": {
+      "message": "重置你的密码"
+   },
+   "Reset_32_password_32_link": {
+      "message": "要重置密码，请将以下链接复制并粘贴到浏览器中："
+   },
+   "Restore": {
+      "message": "恢复"
+   },
+   "Restore_32_from_32_backup": {
+      "message": "从安全备份还原"
+   },
+   "Review_32__37_s_32_gift": {
+      "message": "%s成为尊贵客户的礼品卡！"
+   },
+   "Review_32__37_s_32_gift_32_long": {
+      "message": "%COMPANY%正在与Capterra合作，以收集您对我们产品的经验。合格产品评论发布后不久，Capterra将向您发送链接，以兑换您选择的%s礼品卡。"
+   },
+   "Review_32_leave_32_comment": {
+      "message": "非常感谢您的帮助。您能否告诉我们我们可以做些什么来改善？"
+   },
+   "Review_32_request": {
+      "message": "请花一点时间来回顾您在我们这里的经历。您的反馈将为我们所有人提供帮助。"
+   },
+   "Review_32_stars_32_request": {
+      "message": "我们将不胜感激您的5星评价"
+   },
+   "Reviews_32_history": {
+      "message": "我们成功服务的历史"
+   },
+   "Risk_32_high": {
+      "message": "高的"
+   },
+   "Risk_32_level": {
+      "message": "风险等级"
+   },
+   "Risk_32_low": {
+      "message": "低的"
+   },
+   "Risk_32_medium": {
+      "message": "中等的"
+   },
+   "Roboform_32_Import_32_Instructions": {
+      "message": "您必须先从RoboForm导出数据，然后才能将现有的登录名，身份或安全说明导入%COMPANY%。\n\n选项1：\n单击RoboForm->打印列表->然后选择登录名，身份或安全注释。最后，单击“保存”按钮以将数据保存到HTML文件。\n\n选项2：\n单击RoboForm->数据和同步->导出到。然后选择CSV文件作为格式，然后单击“导出”按钮将数据保存到CSV文件。\n"
+   },
+   "Role": {
+      "message": "角色"
+   },
+   "Roles": {
+      "message": "的角色"
+   },
+   "SAML_32_Issuer": {
+      "message": "SAML发行者"
+   },
+   "SAML_32_Login_32_URL": {
+      "message": "SAML登录URL"
+   },
+   "SAML_32_View_32_access_32_is_32_denied": {
+      "message": "此信息只能由管理员管理"
+   },
+   "SAML_32__37_s_32_Authentication": {
+      "message": "SAML %s身份验证"
+   },
+   "SLO": {
+      "message": "自动登出"
+   },
+   "SLO_32_description": {
+      "message": "如果从%COMPANY%注销后启用，则还将从此应用程序中注销。必须启用自动登录。"
+   },
+   "SMS_32_Message": {
+      "message": "简讯"
+   },
+   "SMS_32_Message_32_charges_32_in": {
+      "message": "短信收费"
+   },
+   "SMS_32_sent_32_to_32__37_s": {
+      "message": "短信已发送到%s"
+   },
+   "SSO": {
+      "message": "自动登录"
+   },
+   "SSO_32_description": {
+      "message": "如果启用，则将自动登录。如果禁用，则将填充您的凭据，但您必须确认登录过程。"
+   },
+   "Safari_32_Installation_32_Step_32_1": {
+      "message": "下载Safari扩展文件后，只需单击并运行它"
+   },
+   "Safari_32_Installation_32_Step_32_2": {
+      "message": "请单击“信任”以接受扩展程序安装。然后再等待几秒钟-您将自动移至第二步"
+   },
+   "Save": {
+      "message": "救"
+   },
+   "Save_32_Changes": {
+      "message": "保存更改"
+   },
+   "Save_32_Password": {
+      "message": "保存密码"
+   },
+   "Save_32__37_s": {
+      "message": "节省%s"
+   },
+   "Save_32_more_32_time_32_with_32__37_s": {
+      "message": "%s节省更多时间"
+   },
+   "Save_32_to_32_a_32_file": {
+      "message": "保存到文件"
+   },
+   "Saved": {
+      "message": "已保存"
+   },
+   "Saving": {
+      "message": "保存"
+   },
+   "Scan": {
+      "message": "扫描"
+   },
+   "Scan_32_again": {
+      "message": "重新扫描"
+   },
+   "Scan_32_date": {
+      "message": "扫描日期"
+   },
+   "Scan_32_now": {
+      "message": "现在扫描"
+   },
+   "Scan_32_qr_32_code": {
+      "message": "请使用您的设备扫描以下QR码"
+   },
+   "Scan_32_results": {
+      "message": "扫描结果"
+   },
+   "Scan_32_totp_32_code": {
+      "message": "扫描二维码"
+   },
+   "Scan_32_totp_32_failed": {
+      "message": "在此页面中找不到用于双重身份验证的二维码。请打开带有二维码的页面，然后重试。"
+   },
+   "Scanning_32_current_32_page": {
+      "message": "扫描当前页面"
+   },
+   "School": {
+      "message": "学校"
+   },
+   "Scope_32_user": {
+      "message": "查看和管理您的个人资料信息"
+   },
+   "Scorecard": {
+      "message": "计分卡"
+   },
+   "Scorecard_32_Hybrid": {
+      "message": "混合身份分数"
+   },
+   "Scorecard_32_Hybrid_32_TFA": {
+      "message": "是否启用了多个2FA选项？"
+   },
+   "Scorecard_32_Hybrid_32_average_32_password_32_longer_32_than_32__37_s_32_characters": {
+      "message": "您的平均密码长度是否超过%s个字符？"
+   },
+   "Scorecard_32_Hybrid_32_duplicate_32_passwords": {
+      "message": "您是否对任何应用程序使用重复的密码？"
+   },
+   "Scorecard_32_Hybrid_32_mobile": {
+      "message": "您是否使用了%COMPANY%移动密码管理器？"
+   },
+   "Scorecard_32_Hybrid_32_password_32_changed_32_in_32_past_32__37_s_32_days": {
+      "message": "在过去%s天内，您是否已更新%COMPANY%主密码？"
+   },
+   "Scorecard_32_Hybrid_32_tutorial": {
+      "message": "您是否查看过%COMPANY%教程？"
+   },
+   "Scorecard_32_Overall": {
+      "message": "总体密码强度"
+   },
+   "Scorecard_32_Password": {
+      "message": "主密码强度"
+   },
+   "Scorecard_32_all_32_passwords": {
+      "message": "您所有的密码从最弱到最强"
+   },
+   "Scorecard_32_darkweb_32_risks": {
+      "message": "具有最高到最低风险的所有密码列表"
+   },
+   "Scorecard_32_darkweb_32_tip": {
+      "message": "监控影响您帐户的黑网风险。如果您的身份信息已公开并在暗网上在线找到，则会收到通知。仅对高风险级别的数据泄露进行评分。"
+   },
+   "Scorecard_32_hybrid_32_recovery": {
+      "message": "您是否启用了多个帐户恢复选项？"
+   },
+   "Scorecard_32_hybrid_32_tip": {
+      "message": "独特的安全标记数组，旨在检测和改善您的安全状况。"
+   },
+   "Scorecard_32_identity_32_tip": {
+      "message": "身份风险计分卡是用于跟踪和管理用户的身份和密码策略的安全框架。"
+   },
+   "Scorecard_32_leaked_32_passwords": {
+      "message": "您所有泄漏的密码"
+   },
+   "Scorecard_32_leaked_32_tip": {
+      "message": "检查您的密码是否因数据泄露而受到破坏。"
+   },
+   "Scorecard_32_logins_32_tip": {
+      "message": "通过%COMPANY%进行的登录受到保护。手动登录而不使用%COMPANY%被认为是不受保护的。保持较高的受保护与不受保护比率，以实现更高的安全性。"
+   },
+   "Scorecard_32_overall_32_tip": {
+      "message": "您所有应用密码的平均得分。"
+   },
+   "Scorecard_32_password_32_tip": {
+      "message": "防止猜测或蛮力登录攻击的密码有效性的一种度量。"
+   },
+   "Scorecard_32_policy_32_tip": {
+      "message": "用户遵循的一组定义的安全规则，以增强其密码强度。"
+   },
+   "Search": {
+      "message": "搜索"
+   },
+   "Search_32_catalog": {
+      "message": "搜索目录"
+   },
+   "Search_32_catalog_32_for_32__37_s_32_sites": {
+      "message": "在我们的目录中搜索%s应用"
+   },
+   "Search_32_contacts": {
+      "message": "搜寻联络人"
+   },
+   "Search_32_devices": {
+      "message": "搜索设备"
+   },
+   "Search_32_events": {
+      "message": "搜索事件"
+   },
+   "Search_32_for_32_help": {
+      "message": "寻求帮助"
+   },
+   "Search_32_groups": {
+      "message": "搜索组"
+   },
+   "Search_32_here": {
+      "message": "在这里搜寻"
+   },
+   "Search_32_notes": {
+      "message": "搜索笔记"
+   },
+   "Search_32_sites": {
+      "message": "搜索应用"
+   },
+   "Search_32_storage": {
+      "message": "搜索驱动器"
+   },
+   "Search_32_tools": {
+      "message": "搜索工具"
+   },
+   "Search_32_users": {
+      "message": "搜索用户"
+   },
+   "Secure_32_drive": {
+      "message": "安全驱动器"
+   },
+   "Secure_32_passphrase": {
+      "message": "安全密码"
+   },
+   "Secure_32_passphrase_32_for_32_export": {
+      "message": "请输入将用于保护您的数据的密码。记下此密码短语，当您尝试导入此文件时，系统会要求您输入密码。"
+   },
+   "Secure_32_passphrase_32_for_32_import": {
+      "message": "请输入用于在数据导出过程中保护此文件的密码。"
+   },
+   "Security": {
+      "message": "安全"
+   },
+   "Security_32_Alarm_32_Codes": {
+      "message": "安全警报代码"
+   },
+   "Security_32_Question": {
+      "message": "安全问题"
+   },
+   "Security_32_Question_32_description": {
+      "message": "我们将要求您回答此问题以恢复帐户"
+   },
+   "Security_32_Tip": {
+      "message": "安全提示"
+   },
+   "Security_32_Violation": {
+      "message": "违反安全规定"
+   },
+   "Security_32_check": {
+      "message": "安全检查"
+   },
+   "Security_32_check_32_answer_32_failed": {
+      "message": "您提供的其他信息不正确"
+   },
+   "Security_32_check_32_failed": {
+      "message": "安全检查失败"
+   },
+   "Security_32_check_32_question_32_for_32__37_s": {
+      "message": "%s要求其他信息"
+   },
+   "Security_32_checkup": {
+      "message": "安全检查"
+   },
+   "Security_32_checkup_32_description": {
+      "message": "为了安全起见，%COMPANY%为您提供了多个安全帐户恢复选项。"
+   },
+   "Security_32_key": {
+      "message": "安全密钥"
+   },
+   "Security_32_key_32_authentication": {
+      "message": "安全密钥认证"
+   },
+   "Security_32_key_32_failed_32_to_32_authenticate": {
+      "message": "安全密钥验证失败。"
+   },
+   "Security_32_key_32_tap_32_to_32_continue": {
+      "message": "如果您的安全密钥具有按钮或金盘，请点按以继续。"
+   },
+   "Security_32_notice": {
+      "message": "安全须知"
+   },
+   "Security_32_question_32_after_32_signup": {
+      "message": "伟大的！还有一件事。万一您将来需要恢复您的帐户，我们希望您设置一个安全问题。"
+   },
+   "Security_32_question_32_custom_32_example": {
+      "message": "您的答案必须是8个字符或更多"
+   },
+   "See_32_download_32_examples": {
+      "message": "下载后请参阅以下示例"
+   },
+   "See_32_less": {
+      "message": "少看"
+   },
+   "See_32_more": {
+      "message": "看更多"
+   },
+   "See_32_the_32_following_32_example_32_to_32_add_32_sites": {
+      "message": "请参阅以下有关“如何添加应用程序”的示例"
+   },
+   "Select_32_All": {
+      "message": "全选"
+   },
+   "Select_32_Cloud_32_Mode": {
+      "message": "保存在安全的云中"
+   },
+   "Select_32_Desktop_32_Mode": {
+      "message": "保存在硬盘中"
+   },
+   "Select_32_License": {
+      "message": "选择许可证"
+   },
+   "Select_32_an_32_area_32_by_32_dragging_32_across_32_the_32_lower_32_chart": {
+      "message": "通过在下部图表上拖动来选择一个区域"
+   },
+   "Select_32_payment_32_method": {
+      "message": "选择付款方式"
+   },
+   "Select_32_recovery": {
+      "message": "请选择帐户恢复"
+   },
+   "Select_32_site": {
+      "message": "选择应用"
+   },
+   "Select_32_subscription_32_addons": {
+      "message": "选择要购买的其他模块"
+   },
+   "Select_32_subscription_32_items": {
+      "message": "选择要包含在此购买中的内容"
+   },
+   "Select_32_subscription_32_plan": {
+      "message": "选择订阅计划"
+   },
+   "Select_32_users_32_quantity": {
+      "message": "选择用户数量"
+   },
+   "Select_32_verification_32_to_32_continue": {
+      "message": "请选择验证以继续"
+   },
+   "Select_32_your_32_license": {
+      "message": "选择您的许可证"
+   },
+   "Select_32_your_32_security_32_question": {
+      "message": "选择您的安全问题"
+   },
+   "Selected_32_time_32_interval_32_is_32_not_32_valid": {
+      "message": "所选时间间隔无效"
+   },
+   "Send": {
+      "message": "发送"
+   },
+   "Send_32_Code": {
+      "message": "发送代码"
+   },
+   "Send_32_Email_32_Again": {
+      "message": "再次发送电子邮件"
+   },
+   "Send_32_Text_32_Message_32_Again": {
+      "message": "再次发送短信"
+   },
+   "Send_32_commands_32_to_32__37_s": {
+      "message": "发送命令到%s"
+   },
+   "Send_32_emergency_32_access_32_to": {
+      "message": "发送紧急访问邀请至"
+   },
+   "Send_32_link_32_to": {
+      "message": "发送链接到"
+   },
+   "Send_32_logs_32_to_32_support": {
+      "message": "发送日志给支持"
+   },
+   "Sending": {
+      "message": "传送中"
+   },
+   "Sending_32_again": {
+      "message": "再次发送"
+   },
+   "Server": {
+      "message": "服务器"
+   },
+   "Session": {
+      "message": "会议"
+   },
+   "Session_32_Expired": {
+      "message": "您的会话已过期"
+   },
+   "Session_32_IP_32_Address_32_is_32_changed": {
+      "message": "您的会话IP地址已更改"
+   },
+   "Sessions": {
+      "message": "会议,届会"
+   },
+   "Settings": {
+      "message": "设定值"
+   },
+   "Setup": {
+      "message": "设置"
+   },
+   "Share": {
+      "message": "分享"
+   },
+   "Share_32_already_32_accepted": {
+      "message": "您已经接受了此分享"
+   },
+   "Share_32_deleted": {
+      "message": "共享已被删除"
+   },
+   "Share_32_file": {
+      "message": "共享文件"
+   },
+   "Share_32_group": {
+      "message": "股份组"
+   },
+   "Share_32_login_32_as_32__37_s_32_to_32_accept": {
+      "message": "您需要以%s身份登录才能接受此共享。"
+   },
+   "Share_32_not_32_found": {
+      "message": "找不到共享"
+   },
+   "Share_32_note": {
+      "message": "共享安全笔记"
+   },
+   "Share_32_sent_32_to_32__37_s": {
+      "message": "共享已发送到%s"
+   },
+   "Share_32_site": {
+      "message": "分享申请"
+   },
+   "Share_32_site_32_note": {
+      "message": "允许查看应用笔记"
+   },
+   "Share_32_site_32_read": {
+      "message": "允许查看密码"
+   },
+   "Share_32_to_32__37_s_32_accepted_32_by_32__37_s": {
+      "message": "%s已接受与%s的共享"
+   },
+   "Share_32_to_32__37_s_32_deleted_32_for_32__37_s": {
+      "message": "与%s的共享到%s已被删除"
+   },
+   "Share_32_to_32__37_s_32_expired_32_for_32__37_s": {
+      "message": "与%s的共享已过期%s"
+   },
+   "Share_32_with": {
+      "message": "与某人分享"
+   },
+   "Share_32_with_32_placeholder": {
+      "message": "输入电子邮件地址，以逗号分隔"
+   },
+   "Shared": {
+      "message": "共享"
+   },
+   "Shared_32_Sites": {
+      "message": "共享应用"
+   },
+   "Shared_32_by": {
+      "message": "通过共享"
+   },
+   "Shared_32_by_32__37_s": {
+      "message": "由%s共享"
+   },
+   "Shared_32_with": {
+      "message": "跟...一起分享"
+   },
+   "Shared_32_with_32_me": {
+      "message": "与我分享"
+   },
+   "Shared_32_with_32_others": {
+      "message": "与他人共享"
+   },
+   "Shares": {
+      "message": "分享,分享"
+   },
+   "Sharing": {
+      "message": "分享分享"
+   },
+   "Sharing_32_Settings": {
+      "message": "共享设置"
+   },
+   "Sharing_32_center": {
+      "message": "共享中心"
+   },
+   "Show": {
+      "message": "展示"
+   },
+   "Show_32_Passwords": {
+      "message": "显示密码"
+   },
+   "Show_32_change_32_password": {
+      "message": "当您的应用检测到新密码时，显示更改密码弹出窗口"
+   },
+   "Show_32_details": {
+      "message": "显示详细资料"
+   },
+   "Show_32_features": {
+      "message": "显示功能"
+   },
+   "Show_32_features_32_info": {
+      "message": "显示或隐藏您经常使用的功能。"
+   },
+   "Show_32_input_32_icon": {
+      "message": "在检测到的字段内显示%COMPANY%图标"
+   },
+   "Show_32_less_32_options": {
+      "message": "显示较少的选项"
+   },
+   "Show_32_login_32_dialog": {
+      "message": "在登录页面上显示帐户选择"
+   },
+   "Show_32_more_32_options": {
+      "message": "显示更多选项"
+   },
+   "Show_32_note_32_in_32_dashboard": {
+      "message": "在仪表板中显示笔记"
+   },
+   "Show_32_password_32_generator": {
+      "message": "显示检测到的密码字段的密码生成器"
+   },
+   "Show_32_remember_32_password": {
+      "message": "登录网站时显示“记住密码”弹出窗口"
+   },
+   "Sign_32_Up": {
+      "message": "报名"
+   },
+   "Signup_32_free": {
+      "message": "注册-免费"
+   },
+   "Simple_32_Configuration": {
+      "message": "简单配置"
+   },
+   "Site": {
+      "message": "应用"
+   },
+   "Site_32_Group_32__37_s_32_already_32_exists": {
+      "message": "%s组已存在"
+   },
+   "Site_32_Limit": {
+      "message": "许可的应用"
+   },
+   "Site_32_List": {
+      "message": "申请清单"
+   },
+   "Site_32_Name": {
+      "message": "应用名称"
+   },
+   "Site_32__37_s_32_saved": {
+      "message": "应用程序'%s'的更改已保存"
+   },
+   "Site_32_added": {
+      "message": "应用程序已成功添加。"
+   },
+   "Site_32_business_32_group": {
+      "message": "商业"
+   },
+   "Site_32_credentials_32_shared": {
+      "message": "用户共享管理员用户名和密码"
+   },
+   "Site_32_credentials_32_user": {
+      "message": "用户配置自己的用户名和密码"
+   },
+   "Site_32_default_32_group": {
+      "message": "收藏夹"
+   },
+   "Site_32_deleted": {
+      "message": "申请已被删除"
+   },
+   "Site_32_emergency": {
+      "message": "添加紧急申请"
+   },
+   "Site_32_emergency_32_sent_32_to_32__37_s": {
+      "message": "紧急申请联系人已发送至%s"
+   },
+   "Site_32_events": {
+      "message": "应用事件"
+   },
+   "Site_32_events_32_description": {
+      "message": "使用此选项可以启用/禁用与应用程序相关的事件并删除所有现有事件。如果禁用，则不收集事件"
+   },
+   "Site_32_identifying_32_as_32__37_s_32_require_32_your_32_OpenID_32__37_s_32_identity": {
+      "message": "标识为%s的网站需要您的OpenID %s身份"
+   },
+   "Site_32_not_32_found": {
+      "message": "找不到应用"
+   },
+   "Site_32_not_32_found_32_Step_32_1": {
+      "message": "在浏览器中，登录到您的帐户"
+   },
+   "Site_32_not_32_found_32_Step_32_2": {
+      "message": "%COMPANY%会要求记住您的密码"
+   },
+   "Site_32_not_32_found_32_Step_32_3": {
+      "message": "您的应用已成功添加到%COMPANY%信息中心"
+   },
+   "Site_32_note": {
+      "message": "应用安全说明"
+   },
+   "Site_32_personal_32_group": {
+      "message": "个人的"
+   },
+   "Site_32_privileges": {
+      "message": "申请特权"
+   },
+   "Sites": {
+      "message": "应用,应用领域"
+   },
+   "Sites_32_at_32_risk": {
+      "message": "高风险"
+   },
+   "Sites_32_policy": {
+      "message": "应用密码政策"
+   },
+   "Sites_32_trash_32_delete_32_info": {
+      "message": "垃圾桶中超过30天的应用程序将被自动删除。"
+   },
+   "Sites_32_with_32_problems": {
+      "message": "改善安全性的提示（优先解决的问题）"
+   },
+   "Size": {
+      "message": "尺寸"
+   },
+   "Skip": {
+      "message": "跳过"
+   },
+   "Skip_32_file": {
+      "message": "跳过这个文件"
+   },
+   "Small_32_Icons": {
+      "message": "小图标"
+   },
+   "Smart_32_menu": {
+      "message": "智能菜单"
+   },
+   "Sms_32_authentication": {
+      "message": "短信验证"
+   },
+   "Social": {
+      "message": "社会的"
+   },
+   "Software_32_License": {
+      "message": "软件许可"
+   },
+   "Sorry_32_to_32_see_32_you_32_go": {
+      "message": "我们很伤心看你走！"
+   },
+   "Sort_32_By": {
+      "message": "排序方式"
+   },
+   "Source": {
+      "message": "资源"
+   },
+   "Start": {
+      "message": "开始"
+   },
+   "Started": {
+      "message": "已开始"
+   },
+   "Status": {
+      "message": "状态"
+   },
+   "Step": {
+      "message": "步"
+   },
+   "StickyPassword_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入%COMPANY%之前，必须首先从“粘性密码”中导出用户名/密码。\n\n最后一步：\n要开始从粘性密码导出，请登录到粘性密码。右键单击“ Web帐户”，然后选择“导出”。在“导出”屏幕上，选择“不受保护的导出”，然后选择“将格式导出为纯文本文件”。"
+   },
+   "Storage": {
+      "message": "贮存"
+   },
+   "Storage_32_Mode": {
+      "message": "储存模式"
+   },
+   "Storage_32_changed_32_to_32_cloud": {
+      "message": "存储已更改为云模式"
+   },
+   "Storage_32_changed_32_to_32_desktop": {
+      "message": "存储已更改为桌面模式"
+   },
+   "Storage_32_mode_32_header": {
+      "message": "云与桌面"
+   },
+   "Storage_32_mode_32_top": {
+      "message": "将密码存储在云或计算机中\n自2011年以来，%COMPANY%是唯一提供这两种选择的公司。将凭据保存在安全的云存储中，或者在自己的家用计算机或服务器中选择本地存储。无论哪种方式，您的密码都在您自己的本地计算机中加密。"
+   },
+   "Strength": {
+      "message": "力量"
+   },
+   "Subscription_32_cancelled": {
+      "message": "订阅取消已处理。您的帐户即将更新。"
+   },
+   "Subscription_32_note": {
+      "message": "注意：我们每天按比例分配费用，因此您可以轻松升级订阅"
+   },
+   "Subscription_32_order_32_cancelled": {
+      "message": "您的订单现已取消。我们希望将来能为您服务。"
+   },
+   "Subscription_32_order_32_completed": {
+      "message": "感谢您完成订单。我们将在收到您的付款后立即更新您的帐户。"
+   },
+   "Subscription_32_upgrade_32_footer": {
+      "message": "获得更多功能和更多安全性。而且没有广告。"
+   },
+   "Subscription_32_upgrade_32_header": {
+      "message": "您显然享有极大的安全性。"
+   },
+   "Subscriptions": {
+      "message": "订阅,订阅内容"
+   },
+   "Successful": {
+      "message": "成功的"
+   },
+   "Suggest": {
+      "message": "建议"
+   },
+   "Suggest_32_site_32_for_32_catalog": {
+      "message": "推荐一个应用添加到目录"
+   },
+   "Suggest_32_site_32_for_32_catalog_32_description": {
+      "message": "您是否要添加一个不在我们目录中的应用程序/网站/网络帐户？请提个建议"
+   },
+   "Suggestion_32_box_32_title": {
+      "message": "欢迎使用%COMPANY%建议框"
+   },
+   "Support_32__38__32_Training": {
+      "message": "支持与培训"
+   },
+   "Supported_32_in_32__37_s": {
+      "message": "在%s中受支持"
+   },
+   "Supports_32__37_s": {
+      "message": "支持%s"
+   },
+   "Suspicious_32_device": {
+      "message": "可疑设备"
+   },
+   "TFA": {
+      "message": "两要素认证"
+   },
+   "TFA_32_Authentication_32_description": {
+      "message": "请选择两因素身份验证方法"
+   },
+   "TFA_32_final": {
+      "message": "最终结果：（2FA）\n受两方面身份验证保护"
+   },
+   "TFA_32_first_32_factor": {
+      "message": "第一个因素：\n您的%COMPANY%主密码"
+   },
+   "TFA_32_second_32_factor": {
+      "message": "第二因素：\n从下面选择一种身份验证方法"
+   },
+   "Take_32_action": {
+      "message": "采取行动"
+   },
+   "Teal": {
+      "message": "蓝绿色"
+   },
+   "Team_32__38__32_Workgroup": {
+      "message": "团队与工作组"
+   },
+   "Tear_32_and_32_take": {
+      "message": "撕裂和带走"
+   },
+   "Thank_32_You": {
+      "message": "谢谢你"
+   },
+   "This_32_USB_32_is_32_not_32_plugged": {
+      "message": "未插入此USB闪存驱动器"
+   },
+   "This_32_coupon_32_is_32_not_32_valid": {
+      "message": "此优惠券无效或已过期。"
+   },
+   "This_32_coupon_32_is_32_valid_32_but_32_can_39_t_32_use": {
+      "message": "此优惠券有效，但您不能将其用于此产品。"
+   },
+   "This_32_feature_32_is_32_available_32_only_32_in_32_Cloud_32_Mode": {
+      "message": "此功能仅在“云模式”下可用"
+   },
+   "This_32_feature_32_is_32_not_32_available_32_when_32_protected_32_mode_32_is_32_enabled": {
+      "message": "启用Internet Explorer保护模式时，此功能不可用"
+   },
+   "This_32_input_32_is_32_already_32_added": {
+      "message": "此输入已添加"
+   },
+   "This_32_is_32_a_32_gift": {
+      "message": "这是一份礼物"
+   },
+   "This_32_is_32_your_32_recovery_32_email": {
+      "message": "这是您的辅助邮箱。"
+   },
+   "This_32_item_32_already_32_exists": {
+      "message": "此项目已存在，已被跳过。"
+   },
+   "This_32_month": {
+      "message": "这个月"
+   },
+   "This_32_site_32_already_32_exists": {
+      "message": "此应用程序已存在于%COMPANY%中（重复）"
+   },
+   "This_32_site_32_was_32_ignored": {
+      "message": "这个应用程式已被忽略"
+   },
+   "This_32_week": {
+      "message": "本星期"
+   },
+   "This_32_year": {
+      "message": "今年"
+   },
+   "Tiles": {
+      "message": "瓷砖"
+   },
+   "Time": {
+      "message": "时间"
+   },
+   "Timed_32_out": {
+      "message": "时间到"
+   },
+   "Timezone": {
+      "message": "时区"
+   },
+   "Tip": {
+      "message": "提示"
+   },
+   "Tip_32_2fa": {
+      "message": "如果您的登录名是密码，请添加一个2FA"
+   },
+   "Tip_32_darkweb": {
+      "message": "扫描Dark Web中受感染的帐户！"
+   },
+   "Tip_32_dashboard": {
+      "message": "首先从添加密码开始"
+   },
+   "Tip_32_notes": {
+      "message": "然后，添加安全便笺"
+   },
+   "Tip_32_scorecard": {
+      "message": "您的安全分数是多少？看看你能不能胜任"
+   },
+   "Tip_32_shares": {
+      "message": "管理与您和他人共享的项目"
+   },
+   "Tip_32_storage": {
+      "message": "加密和保护您的文件和照片"
+   },
+   "Tip_32_wallet": {
+      "message": "现在，添加您的信用卡"
+   },
+   "Tips_32_to_32_get_32_started": {
+      "message": "欢迎！\n入门技巧。"
+   },
+   "Title": {
+      "message": "标题"
+   },
+   "To": {
+      "message": "到"
+   },
+   "To_32_Retry": {
+      "message": "重试"
+   },
+   "To_32_get_32_more_32_password_32_change_32_options_32__37_s": {
+      "message": "要享受更多密码更改选项，如下所示：%s"
+   },
+   "To_32_increase_32_your_32_Profile_32_Completeness_32_resolve_32_these_32_requirements": {
+      "message": "要提高配置文件的完整性，请解决以下要求"
+   },
+   "To_32_reset_32_account_32__37_s_32_or_32__37_s_32_to_32_login": {
+      "message": "如果您忘记了密码，请单击%s或转到%s登录到您的帐户。"
+   },
+   "To_32_skip_32_this_32_Ad": {
+      "message": "跳过此广告"
+   },
+   "To_32_unsubscribe_32_emails_32__37_s": {
+      "message": "如果您以后不想再收到这些电子邮件，请%s。"
+   },
+   "To_32_unsubscribe_32_emails_32_follow_32_link_32_below": {
+      "message": "如果您以后不想再收到这些电子邮件，请按照下面的链接退订。"
+   },
+   "To_32_view_32_more_32_sites_32_upgrade_32_or_32_make_32_a_32_referral": {
+      "message": "要在一页上查看更多应用，请升级或推介"
+   },
+   "Today": {
+      "message": "今天"
+   },
+   "Too_32_Short": {
+      "message": "过短"
+   },
+   "Too_32_many_32_invalid_32_attempts": {
+      "message": "无效尝试过多。请稍后再试。"
+   },
+   "Tools": {
+      "message": "工具"
+   },
+   "Tools_32__37_s": {
+      "message": "%s工具"
+   },
+   "Tools_32__37_s_32_installation_32_step_32_1": {
+      "message": "%s工具完全下载后，单击文件开始安装"
+   },
+   "Tools_32_download_32_description": {
+      "message": "%COMPANY% 工具可扩展您的体验。该套餐包括：\n- 允许以下功能的插件：从浏览器导入密码、启用安全备份、桌面存储模式等\n- 具有云加密器支持的 Secure Drive 桌面应用程序\n我们强烈建议您安装并享受这些附加功能。"
+   },
+   "Tools_32_installation_32_mac_32_safari_32_step_32_3": {
+      "message": "向导成功完成后，您必须运行一次%COMPANY%帮助程序。将来您将不再需要打开此应用程序。"
+   },
+   "Tools_32_installation_32_mac_32_step_32_2": {
+      "message": "请单击“继续”开始安装。然后继续执行向导。在安装过程中，系统将要求您输入密码。"
+   },
+   "Tools_32_installation_32_step_32_2": {
+      "message": "安装%COMPANY%工具应花费几秒钟的时间。请等待安装程序完成。"
+   },
+   "Top_32__37_s_32_actions_32_deployed": {
+      "message": "返回页首%s个动作已部署回入侵者！"
+   },
+   "Total": {
+      "message": "全部的"
+   },
+   "Total_32_Groups": {
+      "message": "总组数"
+   },
+   "Total_32_Sites": {
+      "message": "应用总数"
+   },
+   "Total_32_Users": {
+      "message": "总用户"
+   },
+   "Total_32_devices": {
+      "message": "设备总数"
+   },
+   "Total_32_shares": {
+      "message": "股份总数"
+   },
+   "Totp_32_code": {
+      "message": "双因素代码"
+   },
+   "Totp_32_code_32_description": {
+      "message": "在上方粘贴您的安全密钥，%COMPANY% 将为您生成一次性密码。"
+   },
+   "Totp_32_saved": {
+      "message": "双因素代码已成功保存。"
+   },
+   "Trash": {
+      "message": "垃圾"
+   },
+   "Travel": {
+      "message": "旅行"
+   },
+   "Trial_32_confirmation": {
+      "message": "您确定要开始7天免费试用吗？"
+   },
+   "Trial_32_started": {
+      "message": "您7天的试用期才刚刚开始。"
+   },
+   "Troubleshooting": {
+      "message": "故障排除"
+   },
+   "Troubleshooting_32_with_32_antivirus": {
+      "message": "您的防病毒软件有问题吗？\n某些防病毒产品可能会标记并错误地将%COMPANY%安装程序识别为威胁。\n在发布更新或软件的新版本后，%COMPANY%将签名的数字证书分发给流行的防病毒供应商。并非所有供应商都可以立即与其各自的用户群共享我们的更新，这可能导致防病毒程序阻止在用户计算机上进行安装。请配置您的防病毒软件以允许%COMPANY%安装程序运行。如果继续遇到此问题，也可以在安装或升级%COMPANY%之前暂时禁用防病毒软件。"
+   },
+   "Troubleshooting_32_with_32_ffcorrupt": {
+      "message": "附件似乎已损坏，因此无法安装？\n请检查系统时钟时间或时区设置。如果您的系统时钟不同步，这很可能是此问题的原因。我们建议将系统时钟设置为自动与Internet时间服务器同步。"
+   },
+   "Troubleshooting_32_with_32_ffdownload": {
+      "message": "无法下载出现连接失败错误的加载项？\n这是Firefox的已知问题。请按照我们的故障排除指南进行操作：%s"
+   },
+   "Troubleshooting_32_with_32_iedisabled": {
+      "message": "已安装但附加组件仍无法正常工作？\n您启用了%COMPANY%加载项吗？很可能您已安装的加载项已被禁用，或者Internet Explorer尚未提示您启用它。请按照以下说明操作，以手动启用加载项：%s"
+   },
+   "Troubleshooting_32_with_32_iedownload": {
+      "message": "无法开始下载？\n如果单击“下载”按钮，并且IE无法开始下载%COMPANY%安装程序，请尝试以下操作：\n1.关闭所有IE窗口\n2.重新启动一个新的IE窗口\n3.进入“ Internet选项”设置对话框\n4.转到“高级”选项卡\n5.单击“重置Internet Explorer设置”中的“重置...”按钮。\n6.启用复选框“删除个人设置”\n7.单击“重置”，然后尝试重新下载"
+   },
+   "Troubleshooting_32_with_32_tools_45_safari": {
+      "message": "%COMPANY%未检测到工具？\n如果您成功完成了向导，但我们仍然无法检测到工具，请尝试以下操作：\n1.转到“查找器”，然后单击“应用程序”\n2.在搜索栏中输入“ %COMPANY%”\n3.运行“ %COMPANY%”应用，然后再次检查"
+   },
+   "Truekey_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入%COMPANY%之前，必须首先从True Key导出用户名/密码。\n\n单击设置，然后转到应用程序设置，然后在“导出数据”部分中，单击“导出”按钮。"
+   },
+   "Trust_32_device_32_and_32_location": {
+      "message": "信任您的设备和位置"
+   },
+   "Trust_32_this_32_device_32_and_32_location": {
+      "message": "信任此设备和位置"
+   },
+   "Trusted_32_Sites": {
+      "message": "可信任的网站"
+   },
+   "Trusted_32_URL_32_deleted": {
+      "message": "受信任的网址已删除"
+   },
+   "Trusted_32_URL_32_not_32_found": {
+      "message": "找不到受信任的URL"
+   },
+   "Try_32_Again": {
+      "message": "请再试一次"
+   },
+   "Try_32_downloading_32_again": {
+      "message": "再次尝试下载"
+   },
+   "Try_32_one_32_of_32_following": {
+      "message": "请尝试以下方法之一"
+   },
+   "Turquoise": {
+      "message": "绿松石"
+   },
+   "Tutorial": {
+      "message": "教程"
+   },
+   "Tutorial_32_navbar_32_avatar": {
+      "message": "您的帐户信息以及会话数据"
+   },
+   "Tutorial_32_navbar_32_home": {
+      "message": "访问可自定义的仪表板和功能"
+   },
+   "Tutorial_32_navbar_32_logout": {
+      "message": "点击退出"
+   },
+   "Tutorial_32_navbar_32_nav": {
+      "message": "方便地使用所有功能"
+   },
+   "Type": {
+      "message": "类型"
+   },
+   "Type_32_Password_32_that_32_was_32_used_32_during_32_export": {
+      "message": "请输入导出过程中使用的密码"
+   },
+   "Type_32_all_32_characters_32_shown_32_above": {
+      "message": "输入上面显示的所有字符"
+   },
+   "Type_32_password_32_to_32_protect_32_your_32_PKCS_35_12_32_file": {
+      "message": "请输入密码以保护您的PKCS＃12文件"
+   },
+   "Type_32_your_32_own_32_question_32_here": {
+      "message": "在这里输入您自己的问题"
+   },
+   "URL_32_already_32_exists": {
+      "message": "这个链接已存在。"
+   },
+   "USB_32_Drive": {
+      "message": "U盘"
+   },
+   "USB_32_Drive_32_header": {
+      "message": "配置您的USB闪存驱动器以生成一次性密码（OTP）"
+   },
+   "USB_32_is_32_not_32_detected": {
+      "message": "未检测到USB设备。请将USB闪存驱动器插入计算机，然后等待几秒钟。"
+   },
+   "USB_32_writting_32_failed": {
+      "message": "%COMPANY%无法访问此USB设备"
+   },
+   "US_32_State": {
+      "message": "美国州"
+   },
+   "Unable_32_to_32_connect_32_with_32__37_s": {
+      "message": "无法与%s连接"
+   },
+   "Unable_32_to_32_connect_32_with_32_any_32_devices": {
+      "message": "无法与您的任何设备连接。"
+   },
+   "Unauthorized_32_attempt": {
+      "message": "未经授权的尝试"
+   },
+   "Undefined": {
+      "message": "不明确的"
+   },
+   "Unknown_32_Authentication": {
+      "message": "未知身份验证方法"
+   },
+   "Unknown_32_Error": {
+      "message": "未知错误"
+   },
+   "Unknown_32_Event": {
+      "message": "未知事件"
+   },
+   "Unknown_32_Format": {
+      "message": "未知格式"
+   },
+   "Unknown_32_Key_32_Format": {
+      "message": "未知密钥格式"
+   },
+   "Unknown_32_client": {
+      "message": "未知的客户"
+   },
+   "Unlike": {
+      "message": "不像"
+   },
+   "Unlimited": {
+      "message": "无限"
+   },
+   "Unlimited_32_sites": {
+      "message": "无限的应用"
+   },
+   "Unlock_32_account": {
+      "message": "解锁您的帐户"
+   },
+   "Unlock_32_account_32_link": {
+      "message": "要解锁您的帐户，请将以下链接复制并粘贴到浏览器中："
+   },
+   "Unprotected_32_login": {
+      "message": "未受保护的登录"
+   },
+   "Unprotected_32_login_32_score": {
+      "message": "受保护的登录分数"
+   },
+   "Unprotected_32_login_32_title": {
+      "message": "未受保护和受保护的登录警告"
+   },
+   "Unselect_32_All": {
+      "message": "全部取消选择"
+   },
+   "Unsubscribe": {
+      "message": "退订"
+   },
+   "Unsubscribed_32_emails": {
+      "message": "您已成功取消订阅这些电子邮件。"
+   },
+   "Until_32__37_s": {
+      "message": "直到%s"
+   },
+   "Up_32_to_32__37_s": {
+      "message": "最多%s"
+   },
+   "Update_32_Your_32_profile_32_using_32__37_s": {
+      "message": "使用%s更新您的个人资料"
+   },
+   "Update_32_to_32__37_s": {
+      "message": "更新至%s"
+   },
+   "Update_32_tools_32_to_32__37_s": {
+      "message": "更新工具到%s"
+   },
+   "Updated_32__37_s_32_ago": {
+      "message": "%s前已更新"
+   },
+   "Updating_32__37_s_32_sites": {
+      "message": "更新%s个现有应用程序,更新%s个现有应用程序"
+   },
+   "Upgrade": {
+      "message": "升级"
+   },
+   "Upgrade_32_Extension_32_to_32_use_32_this_32_feature": {
+      "message": "请升级您的浏览器扩展程序以使用此功能"
+   },
+   "Upgrade_32_License": {
+      "message": "升级许可证"
+   },
+   "Upgrade_32_License_32_or_32_make_32_Referral": {
+      "message": "升级许可证或转介"
+   },
+   "Upgrade_32_License_32_to_32__37_s": {
+      "message": "请升级到%s或更高版本才能使用此功能"
+   },
+   "Upgrade_32_License_32_to_32__37_s_32_to_32_use_32_usb": {
+      "message": "请升级到%s或更高版本，以便使用此USB闪存盘"
+   },
+   "Upgrade_32_License_32_to_32_add_32_more_32__37_s": {
+      "message": "请升级您的许可证以添加更多%s"
+   },
+   "Upgrade_32_License_32_to_32_get_32_sites": {
+      "message": "升级您的%COMPANY%许可或进行更多推荐以获取免费应用"
+   },
+   "Upgrade_32_License_32_to_32_use_32_this_32_feature": {
+      "message": "请升级以使用此功能"
+   },
+   "Upgrade_32_license_32_to_32_use_32_dock": {
+      "message": "请升级以使用生产力扩展坞"
+   },
+   "Upgrade_32_now": {
+      "message": "现在升级"
+   },
+   "Upgrade_32_or_32_make_32_a_32_Referral": {
+      "message": "升级或推荐"
+   },
+   "Upgrade_32_title": {
+      "message": "功能丰富，无广告"
+   },
+   "Upgrade_32_to_32__37_s": {
+      "message": "升级至%s"
+   },
+   "Upgrade_32_to_32_higher_32_edition": {
+      "message": "请升级到更高版本"
+   },
+   "Upload": {
+      "message": "上载"
+   },
+   "Upload_32_options": {
+      "message": "上传选项"
+   },
+   "Upload_32_to_32__37_s": {
+      "message": "上载到%s"
+   },
+   "Uploaded": {
+      "message": "已上传"
+   },
+   "Uploading": {
+      "message": "上载中"
+   },
+   "Usage": {
+      "message": "用法"
+   },
+   "Usb_32_authentication": {
+      "message": "USB闪存盘验证"
+   },
+   "Use": {
+      "message": "使用"
+   },
+   "Use_32_the_32_following_32_list_32_to_32_add_32_sites": {
+      "message": "您可以使用以下列表添加应用"
+   },
+   "Used_32__37_s": {
+      "message": "已使用%s"
+   },
+   "User_32_List": {
+      "message": "使用者名单"
+   },
+   "User_32__37_s_32_accepted_32_emergency_32_access_32_for_32__37_s": {
+      "message": "%s接受了%s的紧急访问邀请。"
+   },
+   "User_32__37_s_32_accepted_32_emergency_32_access_32_for_32_account": {
+      "message": "%s接受了您帐户的紧急访问邀请。"
+   },
+   "User_32__37_s_32_already_32_exists": {
+      "message": "用户%s已存在"
+   },
+   "User_32__37_s_32_created": {
+      "message": "用户'%s'已成功创建"
+   },
+   "User_32__37_s_32_emergency_32_access_32_after_32__37_s_32_waiting_32_period": {
+      "message": "在%s个等待时间之后，将授予%s个访问权限。请注意，您可以随时拒绝访问。"
+   },
+   "User_32__37_s_32_emergency_32_access_32_declined": {
+      "message": "%s将不再被授予访问权限。"
+   },
+   "User_32__37_s_32_emergency_32_access_32_declined_32_for_32__37_s": {
+      "message": "%s的%s紧急访问权限已被拒绝。"
+   },
+   "User_32__37_s_32_emergency_32_access_32_declined_32_for_32_account": {
+      "message": "您帐户的%s紧急访问权限已被拒绝。"
+   },
+   "User_32__37_s_32_emergency_32_access_32_immediately": {
+      "message": "没有等待时间，并且%s将立即被授予访问权限。"
+   },
+   "User_32__37_s_32_requested_32_emergency_32_access_32_to_32__37_s": {
+      "message": "%s请求紧急访问%s。"
+   },
+   "User_32__37_s_32_requested_32_emergency_32_access_32_to_32_account": {
+      "message": "%s请求紧急访问您的帐户。"
+   },
+   "User_32__37_s_32_saved": {
+      "message": "用户'%s'的更改已保存"
+   },
+   "User_32__37_s_32_saved_32_permissions": {
+      "message": "用户'%s'的权限已保存"
+   },
+   "User_32__37_s_32_saved_32_roles": {
+      "message": "用户'%s'角色已保存"
+   },
+   "User_32_account_32_locked_32_for_32__37_s": {
+      "message": "您的帐户已被暂时锁定%s。我们已向您发送了一封电子邮件，其中包含有关如何解锁帐户的说明"
+   },
+   "User_32_activated": {
+      "message": "用户帐户已激活。"
+   },
+   "User_32_already_32_in_32_family": {
+      "message": "用户已经是家庭成员。"
+   },
+   "User_32_created": {
+      "message": "用户帐号已创建。"
+   },
+   "User_32_deactivated": {
+      "message": "用户帐户已被停用。"
+   },
+   "User_32_deleted": {
+      "message": "用户已被删除"
+   },
+   "User_32_deprovisioned_32_from_32__37_s": {
+      "message": "用户已从%s取消配置"
+   },
+   "User_32_is_32_not_32_enrolled": {
+      "message": "用户尚未注册%COMPANY%"
+   },
+   "User_32_is_32_not_32_logged": {
+      "message": "用户未登录"
+   },
+   "User_32_login_32_failed": {
+      "message": "用户不存在或密码无效"
+   },
+   "User_32_login_32_locked": {
+      "message": "您的帐户已被暂时锁定。"
+   },
+   "User_32_login_32_locked_32_after_32__37_s_32_attempts": {
+      "message": "%s次未成功登录尝试后，您的帐户将被锁定"
+   },
+   "User_32_login_32_locked_32_for_32__37_s": {
+      "message": "由于尝试登录失败的次数过多，您的帐户已被暂时锁定%s。此外，我们还向您发送了一封电子邮件，其中包含有关如何解锁帐户的说明"
+   },
+   "User_32_login_32_not_32_active": {
+      "message": "您的帐户无效。请与您的管理员联系。"
+   },
+   "User_32_login_32_not_32_confirmed": {
+      "message": "您的帐户电子邮件地址未确认"
+   },
+   "User_32_login_32_unlock": {
+      "message": "您的帐户已被解锁"
+   },
+   "User_32_not_32_found": {
+      "message": "找不到用户"
+   },
+   "User_32_password_32_expired": {
+      "message": "您的帐户密码已过期"
+   },
+   "User_32_provisioned_32_to_32__37_s": {
+      "message": "用户已设置为%s"
+   },
+   "User_32_push_32_failed": {
+      "message": "用户不存在或未安装%COMPANY%移动应用。"
+   },
+   "User_32_reset_32__37_s": {
+      "message": "用户已重置%s"
+   },
+   "User_32_setup_32__37_s": {
+      "message": "用户已设置%s"
+   },
+   "Username": {
+      "message": "用户名"
+   },
+   "Username_32_and_32_password_32_is_32_valid_32_for_32_different_32_user": {
+      "message": "用户名和密码对其他用户有效"
+   },
+   "Username_32_field_32_detected": {
+      "message": "成功检测到用户名字段"
+   },
+   "Users": {
+      "message": "用户,用户数"
+   },
+   "Users_32_Management": {
+      "message": "用户管理"
+   },
+   "Users_32_passwords_32_expire_32_description": {
+      "message": "用户将不得不定期更改其密码"
+   },
+   "Users_32_passwords_32_expire_32_in": {
+      "message": "用户密码在中过期"
+   },
+   "Valid_32_from_32__37_s_32_to_32__37_s": {
+      "message": "有效期为%s至%s"
+   },
+   "Valid_32_until_32__37_s": {
+      "message": "有效期至%s"
+   },
+   "Verification": {
+      "message": "确认"
+   },
+   "Verify": {
+      "message": "核实"
+   },
+   "Verify_32_that_32__37_s_32_belongs_32_to_32_you": {
+      "message": "我们必须首先验证电子邮件地址%s属于您"
+   },
+   "Verify_32_your_32_email": {
+      "message": "请验证您的电子邮件地址"
+   },
+   "Verifying": {
+      "message": "验证中"
+   },
+   "Version": {
+      "message": "版本"
+   },
+   "Version_32__37_s": {
+      "message": "%COMPANY%版本%s"
+   },
+   "Video": {
+      "message": "视频"
+   },
+   "View": {
+      "message": "看法"
+   },
+   "View_32_Note": {
+      "message": "查看笔记"
+   },
+   "Visual_32_OTP": {
+      "message": "视觉OTP"
+   },
+   "Voice_32_Call": {
+      "message": "语音通话"
+   },
+   "Voice_32_Call_32_made_32_to_32__37_s": {
+      "message": "已对%s进行语音通话"
+   },
+   "Voice_32_authentication": {
+      "message": "语音通话认证"
+   },
+   "Voice_32_call_32_charges_32_in": {
+      "message": "语音通话收费"
+   },
+   "Wait_32_for_32_tools": {
+      "message": "等待工具安装"
+   },
+   "Wait_32_while_32_counting_32_files": {
+      "message": "正在计算文件，请稍候。"
+   },
+   "Wait_32_while_32_decrypting_32_your_32_passwords": {
+      "message": "请等待解密密码"
+   },
+   "Waiting": {
+      "message": "等待"
+   },
+   "Waiting_32__37_s_32_to_32_access_32__37_s": {
+      "message": "等待%s访问%s"
+   },
+   "Waiting_32__37_s_32_to_32_access_32_account": {
+      "message": "正在等待%s访问帐户"
+   },
+   "Waiting_32_for_32_device": {
+      "message": "等待您的设备"
+   },
+   "Waiting_32_for_32_operator": {
+      "message": "等待操作员"
+   },
+   "Waiting_32_for_32_password": {
+      "message": "等待密码"
+   },
+   "Waiting_32_for_32_username": {
+      "message": "等待用户名"
+   },
+   "Waiting_32_period": {
+      "message": "等待期"
+   },
+   "Waiting_32_to_32_confirm_32_your_32_email": {
+      "message": "等待确认您的电子邮件。请检查您的收件箱。"
+   },
+   "Waiting_32_to_32_confirm_32_your_32_recovery_32_email": {
+      "message": "等待确认您的辅助邮箱。请检查您的收件箱。"
+   },
+   "Wallet": {
+      "message": "安全钱包"
+   },
+   "Wallet_32_cards": {
+      "message": "安全钱包卡"
+   },
+   "Wallet_32_cards_32_info": {
+      "message": "将卡添加到您的安全钱包。自动填写付款表格并享受快速结帐。"
+   },
+   "Wallet_32_empty_32_page": {
+      "message": "将卡添加到您的安全钱包。自动填写付款表格并享受快速结帐。"
+   },
+   "Warning": {
+      "message": "警告"
+   },
+   "Watch_32_video": {
+      "message": "看视频"
+   },
+   "We_32_are_32_sorry": {
+      "message": "对不起"
+   },
+   "We_32_just_32_sent_32_email_32_to_32_disable_32_TFA": {
+      "message": "我们刚刚向您发送了一封电子邮件，其中包含有关如何关闭两因素身份验证的说明"
+   },
+   "We_32_sent_32_a_32_text_32_message_32_to_32__37_s_32_with_32_a_32_code": {
+      "message": "我们使用一次性密码向%s发送了一条短信，请在下面输入"
+   },
+   "We_32_sent_32_email_32_to_32__37_s_32_with_32_a_32_code": {
+      "message": "我们已向%s发送了一封包含代码的电子邮件"
+   },
+   "We_32_support_32_following": {
+      "message": "我们支持以下"
+   },
+   "We_32_will_32_call_32_you_32_at_32__37_s_32_with_32_a_32_code": {
+      "message": "我们将通过一次输入密码%s致电您，请在下面输入"
+   },
+   "We_32_will_32_send_32_email_32_to_32_disable_32_TFA": {
+      "message": "我们将向您发送一封电子邮件，其中包含有关如何关闭两因素身份验证的说明"
+   },
+   "Website": {
+      "message": "网站"
+   },
+   "Website_32_Image": {
+      "message": "网站图片"
+   },
+   "Website_32_URL": {
+      "message": "网址"
+   },
+   "Weekly": {
+      "message": "每周"
+   },
+   "Welcome": {
+      "message": "欢迎"
+   },
+   "Welcome_32__37_s": {
+      "message": "欢迎%s"
+   },
+   "Welcome_32_to_32__37_s_32_installation_32_process_32_for_32__37_": {
+      "message": "欢迎使用%s的安装过程，％"
+   },
+   "What_32_increases_32_your_32_score": {
+      "message": "什么增加了您的分数"
+   },
+   "What_32_is_32_the_32_name_32_of_32_your_32_favorite_32_childhood_32_friend_63_": {
+      "message": "您最喜欢的儿时朋友叫什么名字？\n示例：Alexandra（必须为8个字符或更多）"
+   },
+   "What_32_is_32_your_32_best_32_friend_32_phone_32_number_63_": {
+      "message": "你最好的朋友的电话号码是多少？\n示例：7035551212"
+   },
+   "What_32_is_32_your_32_mother_39_s_32_maiden_32_name_63_": {
+      "message": "你妈妈的娘家姓什么？\n示例：金伯利（必须为8个字符或更多）"
+   },
+   "What_32_is_32_your_32_spouse_32_phone_32_number_63_": {
+      "message": "您配偶的电话号码是多少？\n示例：7035551212"
+   },
+   "What_32_lowers_32_your_32_score": {
+      "message": "什么降低了你的分数"
+   },
+   "What_32_was_32_your_32_childhood_32_nickname_63_": {
+      "message": "你小时候的小名是什么？\n示例：Thunderbird（必须为8个字符或更多）"
+   },
+   "Which_32_email_32_address_32_should_32_we_32_send_32_codes_32_to_63_": {
+      "message": "我们应该将代码发送到哪个电子邮件地址？"
+   },
+   "Which_32_phone_32_should_32_we_32_send_32_codes_32_to_63_": {
+      "message": "我们向您发送一个一次性密码。请输入电话号码以接收您的验证码："
+   },
+   "Who_32_has_32_access": {
+      "message": "谁有权访问"
+   },
+   "Wi_45_Fi_32_Codes": {
+      "message": "Wi-Fi代码"
+   },
+   "With_32_ads": {
+      "message": "包含广告"
+   },
+   "With_32_password": {
+      "message": "带密码"
+   },
+   "Wizard_32_import_32_description": {
+      "message": "请查看并选择所需的帐户。"
+   },
+   "Wizard_32_import_32_header": {
+      "message": "导入和加密您的现有密码"
+   },
+   "Wizard_32_mobile_32_header": {
+      "message": "添加移动设备并与您的帐户配对"
+   },
+   "Work": {
+      "message": "工作"
+   },
+   "Workstation": {
+      "message": "工作站"
+   },
+   "Would_32_you_32_like_32_to_32_configure_32_device_32_again_63_": {
+      "message": "您要重新配置设备吗？"
+   },
+   "Would_32_you_32_like_32_to_32_install_63_": {
+      "message": "您要安装吗？"
+   },
+   "Would_32_you_32_like_32_to_32_learn_32_more_63_": {
+      "message": "您想了解更多吗？"
+   },
+   "Would_32_you_32_like_32_to_32_update_63_": {
+      "message": "您要更新吗？"
+   },
+   "X_46_509": {
+      "message": "X.509证书"
+   },
+   "X_46_509_32_Authentication": {
+      "message": "X.509证书认证"
+   },
+   "X_46_509_32_is_32_valid_32_for_32_different_32_user": {
+      "message": "X.509证书对其他用户有效"
+   },
+   "Yellow": {
+      "message": "黄色的"
+   },
+   "Yes": {
+      "message": "是的"
+   },
+   "You_32_already_32_have_32__37_s_32_of_32_these_32_sites": {
+      "message": "您已经有%s个这些应用程序"
+   },
+   "You_32_are_32_buying_32_one_45_time_32_gift": {
+      "message": "您正在购买一次性礼物。"
+   },
+   "You_32_are_32_close": {
+      "message": "你好亲近"
+   },
+   "You_32_are_32_done": {
+      "message": "大功告成"
+   },
+   "You_32_are_32_logged_32_in": {
+      "message": "您已登录。"
+   },
+   "You_32_are_32_not_32_allowed_32_for_32_this_32_action": {
+      "message": "您无权执行此操作"
+   },
+   "You_32_are_32_not_32_allowed_32_to_32_view_32_this_32_note": {
+      "message": "您无权查看此注释"
+   },
+   "You_32_are_32_referred_32_by_32__37_s": {
+      "message": "%s邀请您"
+   },
+   "You_32_are_32_sharing_32_with_32__37_s_32_friends": {
+      "message": "您正在与%s个朋友共享您的应用"
+   },
+   "You_32_are_32_using_32_Cloud_32_Mode": {
+      "message": "您正在使用云模式"
+   },
+   "You_32_are_32_using_32_Desktop_32_Mode": {
+      "message": "您当前正在使用桌面模式"
+   },
+   "You_32_can_32_add_32_up_32_to_32__37_s_32_users": {
+      "message": "您最多可以添加%s个用户。"
+   },
+   "You_32_can_32_save_32_up_32_to_32__37_s": {
+      "message": "您最多可以保存%s。"
+   },
+   "You_32_can_32_scan_32_up_32_to_32__37_s_32_emails": {
+      "message": "您最多可以扫描%s个电子邮件。"
+   },
+   "You_32_can_39_t_32_receive_32_more_32_text_32_messages": {
+      "message": "您无法收到更多短信"
+   },
+   "You_32_can_39_t_32_receive_32_more_32_voice_32_calls": {
+      "message": "您再也无法接听语音电话"
+   },
+   "You_32_click_32_on_32_field": {
+      "message": "您单击一个字段，或"
+   },
+   "You_32_click_32_on_32_icon": {
+      "message": "您单击%COMPANY%图标"
+   },
+   "You_32_received_32_gift": {
+      "message": "你刚收到礼物"
+   },
+   "You_32_trust_32_this_32_computer_32_for_32_next_32__37_s": {
+      "message": "您信任此计算机用于下一个%s"
+   },
+   "You_32_will_32_be_32_automatically_32_logged_32_in_32__37_s": {
+      "message": "您将自动登录%s"
+   },
+   "Your_32_Answer": {
+      "message": "你的答案"
+   },
+   "Your_32_OTP_32_is": {
+      "message": "您的%COMPANY%一次性密码为"
+   },
+   "Your_32_OpenID_32_Identifier": {
+      "message": "您的OpenID标识符"
+   },
+   "Your_32_Own_32_Question": {
+      "message": "您自己的问题"
+   },
+   "Your_32_Referral_32_Link": {
+      "message": "您的邀请链接"
+   },
+   "Your_32__37_s_32_gift_32_delivered_32_to_32__37_s": {
+      "message": "您的 %s 订阅礼物付款现已完成。我们刚刚向 %s 发送了一封关于您的礼物的电子邮件。"
+   },
+   "Your_32_code_32_is_32__37_s": {
+      "message": "您的%COMPANY%验证码是%s"
+   },
+   "Your_32_device_32__37_s_32_is_32_now_32_trusted": {
+      "message": "您的设备%s现在是受信任的。"
+   },
+   "Your_32_download_32_should_32_start": {
+      "message": "您的下载应该已经开始。没工作吗"
+   },
+   "Your_32_gift_32_delivered": {
+      "message": "您的礼物已送达"
+   },
+   "Your_32_ip_32__37_s_32_is_32_now_32_trusted": {
+      "message": "您的IP地址%s现在是受信任的。"
+   },
+   "Your_32_password_32_must_32_have": {
+      "message": "您的密码必须有"
+   },
+   "Your_32_password_32_will_32_expire_32_in_32__37_s": {
+      "message": "您的%COMPANY%密码即将在%s中过期"
+   },
+   "Your_32_question": {
+      "message": "你的问题"
+   },
+   "Your_32_rating": {
+      "message": "你的评分"
+   },
+   "Your_32_recovery_32_email_32_changed": {
+      "message": "您的辅助邮箱地址已更改"
+   },
+   "Your_32_score": {
+      "message": "你的分数"
+   },
+   "Your_32_username_32_or_32_password_32_is_32_wrong": {
+      "message": "您的用户名或密码错误"
+   },
+   "Zip_32_Code": {
+      "message": "邮编/邮政编码"
+   },
+   "Zoho_32_Import_32_Instructions": {
+      "message": "将现有的用户名/密码导入%COMPANY%之前，必须先从Zoho导出用户名/密码。\n\n步骤1：\n通过https://www.zoho.com/vault/登录到您的Zoho Vault\n\n第2步：\n然后单击工具->导出机密。选择“ Web帐户”类型，然后单击“保存到磁盘”"
+   },
+   "_37_s_32_ago": {
+      "message": "%s前"
+   },
+   "_37_s_32_already_32_exists_32_in_32_this_32_location": {
+      "message": "%s 已存在于该位置。"
+   },
+   "_37_s_32_at_32_risk": {
+      "message": "%s处于危险中"
+   },
+   "_37_s_32_contains_32_forbidden_32_characters_32__37_s": {
+      "message": "%s包含禁止的字符%s"
+   },
+   "_37_s_32_discount": {
+      "message": "%s的折扣"
+   },
+   "_37_s_32_extension_32_description": {
+      "message": "请安装%COMPANY%浏览器扩展程序以使用密码管理器"
+   },
+   "_37_s_32_extension_32_is_32_installed": {
+      "message": "%s已安装浏览器扩展"
+   },
+   "_37_s_32_extension_32_require_32_update_32_to_32__37_s_32_from_32__37_s": {
+      "message": "%s浏览器扩展程序需要更新-最新版本：%s（您的版本：%s）"
+   },
+   "_37_s_32_extension_32_require_32_verification": {
+      "message": "%s浏览器扩展程序需要您的验证"
+   },
+   "_37_s_32_files": {
+      "message": "%s个文件"
+   },
+   "_37_s_32_for_32__37_s_32_then_32__37_s_32_for_32_each_32__37_s": {
+      "message": "%s（第一个%s）。然后是每个%s的%s。"
+   },
+   "_37_s_32_for_32_each_32__37_s": {
+      "message": "每个%s为%s。"
+   },
+   "_37_s_32_for_32_first_32__37_s": {
+      "message": "%s 表示第一个 %s。"
+   },
+   "_37_s_32_for_32_more_32_information": {
+      "message": "%s了解更多信息。"
+   },
+   "_37_s_32_free_32_of_32__37_s": {
+      "message": "%s免费的%s"
+   },
+   "_37_s_32_has_32_logged_32_in_32_as_32__37_s": {
+      "message": "%s以%s的身份登录"
+   },
+   "_37_s_32_has_32_logged_32_into_32__37_s": {
+      "message": "%s已登录%s"
+   },
+   "_37_s_32_has_32_logged_32_out_32_from_32__37_s": {
+      "message": "%s已从%s注销"
+   },
+   "_37_s_32_is_32_correct": {
+      "message": "%s是正确的"
+   },
+   "_37_s_32_is_32_empty": {
+      "message": "%s是必填项，不能为空"
+   },
+   "_37_s_32_is_32_no_32_longer_32_available": {
+      "message": "%s不再可用"
+   },
+   "_37_s_32_is_32_not_32_configured": {
+      "message": "%s未配置"
+   },
+   "_37_s_32_is_32_not_32_installed": {
+      "message": "%s未安装"
+   },
+   "_37_s_32_is_32_not_32_number": {
+      "message": "%s必须为数字"
+   },
+   "_37_s_32_is_32_not_32_selected": {
+      "message": "未选择%s"
+   },
+   "_37_s_32_is_32_not_32_supported": {
+      "message": "不支持%s"
+   },
+   "_37_s_32_is_32_not_32_valid": {
+      "message": "%s无效"
+   },
+   "_37_s_32_is_32_not_32_valid_32_URL": {
+      "message": "%s必须是具有有效域的有效URL"
+   },
+   "_37_s_32_is_32_not_32_valid_32_email_32_address": {
+      "message": "%s必须是有效的电子邮件地址"
+   },
+   "_37_s_32_is_32_not_32_valid_32_hostname": {
+      "message": "%s与DNS主机名的预期结构不匹配"
+   },
+   "_37_s_32_is_32_not_32_valid_32_phone_32_number": {
+      "message": "%s无效的电话号码"
+   },
+   "_37_s_32_is_32_not_32_valid_32_phone_32_number_32_or_32_email": {
+      "message": "%s无效的电话号码或电子邮件"
+   },
+   "_37_s_32_is_32_not_32_valid_32_recipient": {
+      "message": "%s不是有效的收件人"
+   },
+   "_37_s_32_is_32_too_32_long": {
+      "message": "%s太长"
+   },
+   "_37_s_32_is_32_too_32_short": {
+      "message": "%s太短"
+   },
+   "_37_s_32_items_32_already_32_exists": {
+      "message": "%s个项目已存在，已被跳过。"
+   },
+   "_37_s_32_items_32_import_32_failed": {
+      "message": "%s项导入失败。"
+   },
+   "_37_s_32_items_32_imported": {
+      "message": "%s个项目已成功导入。"
+   },
+   "_37_s_32_km": {
+      "message": "%s公里,%s公里"
+   },
+   "_37_s_32_left_32_of_32__37_s_32_trial": {
+      "message": "%s试用版的左侧%s"
+   },
+   "_37_s_32_length_32_at_32_least": {
+      "message": "%s的长度至少应为%s个字符"
+   },
+   "_37_s_32_length_32_at_32_most_32__37_s": {
+      "message": "%s的最大长度为%s个字符"
+   },
+   "_37_s_32_method": {
+      "message": "%s方法"
+   },
+   "_37_s_32_mi": {
+      "message": "%s英里,%s英里"
+   },
+   "_37_s_32_not_32_affected": {
+      "message": "%s不受影响"
+   },
+   "_37_s_32_of_32__37_s": {
+      "message": "%s（共%s）"
+   },
+   "_37_s_32_of_32_your_32_passwords_32_length_32_is_32_lower_32_then_32__37_s_32_characters": {
+      "message": "您的应用程序中%s的密码长度小于%s个字符。请更改长度和强度"
+   },
+   "_37_s_32_or_32__37_s": {
+      "message": "%s或%s"
+   },
+   "_37_s_32_other_32_items": {
+      "message": "%s其他项目"
+   },
+   "_37_s_32_passwords": {
+      "message": "%s密码,%s个密码"
+   },
+   "_37_s_32_passwords_32_failed": {
+      "message": "%s密码失败,%s密码失败"
+   },
+   "_37_s_32_phone_32_credits": {
+      "message": "%s个学分（语音和短信）"
+   },
+   "_37_s_32_remembered_32_passwords": {
+      "message": "%s记住的密码,%s记住的密码"
+   },
+   "_37_s_32_removed": {
+      "message": "%s已被删除"
+   },
+   "_37_s_32_saved": {
+      "message": "%s的更改已保存"
+   },
+   "_37_s_32_sent_32_you_32_gift": {
+      "message": "%s 为您准备了礼物订阅。"
+   },
+   "_37_s_32_sites": {
+      "message": "%s个应用"
+   },
+   "_37_s_32_sites_32_already_32_exists": {
+      "message": "%s个应用程序已存在，已被跳过。"
+   },
+   "_37_s_32_sites_32_ignored": {
+      "message": "%s个应用已被忽略。"
+   },
+   "_37_s_32_sites_32_import_32_failed": {
+      "message": "%s网站导入失败。"
+   },
+   "_37_s_32_sites_32_imported": {
+      "message": "%s个网站已成功导入。"
+   },
+   "_37_s_32_subscription_32_is_32_ready": {
+      "message": "您的 %s 订阅现在可以使用了！"
+   },
+   "_37_s_32_times": {
+      "message": "%s时间,%s次"
+   },
+   "_37_s_32_times_32_used": {
+      "message": "已使用%s次"
+   },
+   "_37_s_32_to_32_buy_32_more_32_credits": {
+      "message": "%s可以购买更多的积分"
+   },
+   "_37_s_32_to_32_complete_32_your_32_signup": {
+      "message": "%s完成免费注册"
+   },
+   "_37_s_32_to_32_continue_32_wizard": {
+      "message": "此帐户已部分设置。 %s继续设置入门向导。"
+   },
+   "_37_s_32_to_32_login": {
+      "message": "此帐户已完全设置。 %s登录并享受%COMPANY%。"
+   },
+   "_37_s_32_to_32_login_32_and_32_continue_32_wizard": {
+      "message": "此帐户已部分设置。 %s登录，并继续使用入门向导进行设置。"
+   },
+   "_37_s_32_to_32_navigate_32_home": {
+      "message": "此帐户已完全设置。 %s继续并享受%COMPANY%。"
+   },
+   "_37_s_32_to_32_resend_32_email_32_for_32__37_s": {
+      "message": "%s重新发送电子邮件到%s"
+   },
+   "_37_s_32_to_32_reset_32_and_32_continue_32_wizard": {
+      "message": "此帐户已部分设置。 %s添加密码，并继续使用入门向导进行设置。"
+   },
+   "_37_s_32_to_32_schedule_32_with_32_support": {
+      "message": "%s与我们的支持工程师安排一对一的协助"
+   },
+   "_37_s_32_value_32_at_32_least_32__37_s": {
+      "message": "%s的值必须至少为%s"
+   },
+   "_37_s_32_value_32_at_32_most_32__37_s": {
+      "message": "%s的值不得超过%s"
+   },
+   "_37_s_32_waiting_32_period_32_before_32_accessing_32__37_s": {
+      "message": "%s访问%s之前的等待时间"
+   },
+   "_37_s_32_waiting_32_period_32_before_32_accessing_32_account": {
+      "message": "%s访问帐户之前的等待时间"
+   },
+   "_37_s_32_would_32_like_32_to_32_acces_32_account": {
+      "message": "%s希望获得您的帐户的权限"
+   },
+   "_37_s_32_would_32_like_32_to_32_share_32_site_32_with_32_you": {
+      "message": "%s想与您分享一个应用"
+   },
+   "appDesc": {
+      "message": "一键式安全地单点登录所有应用程序"
+   },
+   "billion": {
+      "message": "十亿,十亿"
+   },
+   "day": {
+      "message": "日"
+   },
+   "hour": {
+      "message": "小时"
+   },
+   "lang": {
+      "message": "zh"
+   },
+   "million": {
+      "message": "百万,百万"
+   },
+   "minute": {
+      "message": "分"
+   },
+   "month": {
+      "message": "月"
+   },
+   "only_32_for_32_mobile": {
+      "message": "仅移动设备"
+   },
+   "or_32_drag_32__38__32_drop_32_it_32_here": {
+      "message": "或将其拖放到此处"
+   },
+   "quadrillion": {
+      "message": "四方,四方"
+   },
+   "quintillion": {
+      "message": "五百亿,五百亿"
+   },
+   "second": {
+      "message": "秒"
+   },
+   "thousand": {
+      "message": "千,千"
+   },
+   "trillion": {
+      "message": "兆,万亿"
+   },
+   "week": {
+      "message": "周"
+   },
+   "year": {
+      "message": "年"
+   }
+}

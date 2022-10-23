@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link href="../skin/jquery-ui-1.9.2.css" media="" rel="stylesheet" type="text/css">
+	<link href="../skin/jquery-ui-logmeonce.css" media="" rel="stylesheet" type="text/css">
+	<link href="../skin/fontawesome-all.min.css" media="" rel="stylesheet" type="text/css">
+	<link href="../skin/ui.css" rel="stylesheet" type="text/css" >
+	<link href="../skin/newtab.css" media="" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="../components/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="../components/jquery-ui-1.9.2.min.js"></script>
+	<script type="text/javascript" src="../components/ui.js"></script>
+	<script type="text/javascript" src="newtab.js"></script>
+</head>
+<body>
+	<div id='wrapper' class='newtab'>
+		<div id='logged' class='logged'>
+			<div class='avatar'></div>
+			<span></span>
+		</div>
+		<div class='content'>
+			<div id='offline' class='offline translate' style='display: none'>Offline mode</div>
+			<div id='logo' class='logo'></div>
+			<form id='search' class='search-panel' autocomplete='off'>
+				<div class='total'>
+					<select id='search-engines' name='engine' class='search-select'>
+						<option class='buildin-icon google' value='http://www.google.com/search?q=%search%' name='Google'>Google</option>
+						<option class='buildin-icon amazon' value='http://www.amazon.com/s/ref=nb_sb_noss?_encoding=UTF8&tag=logmeonce-xp-20&url=search-alias%3Daps&field-keywords=%search%' name='Amazon'>Amazon</option>
+						<option class='buildin-icon aol' value='http://search.aol.com/aol/search?q=%search%' name='AOL'>AOL</option>
+						<option class='buildin-icon bing' value='http://www.bing.com/search?q=%search%' name='Bing'>Bing</option>
+						<option class='buildin-icon yahoo' value='http://search.yahoo.com/search?p=%search%' name='Yahoo'>Yahoo</option>
+					</select>
+				</div>
+				<div class='search'>
+					<button><i class='far fa-search'></i></button>
+					<input id='search-input' type='text' name='search'>
+				</div>
+				<div class='filters'>
+					<a class='filter visible' filter='groups' style='display: inline-block'><span class='translate'>All groups</span></a>
+				</div>
+			</form>
+			<div id='container' class='bottom'></div>
+		</div>
+	</div>
+	<footer>
+		<div>Copyright &copy; <span id='copyright-years'></span> <a href="http://www.logmeonce.com" target="_top">LogMeOnce.com</a> <span class='translate'>All Rights Reserved</span>. </div>
+		<div><a id='homepage' class="translate" target="_top">Homepage</a></div>
+	</footer>
+</body>
+</html>

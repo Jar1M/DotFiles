@@ -1,0 +1,6 @@
+2022/10/23-22:11:03.517 475e Reusing MANIFEST /home/jari/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/10/23-22:11:03.517 475e Recovering log #4
+2022/10/23-22:11:03.521 475e Reusing old log /home/jari/.config/google-chrome/Default/Sync Data/LevelDB/000004.log 
+2022/10/23-22:11:25.978 477d Level-0 table #8: started
+2022/10/23-22:11:26.037 477d Level-0 table #8: 103099 bytes OK
+2022/10/23-22:11:26.042 477d Delete type=0 #4

@@ -1,0 +1,1181 @@
+html, body {
+	font-family: Verdana, sans-serif;
+	font-size: 12px;
+	color: #333;
+	padding: 0;
+	margin: 0;
+}
+:focus, :active {
+	outline:none;
+}
+input, select, textarea, button {
+	position: relative;
+	font-size: 1em;
+	border-radius: 3px;
+	border: 1px solid #a8a8a8;
+	font-family: 'Roboto',Helvetica,Arial,sans-serif;
+	box-sizing: border-box;
+	vertical-align: middle;
+}
+textarea {
+	padding: 8px;
+	resize: none;
+}
+input {
+	padding: 8px;
+}
+select {
+	padding: 7px;
+	vertical-align: middle;
+}
+option.disabled, option[disabled] {
+	color: #aaa;
+}
+input[disabled], input.disabled, select[disabled], select.disabled {
+	color: #444 !important;
+	border: 1px solid #989898 !important;
+	background: #eee !important;
+	text-shadow:none;
+	box-shadow: none;
+	filter: none;
+}
+a, a:visited, .ui-widget-content a { 
+	color: #3B5998; 
+	outline: none; 
+	text-decoration: none;
+	text-shadow: none;
+	cursor: pointer; 
+}
+a.orange {
+	color: #f57f24;
+}
+input.error, select.errror, .select-container.error {
+    border: 1px solid #d44b39 !important;
+}
+input.warning {
+    border: 1px solid #f57f24 !important;
+}
+label.error:empty, label.warning:empty {
+	display: none !important;
+}
+label.error, label.warning {
+	display: block !important;
+	margin: 3px 0;
+	text-shadow: none;
+	white-space: normal;
+	cursor: default !important;
+}
+label.error {
+	color: #d44b39;
+}
+label.warning {
+	color: #f57f24;
+}
+.search-panel {
+	display: table;
+	padding: 10px 0;
+	width: 100%;
+}
+.search-panel + .page-panel, .search-panel + .page-body.panels .page-panel {
+	margin-top: 0;
+} 
+.search-panel.hidden > .search, .search-panel.hidden > .filters {
+	display: none !important;
+}
+.search-panel > div {
+	display: table-cell;
+	vertical-align: middle;
+}
+.search-panel .total {
+	white-space: nowrap;
+    font-size: 1.8em;
+    margin: 0;
+    padding: 0 10px 0 0;
+    width: 10%;
+}
+.search-panel .total select {
+	font-size: 14px;
+	padding: 12px;
+}
+.search-panel .total > span:last-of-type {
+	color: #df6c01;
+	margin: 0 10px;
+}
+.search-panel .search {
+	width: 60%;
+	border-radius: 4px;
+    border: 1px solid #777;
+    position: relative;
+}
+.search-panel .search button {
+    border: 0;
+    background: transparent;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    font-size: 1.4em;
+    width: 50px;
+    color: #777;
+    cursor: pointer;
+}
+.search-panel .search input {
+	width: 100%;
+	height: 40px;
+	font-size: 14px;
+	background: transparent;
+	border: none;
+	padding-left: 40px;
+}
+.search-panel .options {
+	white-space: nowrap;
+    text-align: right;
+    padding-left: 15px;
+}
+.search-panel .options a.option {
+	transition: color 200ms cubic-bezier(0.4,0.0,0.2,1),box-shadow 400ms cubic-bezier(0.4,0.0,0.2,1);
+	display: inline-block;
+    position: relative;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    margin: 0 4px;
+    border-radius: 50%;
+    font-size: 1.5em;
+    color: #666;
+}
+.search-panel .options a.option.disabled {
+	color: #ccc;
+    cursor: unset;
+}
+.search-panel .options a.option i {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.search-panel .options a.option:first-of-type {
+	margin-left: 4px;
+}
+.search-panel .options a.option:only-of-type {
+	margin: 0;
+}
+.search-panel .options a.option:not(.disabled):hover {
+	background: rgba(0,0,0,0.06);
+}
+.search-panel .options a.option:not(.disabled):active, .search-panel .options a.option.selected  {
+	background: rgba(0,0,0,0.12);
+}
+.search-panel .options .select-container {
+	border: 1px solid #777;
+	width: 125px;
+	margin: 5px 0;
+	background: transparent;
+}
+.search-panel .options div.option {
+	display: inline-block;
+    width: auto;
+    max-width: 0px;
+    transition: max-width .8s;
+    overflow: hidden;
+}
+.search-panel .options div.option.init {
+	transition: none;
+}
+.search-panel .options div.option.hover, .search-panel .options div.option.visible {
+    max-width: 200px;
+}
+.search-panel .filters {
+	display: table-row;
+	width: 100%;
+	text-align: left;
+}
+.search-panel .filters:not(.inline)::before {
+	content: " ";
+	display: table-cell;
+}
+.search-panel .filter {
+	display: none;
+	position: relative;
+	color: #333;
+	margin-right: 20px;
+	padding: 4px;
+}
+.search-panel .filter-wrapper {
+	position: relative;
+	overflow: visible !important;
+}
+.search-panel .filter > span {
+    max-width: 170px;
+    display: inline-block;
+    vertical-align: bottom;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.search-panel .filter.filtering {
+	font-weight: bold;
+}
+.search-panel .filter:first-child {
+	padding-left: 0;
+}
+.search-panel .filter::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    margin: -4px 0 0 6px;
+    padding: 2px;
+    border-color: #333;
+    border-style: solid;
+    border-width: 0 1.333px 1.333px 0;
+    transform: rotate(45deg);
+}
+.info {
+	color: #666666;
+	text-shadow: none;
+}
+.select-dialog {
+	padding: 0 !important;
+	overflow: hidden;
+	max-height: 350px;
+}
+.select-dialog.modal {
+	max-height: 100%;
+}
+.select-dialog.autofill td:first-child i {
+	font-size: 1.25em;
+	color: #f57f24;
+}
+.select-dialog .empty{
+	margin: 15px;
+}
+.select-dialog table {
+	width: 100%;
+}
+.select-dialog tr {
+	text-decoration: none;
+	font-size: 14px;
+	cursor: pointer;
+}
+.select-dialog td:not([colspan]):not(:only-child):first-child {
+	padding-right: 0 !important;
+	width: 30px;
+	text-align: center;
+}
+.select-dialog td {
+	padding: 11px 8px;
+	font-size: 13px;
+}
+.select-dialog.modal td {
+	font-size: 14px;
+}
+.select-dialog .icon {
+	background: url(images/default-icon.png) no-repeat center center transparent;
+	width: 16px;
+    height: 16px;
+    margin: auto;
+}
+.select-dialog tr:not(.no-hover):hover {
+	background-color: #e4e4e4;
+}
+.select-dialog tr:not(.no-hover):hover a.more {
+	visibility: visible;
+}
+.select-dialog a.more {
+	visibility: hidden;
+}
+.select-dialog .info {
+	font-size: 12px;
+}
+.select-dialog .search-panel {
+    box-sizing: border-box;
+	padding: 5px;
+}
+.select-dialog .search button {
+	font-size: 1.2em;
+	width: 35px;
+}
+.select-dialog .search input {
+	font-size: 1em;
+	height: auto;
+	padding-left: 30px;
+}
+.select-dialog .note {
+    display: inline-block;
+	max-height: 2.3em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.image-key {
+	background: url(images/key.png) no-repeat;
+	width: 70px;
+	height: 65px;
+}
+.image-lock {
+	background: url(images/lock.png);
+	width: 86px;
+	height: 91px;
+}
+.icon-left {
+	float: left;
+	margin-right: 3px;	
+}
+.ui-contextmenu .fa-trash-alt {
+	color: #d43f3a;
+}
+.ui-contextmenu .fa-edit, .ui-contextmenu .fa-caret-square-right {
+	color: #2655a1;
+}
+.ui-contextmenu .fa-share-alt {
+	color: #f57f24;
+}
+.ui-contextmenu .fa-child {
+	color: #f57f24;
+	margin-left: 1px !important;
+}
+.ui-contextmenu .fa-copy, .ui-contextmenu .fa-arrow-alt-down, .ui-contextmenu .fa-sign-in-alt, .ui-contextmenu .fa-sticky-note {
+	color: #666;
+}
+.flipswitch {
+	background-color: #e9e9e9;
+	border-color: #ddd;
+	color: #333;
+	text-shadow: 0 1px 0 #eee;
+	font-weight: 700;
+	display: inline-block;
+	vertical-align: middle;
+	width: 6.2em;
+	height: 2.2em;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 10px;
+	overflow: hidden;
+	transition-property: padding,width,background-color,color,border-color;
+	transition-duration: 100ms;
+	user-select: none;
+	cursor: pointer;
+}
+.flipswitch.checked {
+	padding-left: 4em;
+	width: 2.2em;
+	background-color: #f57f24;
+	border-color: #f57f24;
+	color: #fff;
+	text-shadow: 0 1px 0 #ce6515;
+}
+.flipswitch.label {
+	padding-left: 0;
+	width: 5.875em;
+	cursor: default;
+}
+.flipswitch.disabled {
+	filter: Alpha(Opacity=30);
+	opacity: .3;
+	cursor: default !important;
+	pointer-events: none;
+}
+.flipswitch input {
+	position: absolute;
+	height: 1px;
+	width: 1px;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(1px,1px,1px,1px);
+	border: 0;
+	outline: 0;
+	filter: Alpha(Opacity=0);
+	opacity: 0;
+}
+.flipswitch label {
+	line-height: 2.2em;
+}
+.flipswitch a {
+	width: 1.975em;
+	padding: 0;
+	text-indent: -2.6em;
+	text-align: left;
+	border-width: 1px;
+	border-style: solid;
+	box-sizing: border-box;
+	border-radius: inherit;
+	overflow: visible;
+	color: inherit !important;
+	text-shadow: inherit;
+	float: left;
+	height: 1.975em;
+	margin: 0.1125em;
+	line-height: 1.65em;
+	background-color: #fafafa;
+	border-color: #ddd;
+	text-decoration: none;
+}
+.flipswitch span {
+	padding: 1px;
+	text-indent: 1em;
+	float: left;
+	height: 1.975em;
+	margin: .0625em;
+	line-height: 1.875em;
+	color: #333;
+	text-shadow: 0 1px 0 #eee;
+	font-weight: 700;
+}
+.ad {
+	position: fixed;
+	z-index: 1001;
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+
+.ad > .middle {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: right;
+}
+
+.ui-notification {
+	padding: 0 !important;
+	font-size: 12px;
+}
+.ui-notification .message {
+	padding: 10px;
+}
+.login-list {
+    white-space: nowrap;
+}
+.login-list button {
+	position: relative;
+    background-color: #dfe4eb;
+    border: 0 !important;
+    cursor: pointer;
+    padding: 8px;
+    margin: 0 4px 2em 4px;
+    overflow: visible;
+}
+.login-list button::before {
+	content: "";
+	display: inline-block;
+	width: 30px;
+    height: 30px;
+	background-image: url(images/auth.png) !important;  
+    background-repeat: no-repeat;
+    background-position: -30px 0;
+    background-size: 72px;
+}
+.login-list button.hidden {
+	display: none;
+}
+.login-list button.active {
+    background-color: #f57f24;
+}
+.login-list button.active::before {
+    background-position-x: 0;
+}
+.login-list button.push-fingerprint::before {
+	background-position-y: -30px;
+}
+.login-list button.qr::before {
+	background-position-y: -60px;
+}
+.login-list button.push-pin::before {
+	background-position-y: -120px;
+}
+.login-list button.mobileconnect::before {
+	background-position-y: -150px;
+}
+.login-list button.password::before {
+	background-position-y: -90px;
+}
+.login-list button.security-question::before {
+	background-position-y: -180px;
+}
+.login-list button.push-face::before {
+	background-position-y: -240px;
+}
+.login-list button > div {
+    position: absolute;
+    left: 50%;
+    top: 100%;
+    font-size: 0.83em;
+    transform: translate(-50%, 0);
+    display: table;
+    min-height: 20px;
+    padding: 1px;
+    white-space: normal;
+}
+.login-list button > div > span {
+	display: table-cell;
+	vertical-align: middle;
+}
+.mc > div {
+	margin: 15px 0;
+}
+.mc > div:first-child {
+	margin: 10px 0;
+	font-size: 16px;
+}
+.mc .buttons {
+	width: 70%; 
+	margin: auto; 
+	text-align: center;
+}
+.mc .or-horizontal {
+	margin: 20px auto;
+}
+.mc a {
+	font-size: 14px;
+}
+.verification button {
+	margin-right: 5px;
+}
+.verification .body {
+	display: none;
+	text-align: center;
+	margin-top: 8px;
+}
+.verification .body > span {
+	font-weight: bold;
+	margin-right: 5px;
+}
+.verification .body > input {
+	width: 160px;
+}
+.verification .spinner span {
+	margin-left: 4px;	
+}
+.error {
+	color: red;
+}
+.credit-card {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	position: relative;
+	background: url(images/wallet/credit-card.png);
+	background-size: contain;
+	border-radius: 10px;
+	text-shadow: 0 2px 1px rgba(0, 0, 0, 0.5);
+	color: #ffffff;
+	overflow: hidden;
+}
+.credit-card::before {
+	content: "";
+	position: absolute;
+	background: url(images/wallet/chip.png) no-repeat;
+	background-size: contain;
+	width: 20%;
+	height: 20%;
+	top: 34%;
+	left: 10%;
+}
+.credit-card:after {
+	content: "";
+	display: block;
+	padding-top: 56.16%; /* 600x337 ratio */ 
+}
+.credit-card > span {
+	position: absolute;
+}
+.credit-card > input {
+	display: none;
+}
+.credit-card .number {
+	top: 37%;
+	left: 27%;
+	font-size: 1.23em;
+}
+.credit-card .name {
+	text-transform: uppercase;
+	bottom: 7%;
+	left: 7%;
+}
+.credit-card .expires {
+	top: 60%;
+	right: 20%;
+}
+.credit-card .expires::before {
+	content: "VALID THRU";
+	position: absolute;
+    top: 25%;
+    right: 110%;
+    font-size: 0.35em;
+    font-weight: bold;
+    font-family: Verdana;
+    text-shadow: none;
+}
+.credit-card .expires span:first-child::after {
+	content: "/";
+}
+.credit-card .type {
+	top: 5%;
+	right: 5%;
+	width: 28%;
+	height: 28%;
+}
+.credit-card .type.visa {
+	background: url(images/wallet/visa.png) no-repeat right;
+	background-size: contain;
+}
+.credit-card .type.mastercard {
+	background: url(images/wallet/mastercard.png) no-repeat right;
+	background-size: contain;
+}
+.credit-card .type.american-express {
+	background: url(images/wallet/american-express.png) no-repeat right;
+	background-size: contain;
+}
+.credit-card .type.diners-club {
+	background: url(images/wallet/diners-club.png) no-repeat right;
+	background-size: contain;
+}
+.credit-card .type.discover {
+	background: url(images/wallet/discover.png) no-repeat right;
+	background-size: contain;
+}
+.credit-card .type.jcb {
+	background: url(images/wallet/jcb.png) no-repeat right;
+	background-size: contain;
+}
+.credit-card .issuer {
+	text-transform: capitalize;
+	top: 7%;
+	left: 7%;
+}
+.card-list {
+	margin: 0;
+	padding: 0;
+	max-height: 300px;
+	overflow: auto !important;
+}
+.card-list li {
+	display: block;
+	float: left;
+}
+.card-list li.empty {
+	margin: 15px;
+}
+.card-list .credit-card {
+	margin: 5px;
+	cursor: pointer;
+	font-size: 12px; 
+}
+.card-list .credit-card:hover, .card-list .credit-card.selected {
+	box-shadow: 0 0 8px 5px rgba(0,0,0,0.5)
+}
+.import-instructions p {
+	font-weight: bold;	
+}
+.import-instructions p > span {
+	font-weight: normal;
+}
+.import-instructions .content {
+	display: table;
+}
+.import-instructions .content::before {
+	content: "";
+	background: url(images/importing.jpg) no-repeat;
+	width: 250px;
+	height: 195px;	
+}
+.import-instructions .content::before, .import-instructions .content > * {
+	display: table-cell;
+	vertical-align: middle;
+}
+.import-instructions.progress {
+	text-align: center;
+	height: auto;
+	padding: 20px 0 30px 0;
+	minHeight: 0;
+}
+.import-instructions .ui-progressbar {
+	display: inline-block; 
+	width: 200px; 
+	height: 18px; 
+	position: relative; 
+	top: 6px;
+	margin: 0 6px;
+}
+.import-ui {
+	text-align: center;
+	height: auto !important;
+	padding: 0 0 5px 0 !important;
+	overflow: hidden !important;
+}
+.import-ui.sites th.name, .import-ui.sites td.name {
+	width: 40%;
+}
+.import-ui.nosites th.password {
+	display: none;
+}
+.import-ui .ui-progressbar {
+	display: inline-block; 
+	width: 300px; 
+	height: 20px; 
+	margin: 0 6px;
+	border: 0; 
+	background: #e7e7e7;
+	vertical-align: middle;
+}
+.import-ui .ui-progressbar .ui-progressbar-value {
+	background: #f57f24	
+}
+.import-ui .status {
+	margin: 5px;
+}
+.import-ui .status span {
+	vertical-align: middle;
+}
+.import-ui .status .password-strength {
+	display: inline-block; 
+	position: relative; 
+}
+.import-table {
+	table-layout: fixed;
+	text-align: left; 
+	width: 100%; 
+}
+.import-table th {
+	background-color: #f2f3f3;
+}
+.import-table td, .import-table th {
+	padding: 6px 3px;
+	overflow: hidden;
+	text-align: left;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.import-table + div {
+	max-height: 330px; 
+	overflow-y: overlay; 
+	overflow-x: hidden;
+	border-bottom: 1px solid #f2f3f3;
+}
+.import-table th:first-child, .import-table td:first-child {
+	width: 20px;
+}
+.import-table .fa-fw {
+	margin-right: 3px;
+}
+.color-error { 
+	color: #d43f3a !important;
+}
+.color-success {
+	color: #48A513 !important;
+}
+.btn, a.btn {
+	color: #fff;
+	display: inline-block;
+	white-space: nowrap;
+	border: 1px solid transparent;
+	cursor: pointer;
+	letter-spacing: 0.2px;
+	border-radius: 3px;
+	transition: opacity .1s ease,background-color .3s ease,color .3s ease,box-shadow .3s ease;
+	text-decoration: none;
+	vertical-align: middle;
+	font-family: 'Roboto',Helvetica,Arial,sans-serif;
+	font-size: 1.1em;
+	padding: 7px 12px;
+	position: relative;
+}
+.btn .fa + span, .btn .far + span, .btn .fas + span, .btn .fal + span {
+	margin-left: 4px;
+}
+.btn.btn-block {
+	display: block;
+	margin: 8px 0 4px 0;
+	width: 100%;
+}
+.btn.small {
+	font-size: 1em;
+	padding: 3px 10px;
+}
+.btn.large {
+	font-size: 1.2em;
+	padding: 11px 15px;
+}
+.btn.disabled, .btn:disabled {
+	opacity: 0.6;
+	box-shadow: none;
+	cursor: default;
+}
+.btn.green, .btn.btn-save, .btn.green:disabled:hover, .btn.btn-save:disabled:hover {
+	background-color: #28a745;
+}
+.btn.green:hover, .btn.btn-save:hover {
+	background-color: #218c3a;
+}
+.btn.green:active, .btn.btn-save:active {
+	background-color: #1e7e34;
+}
+.btn.blue, .btn.blue:disabled:hover {
+	background-color: #24b3f3;
+}
+.btn.blue.btn-outline:not(:hover):not(:active) {
+    color: #0a82b8;
+    border-color: #0a82b8;
+    background-color: transparent;
+}
+.btn.blue:hover {
+	background-color: #0da4e8;
+}
+.btn.blue:active {
+	background-color: #0c99d8;
+}
+.btn.red, .btn.btn-delete, .btn.red:disabled:hover, .btn.btn-delete:disabled:hover {
+	background-color: #db2828;
+}
+.btn.red:hover, .btn.btn-delete:hover {
+	background-color: #c12020;
+}
+.btn.red:active, .btn.btn-delete:active {
+	background-color: #b21e1e;
+}
+.btn.grey, .btn.btn-cancel, .btn.grey:disabled:hover, .btn.btn-cancel:disabled:hover {
+	background-color: #9697a7;
+}
+.btn.grey.btn-outline:not(:hover):not(:active) {
+    color: #7a7c90;
+    border-color: #7a7c90;
+    background-color: transparent;
+}
+.btn.grey:hover, .btn.btn-cancel:hover {
+	background-color: #848598;
+}
+.btn.grey:active, .btn.btn-cancel:active {
+	background-color: #7a7c90;
+}
+.btn.orange, .btn.orange:disabled:hover {
+	background-color: #f57f24;
+}
+.btn.orange.btn-outline:not(:hover):not(:active), div.btn.orange.btn-outline:hover, div.btn.orange.btn-outline:active {
+    color: #f57f24;
+    border-color: #f57f24;
+    background-color: transparent;
+}
+.btn.orange:hover {
+	background-color: #ec6d0b;
+}
+.btn.orange:active {
+	background-color: #dc650a;
+}
+.about-status span, .about-status a {
+	margin-left: 4px;
+}
+.password-strength {
+	display: table;
+    position: relative;
+    border-spacing: 0px;
+    border-collapse: separate;
+    width: 100%;
+    white-space: nowrap;
+}
+.password-strength.outer {
+	display: block;
+}
+.password-strength > div {
+	display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+    position: relative;
+    border-radius: 4px;
+    text-align: left;
+}
+.password-strength.outer > div {
+	display: inline-block;
+}
+.password-strength .bar {
+	height: inherit;
+	overflow: hidden;
+}
+.password-strength .bar::before {
+	content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: inherit;
+    border-radius: 4px;
+    background: #e7e7e7;
+}
+.password-strength .bar span {
+    display: block;
+    height: inherit;
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+    color: #fff;
+}
+.password-strength .bar .score {
+	left: 5px;
+	z-index: 10;
+}
+.password-strength .score {
+	display: block;
+    font-size: 8px;
+    font-weight: bold;
+    line-height: 10px;
+    color: #333;
+}
+.password-strength .text {
+	display: block;
+    font-size: 10px;
+    line-height: 10px;
+    white-space: nowrap;
+}
+.password-strength .strength.inner {
+	position: absolute;
+    right: -5px;
+}
+.password-strength .strength.outer:not(:first-child) {
+    padding: 0px 2px 0px 8px;
+}
+.encourage {
+	margin: 7px 0;
+}
+.encourage > div:first-child {
+	font-size: 14px; 
+	font-weight: bold;
+	color: red;
+}
+.password-generator .password {
+	position: relative
+}
+.password-generator.large > .small, .password-generator.small > .large, .password-generator.small + .ui-dialog-buttonpane {
+	display: none;
+}
+.password-generator .small {
+	text-align: center;
+}
+.password-generator .small button {
+	margin: 1em 0;
+}
+.password-generator .password input {
+	width: 100%;
+	background: transparent;
+    border: 0;
+    border-bottom: 1px solid #a8a8a8;
+    border-radius: 0;
+    font-size: 2em;
+    padding: 10px 4em 10px 10px;
+}
+.password-generator .password i {
+	cursor: pointer;
+	float: right;
+    top: -2.3em;
+    position: relative;
+    margin: 0 4px;
+    font-size: 1.2em;
+}
+.password-generator .password-length {
+	display: table;
+	padding: 1em 0;
+}
+.password-generator .password-score .ttc {
+	font-size: 1em !important;
+}
+.password-generator .password-length > div {
+	display: table-cell;
+	white-space: nowrap;
+	position: relative;
+}
+.password-generator .password-length > div:nth-child(2) {
+	padding: 10px 8px;
+}
+.password-generator .password-length > div:nth-child(3) {
+	width: 100%;
+}
+.password-generator .password-length input {
+	width: 45px;
+	padding: 6px 8px;
+}
+.password-generator .password-length span.info {
+	display: block;
+    position: absolute;
+    bottom: 3px;
+    left: 0;
+    font-size: 0.9em;
+}
+.password-generator .password-policy {
+	width: 100%;
+    table-layout: fixed;
+    text-align: center;
+}
+.password-generator .password-policy td {
+	padding: 0;
+}
+.autofill .back {
+	margin: 11px 0 4px 8px;
+}
+.autofill .back span {
+	margin-left: 4px;
+}
+.autofill .mapping h4 {
+	margin: 10px 0 10px 15px;
+}
+.autofill .items td:first-child {
+	width: 20px !important;
+}
+.autofill .items td.info {
+    border-bottom: 1px solid #ccc;
+    color: #7a7c90;
+    cursor: default;
+}
+.autofill .items i {
+	font-size: 1em !important;
+	visibility: hidden;
+	color: #7a7c90 !important;
+}
+.autofill .items tr:hover i {
+	visibility: visible;
+}
+.autofill .items .mapped i {
+	font-size: 1.25em !important;
+	visibility: visible;
+}
+.autofill .items .mapped i.status {
+	color: #28a745 !important;
+}
+.autofill .items .mapped .delete i {
+	color: #db2828 !important;
+	cursor: pointer;
+}
+.autofill .items .mapped .status, .autofill .items tr:hover .mapped .delete {
+	display: inline-block;
+}
+.autofill .items .mapped .delete, .autofill .items tr:hover .mapped .status {
+	display: none;
+}
+.loading-fa {
+	background: none;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+}
+.loading-fa i {
+	vertical-align: middle;
+}
+.loading-fa .fa-qrcode {
+	display: block;
+	text-align: center;	
+}
+.loading-fa > span {
+	vertical-align: middle;
+	margin-left: 4px;
+}
+.manual p i + span,
+.manual p i + b {
+	margin-left: 4px;
+}
+.manual .fields {
+	width: 100%; 
+	padding: 10px 0
+}
+.about .logo{
+	background: url(images/logo.png) no-repeat center center;
+	background-size: contain;
+	width: 250px;
+	height: 80px;
+	top: 0;
+	left: 0;
+	margin: auto;
+}
+.about > div {
+	padding: 0 20px;
+}
+.about table {
+	width: 100%;
+}
+.about td {
+	text-align: center; 
+	width: 33%
+}
+.logs textarea {
+	width: 100%; 
+	height: 400px; 
+	resize: vertical
+}
+.logs textarea:first-of-type {
+	height: 4em;
+}
+.message-dialog {
+	z-index: 2002 !important;
+}
+.message-dialog + .ui-widget-overlay {
+	z-index: 2001 !important;	
+}
+.message-dialog .ui-dialog-content {
+    padding: 2em !important;
+    min-height: auto !important;
+}
+.message-dialog .ui-dialog-content > span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+.message-dialog .more {
+	line-height: normal;
+}
+.message-dialog .more a {
+	color: #3B5998;
+	padding-left: 3px;
+}
+.qrcode .fa + span {
+	margin-left: 4px;
+}
+.input-opts {
+	white-space: nowrap;
+}
+.input-opts i {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 14px;
+	margin: 0 6px;
+	cursor: pointer;
+}
+.input-totp {
+	position: relative;
+	font-size: 1em;
+	border-radius: 3px;
+	border: 1px solid #a8a8a8;
+	font-family: 'Roboto',Helvetica,Arial,sans-serif;
+	box-sizing: border-box;
+	vertical-align: middle;
+	padding: 5px 8px 5px 8px;
+	display: inline-block;
+	width: 75%;
+}
+.input-totp span {
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Consolas;
+    letter-spacing: 1px;
+    margin-right: 10px;
+}
+.circle-svg {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 1px 4px 0 4px;
+}
+.circle-svg .outer {
+	fill: none;
+	stroke-width: 4px;
+	stroke: #ccc;
+}
+.circle-svg .inner {
+	fill: none;
+	stroke-width: 4px;
+	stroke: #222222;
+	stroke-dasharray: 60;
+	stroke-dashoffset: 0;
+	transition: stroke-dashoffset 1s linear;
+}
+.circle-svg .inner.nt {
+	transition: none !important;
+}
