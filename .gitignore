@@ -2,6 +2,7 @@ gh/
 .ssh/
 .pki/
 tmp/
+**/nvim/
 Download
 .Xauthority
 .bash_logout
