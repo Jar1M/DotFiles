@@ -2,4 +2,5 @@
 
 #include "/home/jari/Xresources.d/fontconfig"
 #include "/home/jari/Xresources.d/urxvt"
-#include "/home/jari/Xresources.d/urxvt-onedark"
+!#include "/home/jari/Xresources.d/urxvt-onedark"
+#include "/home/jari/Xresources.d/urxvt-dracula"

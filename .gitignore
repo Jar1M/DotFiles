@@ -1,4 +1,7 @@
 gh/
+.m2/
+.python_history
+jgit
 .ssh/
 .pki/
 tmp/
